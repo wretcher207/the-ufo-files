@@ -46,11 +46,11 @@ Useful for the LinkedIn audience that takes "regional combatant commands submitt
 
 ## Connections
 
-- `pursue-program`
-- `aaro`
-- `department-of-war`
-- `2026-05-08-pentagon-ufo-files-cbs`
-- `2026-05-08-newspaceeconomy-pursue-analysis` — The "what unresolved actually means" companion read.
+- [PURSUE program](../../context/pursue-program.md)
+- [AARO](../../context/aaro.md)
+- [Department of War](../../context/department-of-war.md)
+- [CBS News coverage](cbs-news.md)
+- [New Space Economy — what 'unresolved' means](newspaceeconomy-analysis.md) — The "what unresolved actually means" companion read.
 
 ## Open Questions
 

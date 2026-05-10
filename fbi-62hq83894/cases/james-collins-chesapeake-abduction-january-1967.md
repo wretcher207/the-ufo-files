@@ -71,7 +71,7 @@ The standard Hoover-era 16-named-senior-officials distribution list is preserved
 
 4. **The Bureau's evaluative posture is structurally interesting.** "Spoke in a coherent manner" + "appeared to be under certain emotional strain" + "had not been drinking any intoxicants" + "unable to account for the time" + "no recollection of being elsewhere." The Bureau noted internal-consistency in the witness's coherent speech, an emotional-strain marker, an explicit non-intoxication claim, and the time-loss element. **Standard tradecraft language for evaluating any witness statement** — not specifically deflationary, not specifically validating, just on-the-record description.
 
-5. **Sixteen-named-senior-officials distribution at REC level.** Tolson / DeLoach / Mohr / Wick / Casper / Callahan / Conrad / Felt / Gale / Rosen / Sullivan / Tavel / Trotter / Tele. Room / Holmes / Gandy. The full Hoover-era senior-distribution list — same as the Brassington reply (October 13 1969, `2026-05-08-fbi-62hq83894-section-10-1966-1973-civilian-correspondent-cluster-post-blue-book`) and the standard mid-1960s civilian-correspondence handling. The Bureau treated Collins's abduction report at the same operational tier as routine UAP correspondence — no exceptional escalation, but no dismissal either.
+5. **Sixteen-named-senior-officials distribution at REC level.** Tolson / DeLoach / Mohr / Wick / Casper / Callahan / Conrad / Felt / Gale / Rosen / Sullivan / Tavel / Trotter / Tele. Room / Holmes / Gandy. The full Hoover-era senior-distribution list — same as the Brassington reply (October 13 1969, [section-10-1966-1973-civilian-correspondent-cluster-post-blue-book](section-10-1966-1973-civilian-correspondent-cluster-post-blue-book.md)) and the standard mid-1960s civilian-correspondence handling. The Bureau treated Collins's abduction report at the same operational tier as routine UAP correspondence — no exceptional escalation, but no dismissal either.
 
 6. **First-time Bureau correspondent.** "A check of Bureau indices did not disclose any information which could be identified with Collins." Collins is not a known recurring UAP correspondent like the Hatten/Fisher/Pervier/Welton/Stephens cluster (passes 17, 22, 28). His TV-repair-shop business address (Oak Grove T.V., 6424 Great Bridge Road, Chesapeake VA) and home address (212 Sharon Drive) are concrete, verifiable, and not associated with prior Bureau intake. **Clean baseline witness from the Bureau's records perspective.**
 
@@ -85,13 +85,13 @@ The standard Hoover-era 16-named-senior-officials distribution list is preserved
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-fbi-62hq83894-section-10-1966-1973-civilian-correspondent-cluster-post-blue-book`
-- `2026-05-08-fbi-62hq83894-civilian-correspondence-hoover-pattern-1949-1950`
-- `pursue-program`
-- `aaro`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [section-10-1966-1973-civilian-correspondent-cluster-post-blue-book](section-10-1966-1973-civilian-correspondent-cluster-post-blue-book.md)
+- [civilian-correspondence-hoover-pattern-1949-1950](civilian-correspondence-hoover-pattern-1949-1950.md)
+- [PURSUE program](../../context/pursue-program.md)
+- [AARO](../../context/aaro.md)
 - `fbi`
-- `uap-disclosure`
+- [UAP disclosure (concept)](../../context/uap-disclosure.md)
 
 ## Open Questions
 

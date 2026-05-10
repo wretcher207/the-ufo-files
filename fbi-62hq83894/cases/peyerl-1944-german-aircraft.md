@@ -67,13 +67,13 @@ Peyerl's assessment: KUEHR was apprehended by Allied Forces upon the termination
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory` — full PURSUE Release 01 file inventory
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md) — full PURSUE Release 01 file inventory
 - `fbi-62hq83894-full-inventory` — complete FBI 62-HQ-83894 case-mining index
-- `2026-05-08-fbi-62hq83894-davidson-brown-crash-mission-report` — WWII-era aircraft investigation baseline (1947 B-25 crash during Maury Island investigation)
+- [davidson-brown-crash-mission-report](davidson-brown-crash-mission-report.md) — WWII-era aircraft investigation baseline (1947 B-25 crash during Maury Island investigation)
 - `2026-05-08-fbi-62hq83894-spring-brown-cic-cluster-pre-maury-island-1947` — 4AF CIC investigation protocol operational context
-- `2026-05-08-fbi-62hq83894-section-10-1966-1973-civilian-correspondent-cluster-post-blue-book` — post-Blue Book civilian correspondence handling
-- `aaro`
-- `pursue-program`
+- [section-10-1966-1973-civilian-correspondent-cluster-post-blue-book](section-10-1966-1973-civilian-correspondent-cluster-post-blue-book.md) — post-Blue Book civilian correspondence handling
+- [AARO](../../context/aaro.md)
+- [PURSUE program](../../context/pursue-program.md)
 
 ## Open Questions
 

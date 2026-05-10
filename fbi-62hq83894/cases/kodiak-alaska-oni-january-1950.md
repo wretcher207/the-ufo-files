@@ -142,12 +142,12 @@ The acknowledgement is the exact pattern that pass 7 (Rhodes Phoenix), pass 9 (C
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-fbi-62hq83894-frank-scully-communist-teletype-october-1950` — pass 21. Both documents share the November 23, 1964 "COPIES DESTROYED 270" stamp; the Kodiak ONI report finding extends pass 21's destruction-stamp open question toward the general-housekeeping resolution.
-- `2026-05-08-fbi-62hq83894-muroc-1947-cic-affidavits` — pass 4. Multi-witness multi-day military-aircraft cluster pattern, established at Muroc July 7-8 1947, appears again at Kodiak January 22-23 1950 with radar-evidence dimension added.
-- `2026-05-08-fbi-62hq83894-belmont-twinkle-master-memo-osi-log-1949-1950` — pass 11. Belmont's three-type taxonomy (green fireballs / discs / meteors) was published August 23, 1950 — six months after the Kodiak ONI report. Smith's "two orange lights rotating about a common center", Morgan/Carver's "ball of fire", and Causer/Barco's "pulsating orange yellow projectile shaped flame" predate Belmont's taxonomy and would have been data inputs to it.
-- `2026-05-08-fbi-62hq83894-oak-ridge-gasser-atomic-propulsion-1947-1949` — pass 8. Same operational pattern of the Bureau's standing-distribution receipt of military-intelligence UAP reports.
-- `2026-05-08-fbi-62hq83894-rhodes-phoenix-photographs-1947` — pass 7. Officer-level honest-gap acknowledgment ("I have no explanation as to X") appears in writing in both reports. Rhodes' SA Brower's compliance-under-protest documented; Kodiak's ONI officer's "exact nature of which could not be determined by this office" documented.
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [frank-scully-communist-teletype-october-1950](frank-scully-communist-teletype-october-1950.md) — pass 21. Both documents share the November 23, 1964 "COPIES DESTROYED 270" stamp; the Kodiak ONI report finding extends pass 21's destruction-stamp open question toward the general-housekeeping resolution.
+- [muroc-1947-cic-affidavits](muroc-1947-cic-affidavits.md) — pass 4. Multi-witness multi-day military-aircraft cluster pattern, established at Muroc July 7-8 1947, appears again at Kodiak January 22-23 1950 with radar-evidence dimension added.
+- [belmont-twinkle-master-memo-osi-log-1949-1950](belmont-twinkle-master-memo-osi-log-1949-1950.md) — pass 11. Belmont's three-type taxonomy (green fireballs / discs / meteors) was published August 23, 1950 — six months after the Kodiak ONI report. Smith's "two orange lights rotating about a common center", Morgan/Carver's "ball of fire", and Causer/Barco's "pulsating orange yellow projectile shaped flame" predate Belmont's taxonomy and would have been data inputs to it.
+- [oak-ridge-gasser-atomic-propulsion-1947-1949](oak-ridge-gasser-atomic-propulsion-1947-1949.md) — pass 8. Same operational pattern of the Bureau's standing-distribution receipt of military-intelligence UAP reports.
+- [rhodes-phoenix-photographs-1947](rhodes-phoenix-photographs-1947.md) — pass 7. Officer-level honest-gap acknowledgment ("I have no explanation as to X") appears in writing in both reports. Rhodes' SA Brower's compliance-under-protest documented; Kodiak's ONI officer's "exact nature of which could not be determined by this office" documented.
 - `oni`
 - `bruce-maccabee`
 - `fbi`

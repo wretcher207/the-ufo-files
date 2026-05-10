@@ -77,12 +77,12 @@ The document is stamped CONFIDENTIAL COPY and carries the case reference 62-8389
 
 ## Connections
 
-- `2026-05-08-fbi-62hq83894-springer-brown-cic-cluster-pre-maury-island-1947` — the 30-page Hamilton Field CIC cluster this document is part of (Brown's interview memo, Exhibit A, Exhibit B, Smith and Baker interviews)
-- `2026-05-09-fbi-62hq83894-kenneth-arnold-sighting-narrative-cascade-june-1947` — Arnold's contemporaneous first-person sighting narrative (Exhibit A, pages 164-167), the companion document to this biographical statement
-- `2026-05-08-fbi-62hq83894-maury-island-1947` — three weeks after this interview, Brown and Davidson died on the Maury Island return flight; this document predates that event
-- `2026-05-08-fbi-62hq83894-dewayne-johnson-ucla-dissertation-arnold-second-pass-1950` — second-pass preservation of the Arnold sighting narrative at 35-month remove via UCLA dissertation submission, confirming the biographical and observational record held consistent
-- `2026-05-09-fbi-62hq83894-wenyon-rehoboth-delaware-1946` — Wenyon's pre-Arnold sightings, for which no institutional credibility assessment was attempted; contrast with this document's systematic credential architecture
-- `2026-05-08-pursue-release-01-full-inventory`
+- [springer-brown-cic-cluster-pre-maury-island-1947](springer-brown-cic-cluster-pre-maury-island-1947.md) — the 30-page Hamilton Field CIC cluster this document is part of (Brown's interview memo, Exhibit A, Exhibit B, Smith and Baker interviews)
+- [kenneth-arnold-sighting-narrative-cascade-june-1947](kenneth-arnold-sighting-narrative-cascade-june-1947.md) — Arnold's contemporaneous first-person sighting narrative (Exhibit A, pages 164-167), the companion document to this biographical statement
+- [maury-island-1947](maury-island-1947.md) — three weeks after this interview, Brown and Davidson died on the Maury Island return flight; this document predates that event
+- [dewayne-johnson-ucla-dissertation-arnold-second-pass-1950](dewayne-johnson-ucla-dissertation-arnold-second-pass-1950.md) — second-pass preservation of the Arnold sighting narrative at 35-month remove via UCLA dissertation submission, confirming the biographical and observational record held consistent
+- [wenyon-rehoboth-delaware-1946](wenyon-rehoboth-delaware-1946.md) — Wenyon's pre-Arnold sightings, for which no institutional credibility assessment was attempted; contrast with this document's systematic credential architecture
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
 
 ## Open Questions
 

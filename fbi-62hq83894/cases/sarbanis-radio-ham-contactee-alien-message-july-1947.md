@@ -75,12 +75,12 @@ The FBI Liaison Section (SAC Scheidt) recommended closure with minimal further e
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory` — full PURSUE Release 01 file inventory
-- `2026-05-09-fbi-62hq83894-full-inventory` — complete FBI 62-HQ-83894 case-mining index
-- `2026-05-10-fbi-62hq83894-government-secret-experiment-theory-august-1947` — Garrett memo (same month, same archive) treating hypothesis seriously at inter-agency level
-- `2026-05-09-fbi-62hq83894-kenneth-arnold-cascade-1947` — Kenneth Arnold case (pass 38) media cascade that contextualizes Altschul's "publicity hypothesis" observation
-- `2026-05-09-fbi-62hq83894-portland-police-department-september-1947` — Portland Police multi-witness cluster (same month, same regional wave)
-- `2026-05-08-fbi-62hq83894-civilian-correspondence-hoover-pattern-1949-1950` — Later contactee correspondence handling baseline
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md) — full PURSUE Release 01 file inventory
+- [FBI 62-HQ-83894 case index](../full-inventory.md) — complete FBI 62-HQ-83894 case-mining index
+- [government-secret-experiment-theory-august-1947](government-secret-experiment-theory-august-1947.md) — Garrett memo (same month, same archive) treating hypothesis seriously at inter-agency level
+- [kenneth-arnold-cascade-1947](kenneth-arnold-cascade-1947.md) — Kenneth Arnold case (pass 38) media cascade that contextualizes Altschul's "publicity hypothesis" observation
+- [portland-police-department-september-1947](portland-police-department-september-1947.md) — Portland Police multi-witness cluster (same month, same regional wave)
+- [civilian-correspondence-hoover-pattern-1949-1950](civilian-correspondence-hoover-pattern-1949-1950.md) — Later contactee correspondence handling baseline
 
 ## Open Questions
 

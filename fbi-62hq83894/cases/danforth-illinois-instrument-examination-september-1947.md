@@ -77,10 +77,10 @@ Colonel Garrett's statement preserved the institutional confusion:
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-09-fbi-62hq83894-stanfield-lapaz-holloman-february-1950` — Military-scientist escalation pathway that prompted institutional protocol response (Post-Danforth institutional learning)
-- `2026-05-09-fbi-62hq83894-pre-scully-crashed-saucer-rumor-network-march-april-1950` — Institutional rumor-network vetting infrastructure (Extension of Danforth-era coordination model)
-- `2026-05-09-fbi-62hq83894-cabell-afoic-cc-1-multi-agency-protocol-september-1950` — Formalized multi-agency protocol (Institutional maturation of Sept 1947 ad-hoc coordination)
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [stanfield-lapaz-holloman-february-1950](stanfield-lapaz-holloman-february-1950.md) — Military-scientist escalation pathway that prompted institutional protocol response (Post-Danforth institutional learning)
+- [pre-scully-crashed-saucer-rumor-network-march-april-1950](pre-scully-crashed-saucer-rumor-network-march-april-1950.md) — Institutional rumor-network vetting infrastructure (Extension of Danforth-era coordination model)
+- [cabell-afoic-cc-1-multi-agency-protocol-september-1950](cabell-afoic-cc-1-multi-agency-protocol-september-1950.md) — Formalized multi-agency protocol (Institutional maturation of Sept 1947 ad-hoc coordination)
 - `Entity: Major Hopkins`
 - `Entity: Mrs. Whedon`
 - `Entity: Wright Field`

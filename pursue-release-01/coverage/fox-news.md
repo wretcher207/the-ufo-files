@@ -44,11 +44,11 @@ Documents the administration messaging strategy. Useful for the "skeptical reade
 
 ## Connections
 
-- `pursue-program`
-- `pete-hegseth`
-- `department-of-war`
-- `2026-05-08-pentagon-ufo-files-cbs` — More technically detailed companion.
-- `2026-05-08-tyson-anticlimactic-prediction` — Counter-frame.
+- [PURSUE program](../../context/pursue-program.md)
+- [Pete Hegseth](../../context/pete-hegseth.md)
+- [Department of War](../../context/department-of-war.md)
+- [CBS News coverage](cbs-news.md) — More technically detailed companion.
+- [Tyson — anticlimactic prediction](tyson-anticlimactic-prediction.md) — Counter-frame.
 
 ## Open Questions
 

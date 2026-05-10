@@ -71,10 +71,10 @@ The Bureau filed the case under serial 62-83894-145 and recorded receipt on Augu
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-09-fbi-62hq83894-air-defense-command-institutional-baseline-policy-february-1948` — establishes dismissal policy baseline that Merchant case operationalizes at field-office level
-- `2026-05-08-fbi-62hq83894-civilian-correspondence-hoover-pattern-1949-1950` — broader civilian correspondence pattern with form-reply framework; Merchant case predates Hoover correspondence pattern
-- `2026-05-08-fbi-62hq83894-pervier-tulsa-fbi-agent-corroboration-1950` — contrasting case: civilian report with FBI institutional self-corroboration (vs. Merchant non-escalation)
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [air-defense-command-institutional-baseline-policy-february-1948](air-defense-command-institutional-baseline-policy-february-1948.md) — establishes dismissal policy baseline that Merchant case operationalizes at field-office level
+- [civilian-correspondence-hoover-pattern-1949-1950](civilian-correspondence-hoover-pattern-1949-1950.md) — broader civilian correspondence pattern with form-reply framework; Merchant case predates Hoover correspondence pattern
+- [pervier-tulsa-fbi-agent-corroboration-1950](pervier-tulsa-fbi-agent-corroboration-1950.md) — contrasting case: civilian report with FBI institutional self-corroboration (vs. Merchant non-escalation)
 - `Entity: Los Alamos`
 - `Entity: Eastern Air Lines`
 - `Concept: Institutional Dismissal Baseline vs. Hoover-Level Engagement, 1947-1950`

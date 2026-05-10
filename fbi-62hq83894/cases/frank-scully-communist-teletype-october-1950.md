@@ -115,14 +115,14 @@ Mostly faint illegible handwritten text. Receipt stamps October 11, 1950, FBI U.
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-fbi-62hq83894-guy-hottel-three-saucers-new-mexico-1950` — pass 18, the "FBI confirmed alien bodies" Aztec-rumor memo. **This pass closes pass 18's open question on Frank Scully's circuit timing.** The Hottel memo's Aztec description match was popular-culture-only because no in-archive Scully reference existed. It exists. It is in Section 6 page 22.
-- `2026-05-08-fbi-62hq83894-belmont-twinkle-master-memo-osi-log-1949-1950` — pass 11, the August 23, 1950 Belmont master memo that the October 9, 1950 Hoover→Ladd memo formally follows up on six weeks later.
-- `2026-05-08-fbi-62hq83894-la-paz-seventh-report-cabell-directive-twinkle` — pass 10, the September 8, 1950 Cabell AFOIC-CC-1 directive establishing the official multi-agency UAP intake protocol that the October 1950 cluster is the first month of operation under.
-- `2026-05-08-fbi-62hq83894-philadelphia-1950-soap-suds-disc` — pass 2, which already covers Section 6 page 18 (the October 2 1950 SAC Philadelphia memo on the soap-suds disc). The Scully teletype follows the Philadelphia memo by eleven days in the file sequence.
-- `2026-05-08-fbi-62hq83894-rhodes-phoenix-photographs-1947` — pass 7, the August 30, 1947 Hoover URGENT teletype on Rhodes / joint AAF/FBI investigation prohibition. Same teletype apparatus, same Director-level personal signature, same URGENT routing.
-- `2026-05-08-fbi-62hq83894-cuneo-jones-winchell-followup-1949` — pass 14, the April 1949 Cuneo / Jones / Winchell political-intermediary background-check follow-up. Same Director-level personal-routing pattern on UFO subjects, same time-window urgency in Hoover's marginalia.
-- `2026-05-08-fbi-62hq83894-civilian-correspondence-hoover-pattern-1949-1950` — pass 17, the standardized civilian-witness correspondence pattern. The Welton letter (page 20) extends the civilian-engineer UAP physics-vocabulary corpus to five named correspondents.
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [guy-hottel-three-saucers-new-mexico-1950](guy-hottel-three-saucers-new-mexico-1950.md) — pass 18, the "FBI confirmed alien bodies" Aztec-rumor memo. **This pass closes pass 18's open question on Frank Scully's circuit timing.** The Hottel memo's Aztec description match was popular-culture-only because no in-archive Scully reference existed. It exists. It is in Section 6 page 22.
+- [belmont-twinkle-master-memo-osi-log-1949-1950](belmont-twinkle-master-memo-osi-log-1949-1950.md) — pass 11, the August 23, 1950 Belmont master memo that the October 9, 1950 Hoover→Ladd memo formally follows up on six weeks later.
+- [la-paz-seventh-report-cabell-directive-twinkle](la-paz-seventh-report-cabell-directive-twinkle.md) — pass 10, the September 8, 1950 Cabell AFOIC-CC-1 directive establishing the official multi-agency UAP intake protocol that the October 1950 cluster is the first month of operation under.
+- [philadelphia-1950-soap-suds-disc](philadelphia-1950-soap-suds-disc.md) — pass 2, which already covers Section 6 page 18 (the October 2 1950 SAC Philadelphia memo on the soap-suds disc). The Scully teletype follows the Philadelphia memo by eleven days in the file sequence.
+- [rhodes-phoenix-photographs-1947](rhodes-phoenix-photographs-1947.md) — pass 7, the August 30, 1947 Hoover URGENT teletype on Rhodes / joint AAF/FBI investigation prohibition. Same teletype apparatus, same Director-level personal signature, same URGENT routing.
+- [cuneo-jones-winchell-followup-1949](cuneo-jones-winchell-followup-1949.md) — pass 14, the April 1949 Cuneo / Jones / Winchell political-intermediary background-check follow-up. Same Director-level personal-routing pattern on UFO subjects, same time-window urgency in Hoover's marginalia.
+- [civilian-correspondence-hoover-pattern-1949-1950](civilian-correspondence-hoover-pattern-1949-1950.md) — pass 17, the standardized civilian-witness correspondence pattern. The Welton letter (page 20) extends the civilian-engineer UAP physics-vocabulary corpus to five named correspondents.
 - `j-edgar-hoover`
 - `fbi`
 - `project-twinkle`

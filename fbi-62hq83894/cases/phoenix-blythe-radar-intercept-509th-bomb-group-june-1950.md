@@ -27,7 +27,7 @@ The case is **distinguished from other 1950 in-archive cases by the multi-modal 
 
 > "AT FIVE FORTYFIVE PM, JUNE TWENTYNINTH LAST, AN OBJECT IN SKY WAS OBSERVED BY MANY CITIZENS OF PHOENIX **INCLUDING FBI PERSONNEL**."
 
-The "INCLUDING FBI PERSONNEL" line is the earliest in-archive primary-source designation of FBI personnel themselves as direct visual UAP witnesses, not as report-recipients. The Pervier-Tulsa case (`2026-05-08-fbi-62hq83894-pervier-tulsa-fbi-agent-corroboration-1950`) had **an FBI Lt on patrol** corroborate a separate civilian witness three months earlier — but Phoenix-Blythe places **multiple FBI personnel as direct witnesses to the Phoenix observation event** itself.
+The "INCLUDING FBI PERSONNEL" line is the earliest in-archive primary-source designation of FBI personnel themselves as direct visual UAP witnesses, not as report-recipients. The Pervier-Tulsa case ([pervier-tulsa-fbi-agent-corroboration-1950](pervier-tulsa-fbi-agent-corroboration-1950.md)) had **an FBI Lt on patrol** corroborate a separate civilian witness three months earlier — but Phoenix-Blythe places **multiple FBI personnel as direct witnesses to the Phoenix observation event** itself.
 
 ### The OSI radar contact (6:00 PM June 29 1950)
 
@@ -87,7 +87,7 @@ The "COPIES DESTROYED 270 NOV 18 1954" handwritten note on page 170 is striking 
 
 3. **The Korean War timing.** North Korea crossed the 38th parallel on June 25, 1950. The Phoenix-Blythe sighting is **June 29 1950** — four days into the Korean conflict. President Truman authorized U.S. air and naval forces to engage on June 27. This case sits in the opening days of the U.S. military's first post-WWII shooting war, while the entire Pacific Air Command was on heightened alert. **The decision to scramble a B-29 from the only-atomic-bomb-delivery-authorized unit at Roswell to chase a UAP three days into a hot war is operationally meaningful** beyond UAP analysis alone.
 
-4. **Multi-modal evidentiary structure exceeds most 1950 cases in the archive.** Visual eyewitnesses (Phoenix citizens including FBI personnel) + radar contact (OSI Williams AFB) + aerial chase (509th Bomb Group B-29 pilot's observation log) + binocular cross-comparison + ~3 hour duration + ~150 mile geographic transit + explicit absence-of-wind ruling-out. Most of the OSI 17th District log entries from 1950 are visual-only single-sightings (per `2026-05-08-fbi-62hq83894-osi-cumulative-sighting-log-full-read-1948-1950`). Phoenix-Blythe is one of the structurally richest 1950 cases in the case file.
+4. **Multi-modal evidentiary structure exceeds most 1950 cases in the archive.** Visual eyewitnesses (Phoenix citizens including FBI personnel) + radar contact (OSI Williams AFB) + aerial chase (509th Bomb Group B-29 pilot's observation log) + binocular cross-comparison + ~3 hour duration + ~150 mile geographic transit + explicit absence-of-wind ruling-out. Most of the OSI 17th District log entries from 1950 are visual-only single-sightings (per [osi-cumulative-sighting-log-full-read-1948-1950](osi-cumulative-sighting-log-full-read-1948-1950.md)). Phoenix-Blythe is one of the structurally richest 1950 cases in the case file.
 
 5. **The binocular-cross-comparison is the rare visual-mensuration primary source.** "with use of binoculars he could easily see object. Nevertheless, the B-twentynine could not be observed with binoculars." This is the Bureau preserving in writing a primary-source visual-mensuration anomaly: the higher-altitude (more distant) object was readily visible through binoculars while the closer, larger, known-aircraft B-29 was not. This kind of explicit comparative-observation data point is rare in the 1947-1950 case-file corpus.
 
@@ -99,16 +99,16 @@ The "COPIES DESTROYED 270 NOV 18 1954" handwritten note on page 170 is striking 
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-fbi-62hq83894-osi-cumulative-sighting-log-full-read-1948-1950`
-- `2026-05-08-fbi-62hq83894-pervier-tulsa-fbi-agent-corroboration-1950`
-- `2026-05-08-fbi-62hq83894-belmont-twinkle-master-memo-osi-log-1949-1950`
-- `2026-05-08-fbi-62hq83894-la-paz-seventh-report-cabell-directive-twinkle`
-- `2026-05-08-fbi-62hq83894-stuart-adcock-oak-ridge-march-1950`
-- `2026-05-08-fbi-62hq83894-frank-scully-communist-teletype-october-1950`
-- `2026-05-08-fbi-62hq83894-springer-brown-cic-cluster-pre-maury-island-1947`
-- `pursue-program`
-- `aaro`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [osi-cumulative-sighting-log-full-read-1948-1950](osi-cumulative-sighting-log-full-read-1948-1950.md)
+- [pervier-tulsa-fbi-agent-corroboration-1950](pervier-tulsa-fbi-agent-corroboration-1950.md)
+- [belmont-twinkle-master-memo-osi-log-1949-1950](belmont-twinkle-master-memo-osi-log-1949-1950.md)
+- [la-paz-seventh-report-cabell-directive-twinkle](la-paz-seventh-report-cabell-directive-twinkle.md)
+- [stuart-adcock-oak-ridge-march-1950](stuart-adcock-oak-ridge-march-1950.md)
+- [frank-scully-communist-teletype-october-1950](frank-scully-communist-teletype-october-1950.md)
+- [springer-brown-cic-cluster-pre-maury-island-1947](springer-brown-cic-cluster-pre-maury-island-1947.md)
+- [PURSUE program](../../context/pursue-program.md)
+- [AARO](../../context/aaro.md)
 - `fbi`
 
 ## Open Questions

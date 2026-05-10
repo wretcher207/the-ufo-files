@@ -108,12 +108,12 @@ Ground corroboration — the key institutional confirmation:
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-fbi-62hq83894-springer-brown-cic-cluster-pre-maury-island-1947` — The parent CIC cluster; Johnson's interview is one of six in the cluster; this page provides the full primary-source text
-- `2026-05-08-fbi-62hq83894-davidson-brown-crash-mission-report` — Brown and Davidson died August 1, 1947; this page establishes them jointly in Boise on July 12, 1947
-- `2026-05-08-fbi-62hq83894-maury-island-1947` — The Maury Island incident that brought Davidson and Brown to the northwest, in whose shadow the July 12 Boise interviews were conducted
-- `2026-05-08-fbi-62hq83894-muroc-1947-cic-affidavits` — Parallel CIC sworn-affidavit cluster documenting July 7–8 1947 Muroc sightings; the Gowen Field sighting (July 6) is four days earlier
-- `2026-05-08-fbi-62hq83894-section-2-1947-multi-case-extension-and-wenyon-pre-roswell` — Kenneth Arnold case context, including Arnold's complaint about FBI/AAF inaction
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [springer-brown-cic-cluster-pre-maury-island-1947](springer-brown-cic-cluster-pre-maury-island-1947.md) — The parent CIC cluster; Johnson's interview is one of six in the cluster; this page provides the full primary-source text
+- [davidson-brown-crash-mission-report](davidson-brown-crash-mission-report.md) — Brown and Davidson died August 1, 1947; this page establishes them jointly in Boise on July 12, 1947
+- [maury-island-1947](maury-island-1947.md) — The Maury Island incident that brought Davidson and Brown to the northwest, in whose shadow the July 12 Boise interviews were conducted
+- [muroc-1947-cic-affidavits](muroc-1947-cic-affidavits.md) — Parallel CIC sworn-affidavit cluster documenting July 7–8 1947 Muroc sightings; the Gowen Field sighting (July 6) is four days earlier
+- [section-2-1947-multi-case-extension-and-wenyon-pre-roswell](section-2-1947-multi-case-extension-and-wenyon-pre-roswell.md) — Kenneth Arnold case context, including Arnold's complaint about FBI/AAF inaction
 
 ## Open Questions
 

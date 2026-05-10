@@ -25,10 +25,10 @@ Most useful single rhetorical frame for skeptical-but-not-sneering coverage of t
 
 ## Sources
 
-- `2026-05-08-tyson-anticlimactic-prediction`
+- [Tyson — anticlimactic prediction](../pursue-release-01/coverage/tyson-anticlimactic-prediction.md)
 
 ## Connected Entities / Concepts
 
-- `pursue-program`
-- `uap-disclosure`
-- `aaro`
+- [PURSUE program](pursue-program.md)
+- [UAP disclosure (concept)](uap-disclosure.md)
+- [AARO](aaro.md)

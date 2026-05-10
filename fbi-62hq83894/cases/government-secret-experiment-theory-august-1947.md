@@ -78,12 +78,12 @@ A parallel memo from D. M. Ladd to Director (page 130, dated August 1, 1947) pre
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory` — full PURSUE Release 01 file inventory
-- `2026-05-09-fbi-62hq83894-full-inventory` — complete FBI 62-HQ-83894 case-mining index
-- `2026-05-09-fbi-62hq83894-kenneth-arnold-cascade-1947` — Kenneth Arnold case (pass 38) establishing credible-witness baseline that informs Garrett's logic
-- `2026-05-09-fbi-62hq83894-hatfield-ellison-myrtle-creek-1947` — Hatfield/Ellison case (pass 39) with credentialed "trained observer" (military pilot) supporting Garrett's assessment
-- `2026-05-08-fbi-62hq83894-project-grudge-vital-installations-1948-1949` — Project Grudge institutional assessments incorporating hypothesis-vetting framework
-- `2026-05-08-fbi-62hq83894-la-paz-seventh-report-cabell-directive-twinkle` — Lincoln La Paz's systematic analysis of alternative hypotheses
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md) — full PURSUE Release 01 file inventory
+- [FBI 62-HQ-83894 case index](../full-inventory.md) — complete FBI 62-HQ-83894 case-mining index
+- [kenneth-arnold-cascade-1947](kenneth-arnold-cascade-1947.md) — Kenneth Arnold case (pass 38) establishing credible-witness baseline that informs Garrett's logic
+- [hatfield-ellison-myrtle-creek-1947](hatfield-ellison-myrtle-creek-1947.md) — Hatfield/Ellison case (pass 39) with credentialed "trained observer" (military pilot) supporting Garrett's assessment
+- [project-grudge-vital-installations-1948-1949](project-grudge-vital-installations-1948-1949.md) — Project Grudge institutional assessments incorporating hypothesis-vetting framework
+- [la-paz-seventh-report-cabell-directive-twinkle](la-paz-seventh-report-cabell-directive-twinkle.md) — Lincoln La Paz's systematic analysis of alternative hypotheses
 - `institutional-suppression` — FBI/USAF investigative posture documentation
 
 ## Open Questions

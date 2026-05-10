@@ -67,13 +67,13 @@ The memo is stamped 62-83894-251, with red "DEFERRED" margin annotation.
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-pentagon-ufo-files-drop`
-- `2026-05-08-fbi-62hq83894-maury-island-1947`
-- `pursue-program`
-- `aaro`
-- `department-of-war`
-- `uap-disclosure`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [PURSUE master report](../../pursue-release-01/README.md)
+- [maury-island-1947](maury-island-1947.md)
+- [PURSUE program](../../context/pursue-program.md)
+- [AARO](../../context/aaro.md)
+- [Department of War](../../context/department-of-war.md)
+- [UAP disclosure (concept)](../../context/uap-disclosure.md)
 
 ## Open Questions
 

@@ -18,7 +18,7 @@ William Albert Rhodes is one of the most-cited witnesses of the early flying-dis
 What is *not* widely known — and what 62-HQ-83894 documents in primary form across thirteen pages spanning three Sections (Sept 4 1947, June 30 1949, April 18 1950) — is the **investigative-jurisdiction dispute** that surrounded the case from the day Rhodes handed his negatives over. The FBI primary source establishes:
 
 1. **J. Edgar Hoover, on August 30, 1947, expressly forbade joint AAF/FBI investigation** of the Rhodes case in a teletype to SACs San Francisco and Phoenix. The teletype did not arrive at Phoenix in time.
-2. George Fugate Jr., A-2 representative from Hamilton Field, **proceeded to Phoenix anyway** under orders from Col. Donald Springer (the same A-2 chief who would later decline to pursue the Madden Montana case three weeks earlier — see `2026-05-08-fbi-62hq83894-1947-california-montana-cic`).
+2. George Fugate Jr., A-2 representative from Hamilton Field, **proceeded to Phoenix anyway** under orders from Col. Donald Springer (the same A-2 chief who would later decline to pursue the Madden Montana case three weeks earlier — see [1947-california-montana-cic](1947-california-montana-cic.md)).
 3. Fugate **required FBI Special Agent J. Bailey Brower to conceal his Bureau identity** from Rhodes during the interview, having him introduced only as "a representative of the United States government."
 4. Fugate refused to commit, in writing or otherwise, that Rhodes's negatives would be returned. Brower required that Rhodes be told Fugate's actual identity and warned that the negatives would not come back, before the FBI would accept the negatives for transfer.
 5. Two years later, in **June 1949**, OSI was reconstructing the case from the FBI file because Fugate's own recollection had gone "hazy" and Rhodes had begun asking the Air Force to return the photographs.
@@ -133,23 +133,23 @@ This is filed in the same Section 4 cluster as the Rhodes 1949 reconstruction. I
 
 1. **Hoover personally intervened to block joint AAF/FBI investigation of a UAP photographic case in writing.** The teletype is a direct first-person Director-level policy document on the flying-discs question, dated within seven weeks of Roswell. Bureau jurisdictional caution toward AAF intelligence on the disc problem was explicit, attributed, and dated.
 2. **The Bureau's investigative-discipline floor held even under inter-agency pressure.** Brower called the identity-concealment procedure "peculiar" on the record and refused to handle the negatives until Rhodes was correctly informed of the recipient. This is the FBI institutional immune response to being used as a misleading conduit.
-3. **The case extends and complicates the Maury Island / Switzer / Madden picture.** Same A-2 office (Fourth Air Force, Hamilton Field, Col. Donald Springer commanding). Same SF SAC handling (Harry Kimball). Same investigative period (late July through August 1947). The Rhodes case is part of the same 4AF CIC/A-2 + FBI multi-witness investigation cluster mined in passes 4, 5, and 6 — see `2026-05-08-fbi-62hq83894-muroc-1947-cic-affidavits` and `2026-05-08-fbi-62hq83894-1947-california-montana-cic`.
+3. **The case extends and complicates the Maury Island / Switzer / Madden picture.** Same A-2 office (Fourth Air Force, Hamilton Field, Col. Donald Springer commanding). Same SF SAC handling (Harry Kimball). Same investigative period (late July through August 1947). The Rhodes case is part of the same 4AF CIC/A-2 + FBI multi-witness investigation cluster mined in passes 4, 5, and 6 — see [muroc-1947-cic-affidavits](muroc-1947-cic-affidavits.md) and [1947-california-montana-cic](1947-california-montana-cic.md).
 4. **The 1949 "hazy recollection" admission is documentary chain-of-custody decay.** Two years after the interview, the A-2 officer who took the negatives can no longer reconstruct the episode without reading the FBI file. This is what evidence-handling looks like when the receiving organization does not log or preserve. Rhodes wanted his pictures back; A-2 had lost the institutional memory to either return or refuse them.
-5. **Rhodes' July 7 1947 sighting is the same date as the Muroc cluster** (`2026-05-08-fbi-62hq83894-muroc-1947-cic-affidavits`). Both are 5 p.m. (approximately) afternoon Pacific time observations on a single day. Phoenix and Muroc are ~370 miles apart. The flying-disc observation density on July 7, 1947, in the Southwest, in primary FBI/CIC paper, is now considerably more documented than before this release.
+5. **Rhodes' July 7 1947 sighting is the same date as the Muroc cluster** ([muroc-1947-cic-affidavits](muroc-1947-cic-affidavits.md)). Both are 5 p.m. (approximately) afternoon Pacific time observations on a single day. Phoenix and Muroc are ~370 miles apart. The flying-disc observation density on July 7, 1947, in the Southwest, in primary FBI/CIC paper, is now considerably more documented than before this release.
 6. **The True Magazine 1950 callback documents the founding moment of civilian UFO-research evidence-recovery.** Rhodes' contact by *True* (the magazine that ran Keyhoe's launch article) shows the early loop of "civilian witness → military custody → magazine wants the artifact back → military referrals." The FBI's clean refusal to re-enter the chain is the precedent for every subsequent FOIA referral pattern.
 7. **Brower's identity-disclosure insistence is a citable historical instance of Bureau ethics under pressure.** This is the kind of primary-source quote that survives to be reused in any future serious account of the early UAP investigative record.
 8. **The Rhodes case documents institutional vacancy in UAP evidence custody.** Between 1947 and 1949, the receiving military organization (A-2/4AF) lost institutional memory of the case while the civilian FBI archive retained accurate documentation. When Rhodes requested his negatives back in 1949, OSI had to reconstruct the chain from the FBI file. This pattern — original evidence transferred to military custody, civilian agency retains better documentation, receiving organization loses track — would recur across early UAP cases and explains why civilian researchers had to file FOIA requests decades later to recover evidence trails that military custodians had lost.
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-pentagon-ufo-files-drop` (master synthesis)
-- `2026-05-08-fbi-62hq83894-maury-island-1947`
-- `2026-05-08-fbi-62hq83894-muroc-1947-cic-affidavits`
-- `2026-05-08-fbi-62hq83894-1947-california-montana-cic`
-- `2026-05-08-fbi-62hq83894-davidson-brown-crash-mission-report`
-- `2026-05-08-fbi-62hq83894-philadelphia-1950-soap-suds-disc`
-- `uap-disclosure`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [PURSUE master report](../../pursue-release-01/README.md) (master synthesis)
+- [maury-island-1947](maury-island-1947.md)
+- [muroc-1947-cic-affidavits](muroc-1947-cic-affidavits.md)
+- [1947-california-montana-cic](1947-california-montana-cic.md)
+- [davidson-brown-crash-mission-report](davidson-brown-crash-mission-report.md)
+- [philadelphia-1950-soap-suds-disc](philadelphia-1950-soap-suds-disc.md)
+- [UAP disclosure (concept)](../../context/uap-disclosure.md)
 
 ## Open Questions
 

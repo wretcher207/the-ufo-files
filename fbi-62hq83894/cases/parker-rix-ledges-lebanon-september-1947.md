@@ -68,7 +68,7 @@ Parker's letterhead identifies him as Superintendent of Schools, Orange-Windsor 
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
 - `Entity: J. Edgar Hoover`
 - `Entity: A. Courtney Parker`
 - `Concept: FBI Hoover-Level Acknowledgments of Civilian UAP Reports, 1947`

@@ -35,9 +35,9 @@ US Department of State diplomatic cable from January 31, 1994, sent from the US 
 
 ## Connections
 
-- `pursue-program`
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-pentagon-ufo-files-drop`
+- [PURSUE program](../../context/pursue-program.md)
+- [PURSUE full inventory](../full-inventory.md)
+- [PURSUE master report](../README.md)
 
 ## Open Questions
 

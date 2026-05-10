@@ -13,7 +13,7 @@ entities_mentioned: [lincoln-la-paz, walter-winchell, robert-ripley, j-edgar-hoo
 
 ## Summary
 
-Between January 31 and May 26, 1949, the SAC San Antonio Field Office and FBI Headquarters generated a tightly-related document cluster on the new "Vital Installations" caption that effectively reconstructs the early Project Grudge era from the Bureau side. This is the parallel arc to the Oak Ridge / Gasser case (see `2026-05-08-fbi-62hq83894-oak-ridge-gasser-atomic-propulsion-1947-1949`) — different SAC office, different FBI serial range, different operational consequence, but the same ~75-day window in early 1949 when the FBI was forced to re-engage the flying-disc problem after eighteen months of withdrawal under Bureau Bulletin #57.
+Between January 31 and May 26, 1949, the SAC San Antonio Field Office and FBI Headquarters generated a tightly-related document cluster on the new "Vital Installations" caption that effectively reconstructs the early Project Grudge era from the Bureau side. This is the parallel arc to the Oak Ridge / Gasser case (see [oak-ridge-gasser-atomic-propulsion-1947-1949](oak-ridge-gasser-atomic-propulsion-1947-1949.md)) — different SAC office, different FBI serial range, different operational consequence, but the same ~75-day window in early 1949 when the FBI was forced to re-engage the flying-disc problem after eighteen months of withdrawal under Bureau Bulletin #57.
 
 The cluster contains:
 
@@ -198,16 +198,16 @@ The "delay had been encountered" wording is itself notable: Carpenter's first re
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-pentagon-ufo-files-drop` (master synthesis)
-- `2026-05-08-fbi-62hq83894-oak-ridge-gasser-atomic-propulsion-1947-1949` (the parallel arc, same time window)
-- `2026-05-08-fbi-62hq83894-rhodes-phoenix-photographs-1947`
-- `2026-05-08-fbi-62hq83894-maury-island-1947`
-- `2026-05-08-fbi-62hq83894-muroc-1947-cic-affidavits`
-- `2026-05-08-fbi-62hq83894-1947-california-montana-cic`
-- `2026-05-08-fbi-62hq83894-davidson-brown-crash-mission-report`
-- `2026-05-08-fbi-62hq83894-philadelphia-1950-soap-suds-disc`
-- `uap-disclosure`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [PURSUE master report](../../pursue-release-01/README.md) (master synthesis)
+- [oak-ridge-gasser-atomic-propulsion-1947-1949](oak-ridge-gasser-atomic-propulsion-1947-1949.md) (the parallel arc, same time window)
+- [rhodes-phoenix-photographs-1947](rhodes-phoenix-photographs-1947.md)
+- [maury-island-1947](maury-island-1947.md)
+- [muroc-1947-cic-affidavits](muroc-1947-cic-affidavits.md)
+- [1947-california-montana-cic](1947-california-montana-cic.md)
+- [davidson-brown-crash-mission-report](davidson-brown-crash-mission-report.md)
+- [philadelphia-1950-soap-suds-disc](philadelphia-1950-soap-suds-disc.md)
+- [UAP disclosure (concept)](../../context/uap-disclosure.md)
 
 ## Open Questions
 

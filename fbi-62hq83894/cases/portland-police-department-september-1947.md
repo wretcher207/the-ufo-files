@@ -81,7 +81,7 @@ The FBI case memo documents The Oregonian's coverage:
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
 - `Entity: Leon V. Jenkins, Chief of Police Portland Oregon`
 - `Entity: Portland Police Department`
 - `Concept: Government Witness Clusters — Multi-Officer Police Department Cases, 1947`

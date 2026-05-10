@@ -50,10 +50,10 @@ None of those exist yet.
 
 ## Connections
 
-- `pursue-program`
-- `aaro`
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-pentagon-ufo-files-drop` — master synthesis
+- [PURSUE program](../../context/pursue-program.md)
+- [AARO](../../context/aaro.md)
+- [PURSUE full inventory](../full-inventory.md)
+- [PURSUE master report](../README.md) — master synthesis
 
 ## Open Questions
 

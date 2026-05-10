@@ -92,11 +92,11 @@ The teletype carries a stamped notation:
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-09-fbi-62hq83894-cabell-afoic-cc-1-multi-agency-protocol-september-1950` — Cabell formal protocol formalization (Sept 1950) preceding Scully vetting directive (Oct 1950)
-- `2026-05-09-fbi-62hq83894-stanfield-lapaz-holloman-february-1950` — Military-scientist escalation pathway that prompted institutional protocol response
-- `2026-05-09-fbi-62hq83894-merchant-wichita-falls-patriotic-civilian-august-1948` — Civilian patriotic source dismissed at field-office level; contrast with director-level Scully vetting
-- `2026-05-09-fbi-62hq83894-air-defense-command-institutional-baseline-policy-february-1948` — Institutional dismissal baseline that precedes director-level engagement patterns
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [cabell-afoic-cc-1-multi-agency-protocol-september-1950](cabell-afoic-cc-1-multi-agency-protocol-september-1950.md) — Cabell formal protocol formalization (Sept 1950) preceding Scully vetting directive (Oct 1950)
+- [stanfield-lapaz-holloman-february-1950](stanfield-lapaz-holloman-february-1950.md) — Military-scientist escalation pathway that prompted institutional protocol response
+- [merchant-wichita-falls-patriotic-civilian-august-1948](merchant-wichita-falls-patriotic-civilian-august-1948.md) — Civilian patriotic source dismissed at field-office level; contrast with director-level Scully vetting
+- [air-defense-command-institutional-baseline-policy-february-1948](air-defense-command-institutional-baseline-policy-february-1948.md) — Institutional dismissal baseline that precedes director-level engagement patterns
 - `Entity: J. Edgar Hoover`
 - `Entity: Frank Scully`
 - `Concept: Security-Frame Interpretation of UAP Interest`

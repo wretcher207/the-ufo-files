@@ -13,7 +13,7 @@ entities_mentioned: [pursue-program, aaro, fbi]
 
 ## Summary
 
-Section 2 of FBI 62-HQ-83894 contains six standalone 1947 cases (and one September-1946 pre-Roswell case) that sit outside the Springer-Brown 4AF CIC Hamilton Field cluster (`2026-05-08-fbi-62hq83894-springer-brown-cic-cluster-pre-maury-island-1947`) and are individually substantive enough to merit primary-source preservation. Three of them close open threads from pass 23.
+Section 2 of FBI 62-HQ-83894 contains six standalone 1947 cases (and one September-1946 pre-Roswell case) that sit outside the Springer-Brown 4AF CIC Hamilton Field cluster ([springer-brown-cic-cluster-pre-maury-island-1947](springer-brown-cic-cluster-pre-maury-island-1947.md)) and are individually substantive enough to merit primary-source preservation. Three of them close open threads from pass 23.
 
 This source page captures them as one ingest because they share a common thread: they document the **Bureau's contemporaneous case-handling posture across the August-September 1947 period** — the moment when Bureau Bulletin #42 of July 30, 1947 had just established field-office authority to conduct UAP witness interviews in coordination with the AAF, and the FBI was building its first generation of primary-source case files in real-time.
 
@@ -209,17 +209,17 @@ The newspaper clipping on page 194 also preserves substantial 1947-period broade
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-fbi-62hq83894-springer-brown-cic-cluster-pre-maury-island-1947`
-- `2026-05-08-fbi-62hq83894-maury-island-1947`
-- `2026-05-08-fbi-62hq83894-davidson-brown-crash-mission-report`
-- `2026-05-08-fbi-62hq83894-muroc-1947-cic-affidavits`
-- `2026-05-08-fbi-62hq83894-1947-california-montana-cic`
-- `2026-05-08-fbi-62hq83894-rhodes-phoenix-photographs-1947`
-- `2026-05-08-fbi-62hq83894-frank-scully-communist-teletype-october-1950`
-- `2026-05-08-fbi-62hq83894-kodiak-alaska-oni-january-1950`
-- `pursue-program`
-- `aaro`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [springer-brown-cic-cluster-pre-maury-island-1947](springer-brown-cic-cluster-pre-maury-island-1947.md)
+- [maury-island-1947](maury-island-1947.md)
+- [davidson-brown-crash-mission-report](davidson-brown-crash-mission-report.md)
+- [muroc-1947-cic-affidavits](muroc-1947-cic-affidavits.md)
+- [1947-california-montana-cic](1947-california-montana-cic.md)
+- [rhodes-phoenix-photographs-1947](rhodes-phoenix-photographs-1947.md)
+- [frank-scully-communist-teletype-october-1950](frank-scully-communist-teletype-october-1950.md)
+- [kodiak-alaska-oni-january-1950](kodiak-alaska-oni-january-1950.md)
+- [PURSUE program](../../context/pursue-program.md)
+- [AARO](../../context/aaro.md)
 - `fbi`
 
 ## Open Questions
@@ -233,7 +233,7 @@ The newspaper clipping on page 194 also preserves substantial 1947-period broade
 - **Twin Falls Idaho Detective Richard A. Frazier, M. E. Rountree, and Richard Scott** — Twin Falls Police Department personnel. Biographical research target. Their sustained joint observation gives this case unusual law-enforcement weight.
 - **Captain Jack Peck and co-pilot Vince Daly's actual sighting account** is not preserved in pages 180-181 — only the routing memos. The substantive witness narrative was filed at Anchorage Field Office with copies to Sixth Army Intelligence. Cross-section search target across Sections 3-10 for the Anchorage interview reports.
 - **A. B. Cross War Department 1943 flying-saucer submission** (Wenyon clipping page 194) — claim that Cross submitted a "flying saucer" idea to the War Department in 1943 and it was rejected as not practical. War Department patent / submission archive research target.
-- **Charlie T. Hamlet Kingsport TN Times News two-year-prior 1945 sighting** (Wenyon clipping page 194) — Hamlet kept quiet about a 1945 disc sighting because of the Oak Ridge atomic bomb plant. Cross-references the Oak Ridge / Presley case (`2026-05-08-fbi-62hq83894-oak-ridge-gasser-atomic-propulsion-1947-1949`). Worth follow-up.
+- **Charlie T. Hamlet Kingsport TN Times News two-year-prior 1945 sighting** (Wenyon clipping page 194) — Hamlet kept quiet about a 1945 disc sighting because of the Oak Ridge atomic bomb plant. Cross-references the Oak Ridge / Presley case ([oak-ridge-gasser-atomic-propulsion-1947-1949](oak-ridge-gasser-atomic-propulsion-1947-1949.md)). Worth follow-up.
 - **Bob Johnson Missoula Montana "milkweed seed" recovery** (Wenyon clipping page 194) — claim of physical recovery of one of the discs identified as milkweed seeds. Pre-Maury-Island physical-recovery claim. Newspaper / Missoula civil aviation archive research target.
 - **The November 18 1964 destruction stamp on three different Section 2 pages (52, 177)** is consistent with the November 23 1964 stamps from passes 21-22. Five-day window (Nov 18 - Nov 23 1964) — if a Bureau-wide retention purge ran across this window, it would be documented in Bureau records-management policy archives.
 
@@ -270,4 +270,4 @@ The newspaper clipping on page 194 also preserves substantial 1947-period broade
 > — Forrest Wenyon, interviewed by SAC Baltimore, September 4, 1947, Section 2 page 193. The witness explicitly disowning the most colorful headline-language attached to his case — a procedural data point on press-distortion of UAP testimony.
 
 > "[Hamlet] saw the discs two years ago … kept quiet about them because of the Oak Ridge atomic bomb plant, then a war secret."
-> — Charlie T. Hamlet, Kingsport TN Times News composing-room superintendent, quoted in the Morning News clipping, Section 2 page 194. **A 1945 wartime UAP sighting near Oak Ridge, by a witness who explicitly self-suppressed for atomic-security reasons.** Establishes the pre-Roswell UAP-near-vital-installations pattern that traces forward into the 1947-1949 Oak Ridge / Gasser / Presley case (`2026-05-08-fbi-62hq83894-oak-ridge-gasser-atomic-propulsion-1947-1949`).
+> — Charlie T. Hamlet, Kingsport TN Times News composing-room superintendent, quoted in the Morning News clipping, Section 2 page 194. **A 1945 wartime UAP sighting near Oak Ridge, by a witness who explicitly self-suppressed for atomic-security reasons.** Establishes the pre-Roswell UAP-near-vital-installations pattern that traces forward into the 1947-1949 Oak Ridge / Gasser / Presley case ([oak-ridge-gasser-atomic-propulsion-1947-1949](oak-ridge-gasser-atomic-propulsion-1947-1949.md)).

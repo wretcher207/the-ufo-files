@@ -50,21 +50,21 @@ Beyond evidentiary status, UAP disclosure performs cultural work:
 
 ## Sources
 
-- `2026-05-08-pentagon-ufo-files-cbs`
-- `2026-05-08-pentagon-ufo-files-fox`
-- `2026-05-08-pentagon-ufo-files-stripes`
-- `2026-05-08-newspaceeconomy-pursue-analysis`
-- `2026-05-08-mirror-football-uap`
-- `2026-05-08-washtimes-trump-ufo-files`
-- `2026-05-08-tyson-anticlimactic-prediction`
+- [CBS News coverage](../pursue-release-01/coverage/cbs-news.md)
+- [Fox News coverage](../pursue-release-01/coverage/fox-news.md)
+- [Stars and Stripes coverage](../pursue-release-01/coverage/stars-and-stripes.md)
+- [New Space Economy — what 'unresolved' means](../pursue-release-01/coverage/newspaceeconomy-analysis.md)
+- [Mirror, football-UAP framing](../pursue-release-01/coverage/mirror-football-uap.md)
+- [Washington Times coverage](../pursue-release-01/coverage/washtimes-trump-ufo-files.md)
+- [Tyson — anticlimactic prediction](../pursue-release-01/coverage/tyson-anticlimactic-prediction.md)
 
 ## Connected Entities / Concepts
 
-- `pursue-program`
-- `aaro`
-- `department-of-war`
-- `pete-hegseth`
-- `neil-degrasse-tyson`
+- [PURSUE program](pursue-program.md)
+- [AARO](aaro.md)
+- [Department of War](department-of-war.md)
+- [Pete Hegseth](pete-hegseth.md)
+- [Neil deGrasse Tyson](neil-degrasse-tyson.md)
 
 ## Open Questions
 

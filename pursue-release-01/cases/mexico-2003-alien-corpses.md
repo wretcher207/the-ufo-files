@@ -34,10 +34,10 @@ US Department of State diplomatic cable from September 16, 2003 documenting that
 
 ## Connections
 
-- `pursue-program`
-- `uap-disclosure`
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-pentagon-ufo-files-drop`
+- [PURSUE program](../../context/pursue-program.md)
+- [UAP disclosure (concept)](../../context/uap-disclosure.md)
+- [PURSUE full inventory](../full-inventory.md)
+- [PURSUE master report](../README.md)
 
 ## Open Questions
 

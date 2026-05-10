@@ -34,9 +34,9 @@ The football-shaped object is the dominant visual of the news cycle. Any social 
 
 ## Connections
 
-- `pursue-program`
-- `2026-05-08-pentagon-ufo-files-stripes` — Same case, INDOPACOM context.
-- `2026-05-08-pentagon-ufo-files-cbs` — Football-shape mentioned alongside Greece, Syria, Mediterranean cases.
+- [PURSUE program](../../context/pursue-program.md)
+- [Stars and Stripes coverage](stars-and-stripes.md) — Same case, INDOPACOM context.
+- [CBS News coverage](cbs-news.md) — Football-shape mentioned alongside Greece, Syria, Mediterranean cases.
 
 ## Open Questions
 

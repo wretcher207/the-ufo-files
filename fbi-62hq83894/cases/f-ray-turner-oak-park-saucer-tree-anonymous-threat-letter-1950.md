@@ -30,7 +30,7 @@ Turner's case is structurally one of the most unusual single-witness reports in 
 
 Turner's letter is preserved in primary form on three pages (203 = letter body, 204 = blank lined notebook paper continuation with FBI receipt stamps, 205 = closing signature with his street address). The handwriting and grammar suggest a low-formal-education witness; the Bureau's filing protocol nonetheless preserved the letter unaltered with full FBI serial, RECORDED stamp, and August 1 1950 receipt timestamp.
 
-The case is the **earliest in-archive primary-source documentation of a "saucer-strikes-physical-object-and-anonymous-threat-letter-follows" case structure** in the 62-HQ-83894 archive. It precedes the Pascagoula case (1973) by 23 years and the Philadelphia soap-suds disc case (September 26, 1950, `2026-05-08-fbi-62hq83894-philadelphia-1950-soap-suds-disc`) by nine weeks. Turner's case has no in-archive follow-up — the Bureau's standing post-Bureau-Bulletin-#57 (October 1947) protocol of defer-to-Air-Force on UAP cases applied; no SAC-Chicago investigation of the Oak Park location, no Air Force handoff documented, no resolution disposition logged.
+The case is the **earliest in-archive primary-source documentation of a "saucer-strikes-physical-object-and-anonymous-threat-letter-follows" case structure** in the 62-HQ-83894 archive. It precedes the Pascagoula case (1973) by 23 years and the Philadelphia soap-suds disc case (September 26, 1950, [philadelphia-1950-soap-suds-disc](philadelphia-1950-soap-suds-disc.md)) by nine weeks. Turner's case has no in-archive follow-up — the Bureau's standing post-Bureau-Bulletin-#57 (October 1947) protocol of defer-to-Air-Force on UAP cases applied; no SAC-Chicago investigation of the Oak Park location, no Air Force handoff documented, no resolution disposition logged.
 
 ## What the Three Pages Document
 
@@ -100,7 +100,7 @@ Turner's distribution: FBI plus "the Republic Partie at Washington D.C." — mea
 
 ## Why This Matters
 
-1. **The earliest in-archive primary-source documentation of a "saucer-strikes-physical-object-and-anonymous-threat-letter-follows" case structure** in the 62-HQ-83894 archive. Predates Pascagoula (1973) by 23 years and the Philadelphia soap-suds disc case (`2026-05-08-fbi-62hq83894-philadelphia-1950-soap-suds-disc`) by nine weeks.
+1. **The earliest in-archive primary-source documentation of a "saucer-strikes-physical-object-and-anonymous-threat-letter-follows" case structure** in the 62-HQ-83894 archive. Predates Pascagoula (1973) by 23 years and the Philadelphia soap-suds disc case ([philadelphia-1950-soap-suds-disc](philadelphia-1950-soap-suds-disc.md)) by nine weeks.
 
 2. **The anonymous-threat-letter-found-in-truck-seat element predates the canonical Men-in-Black mythology by 12 years.** Turner's anonymous note (received approximately November 1950, four months after July sighting) directing him to "leave the cote where the Right Party can git" predates Albert K. Bender's *Flying Saucers and the Three Men* (1962) by 12 years and Bender's 1953 founding of the International Flying Saucer Bureau by ~3 years. Turner's case is **a primary-source proto-MIB artifact in the FBI archive**, before the MIB mythology was institutionally canonized.
 
@@ -118,14 +118,14 @@ Turner's distribution: FBI plus "the Republic Partie at Washington D.C." — mea
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-fbi-62hq83894-philadelphia-1950-soap-suds-disc`
-- `2026-05-08-fbi-62hq83894-civilian-correspondence-hoover-pattern-1949-1950`
-- `2026-05-08-fbi-62hq83894-pervier-tulsa-fbi-agent-corroboration-1950`
-- `2026-05-08-fbi-62hq83894-stuart-adcock-oak-ridge-march-1950`
-- `2026-05-08-fbi-62hq83894-section-10-1966-1973-civilian-correspondent-cluster-post-blue-book`
-- `pursue-program`
-- `aaro`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [philadelphia-1950-soap-suds-disc](philadelphia-1950-soap-suds-disc.md)
+- [civilian-correspondence-hoover-pattern-1949-1950](civilian-correspondence-hoover-pattern-1949-1950.md)
+- [pervier-tulsa-fbi-agent-corroboration-1950](pervier-tulsa-fbi-agent-corroboration-1950.md)
+- [stuart-adcock-oak-ridge-march-1950](stuart-adcock-oak-ridge-march-1950.md)
+- [section-10-1966-1973-civilian-correspondent-cluster-post-blue-book](section-10-1966-1973-civilian-correspondent-cluster-post-blue-book.md)
+- [PURSUE program](../../context/pursue-program.md)
+- [AARO](../../context/aaro.md)
 - `fbi`
 
 ## Open Questions

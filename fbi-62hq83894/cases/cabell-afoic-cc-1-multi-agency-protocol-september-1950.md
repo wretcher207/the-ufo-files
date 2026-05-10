@@ -101,10 +101,10 @@ The directive included explicit restriction on public communication:
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-09-fbi-62hq83894-air-defense-command-institutional-baseline-policy-february-1948` — dismissal baseline policy that Cabell directive formalizes into operational protocol
-- `2026-05-09-fbi-62hq83894-stanfield-lapaz-holloman-february-1950` — military-scientist escalation pathway that prompted institutional protocol response
-- `2026-05-09-fbi-62hq83894-merchant-wichita-falls-patriotic-civilian-august-1948` — field-office filtering operationalization that Cabell directive attempts to systematize
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [air-defense-command-institutional-baseline-policy-february-1948](air-defense-command-institutional-baseline-policy-february-1948.md) — dismissal baseline policy that Cabell directive formalizes into operational protocol
+- [stanfield-lapaz-holloman-february-1950](stanfield-lapaz-holloman-february-1950.md) — military-scientist escalation pathway that prompted institutional protocol response
+- [merchant-wichita-falls-patriotic-civilian-august-1948](merchant-wichita-falls-patriotic-civilian-august-1948.md) — field-office filtering operationalization that Cabell directive attempts to systematize
 - `Entity: Air Materiel Command`
 - `Entity: Major General C. P. Cabell`
 - `Concept: Institutional Containment vs. Investigation Protocols`

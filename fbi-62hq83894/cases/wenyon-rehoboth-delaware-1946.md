@@ -79,7 +79,7 @@ The Port Deposit crash became the subject of extensive speculation in the press 
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
 - `Entity: Horace P. Wenyon`
 - `Entity: Eastern Airlines`
 - `Entity: Port Deposit May 1947 Crash`

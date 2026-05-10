@@ -44,10 +44,10 @@ The JFK/MLK/RFK precedent is the most useful framing for the X / personal Facebo
 
 ## Connections
 
-- `pursue-program`
-- `pete-hegseth`
-- `2026-05-08-pentagon-ufo-files-cbs` — Modern cases.
-- `2026-05-08-tyson-anticlimactic-prediction` — Same prediction Tyson made pre-release.
+- [PURSUE program](../../context/pursue-program.md)
+- [Pete Hegseth](../../context/pete-hegseth.md)
+- [CBS News coverage](cbs-news.md) — Modern cases.
+- [Tyson — anticlimactic prediction](tyson-anticlimactic-prediction.md) — Same prediction Tyson made pre-release.
 
 ## Open Questions
 

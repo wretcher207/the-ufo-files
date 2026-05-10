@@ -17,7 +17,7 @@ Read **[the PURSUE master report](pursue-release-01/README.md)**. It pulls the f
 
 The four cases that matter:
 
-### 1. [Apollo 17 VM6 — Triangular Formation Photo](pursue-release-01/cases/apollo-17-vm6.md)
+### 1. [Apollo 17 VM6: Triangular Formation Photo](pursue-release-01/cases/apollo-17-vm6.md)
 A December 1972 lunar-surface photo with three dots in a triangle. AARO's verbatim language: *"potentially the result of a physical object."* That phrasing does not appear anywhere else in the release. The government has retrieved the original film. Full re-analysis is pending. **This is the case to track.**
 
 ### 2. [The Bronze Ellipsoid, September 2023](pursue-release-01/cases/bronze-ellipsoid.md)
@@ -64,9 +64,9 @@ The FBI's flying-discs case file, 1944 through 1973. 1,262 OCR'd pages mined int
 4. [FBI 62-HQ-83894 master report](fbi-62hq83894/README.md)
 
 **Deep dive:**
-1. [PURSUE Release 01 full inventory](pursue-release-01/full-inventory.md) — all 162 files with URLs
-2. [FBI 62-HQ-83894 case index](fbi-62hq83894/full-inventory.md) — 50+ mined cases across 1,262 pages
-3. [Raw OCR transcripts](raw/) — page-by-page Markdown of every FBI section
+1. [PURSUE Release 01 full inventory](pursue-release-01/full-inventory.md), all 162 files with URLs
+2. [FBI 62-HQ-83894 case index](fbi-62hq83894/full-inventory.md), 50+ mined cases across 1,262 pages
+3. [Raw OCR transcripts](raw/), page-by-page Markdown of every FBI section
 4. Original PDFs and videos at [war.gov/UFO/](https://www.war.gov/UFO/)
 
 **Browse by case:**
@@ -83,9 +83,9 @@ The release contains AARO's own commentary on selected cases. These are revealin
 
 - **DOW-UAP-PR21 (Iraq 2022).** Mission report described UAP as "probable SU-27/35." AARO comment: SU-27 and SU-35 are Russian Federation military aircraft. *(Russian fighter, not anomaly.)*
 - **DOW-UAP-PR45 (Southern US 2020).** AARO comment: "The area of contrast's apparent increase in size is likely to be at least partially attributable to the U.S. platform closing the distance between itself and the source of the detection." *(Parallax artifact.)*
-- **DOW-UAP-PR38 (Middle East 2013).** Modal text reads "Resolved as an Aircraft, Middle East 2013" — included in the unresolved tranche despite already being resolved.
+- **DOW-UAP-PR38 (Middle East 2013).** Modal text reads "Resolved as an Aircraft, Middle East 2013", included in the unresolved tranche despite already being resolved.
 
-The implication: AARO will identify mundane causes when it can. The cases left unresolved are unresolved because the data is insufficient. That is the strongest argument against the "they're sitting on the truth" framing — and the strongest argument for taking the cases that *did* survive AARO's filter seriously.
+The implication: AARO will identify mundane causes when it can. The cases left unresolved are unresolved because the data is insufficient. That is the strongest argument against the "they're sitting on the truth" framing, and the strongest argument for taking the cases that *did* survive AARO's filter seriously.
 
 ---
 
@@ -107,7 +107,7 @@ This archive was assembled from a personal Obsidian knowledge base built off the
 - Page references where applicable
 - A "Significance" note explaining why the case matters in the larger archive
 
-The FBI 62-HQ-83894 file was mined systematically across 41 passes between May 8 and May 10, 2026, using a CIC investigative-priority + high-signal grep + cluster-adjacency methodology. That methodology is not perfect — it favors credentialed witnesses, military-adjacent incidents, and multi-agency coordination patterns. Sections 3, 4, 5, 6, and 9 are still being scanned.
+The FBI 62-HQ-83894 file was mined systematically across 41 passes between May 8 and May 10, 2026, using a CIC investigative-priority + high-signal grep + cluster-adjacency methodology. That methodology is not perfect, it favors credentialed witnesses, military-adjacent incidents, and multi-agency coordination patterns. Sections 3, 4, 5, 6, and 9 are still being scanned.
 
 The PURSUE Release 01 inventory follows AARO's own metadata exactly. Where AARO and the news cycle disagreed about which cases mattered, this archive sides with the metadata.
 

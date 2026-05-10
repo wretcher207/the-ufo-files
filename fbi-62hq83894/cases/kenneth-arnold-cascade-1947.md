@@ -172,13 +172,13 @@ Arnold expresses that direct response from witnesses and pilots globally was sup
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory` — full PURSUE Release 01 file inventory
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md) — full PURSUE Release 01 file inventory
 - `fbi-62hq83894-full-inventory` — complete FBI 62-HQ-83894 case-mining index
-- `2026-05-09-fbi-62hq83894-hatfield-ellison-myrtle-creek-1947` — credentialed pilot sighting, same period, pilot training context
-- `2026-05-08-fbi-62hq83894-peyerl-1944-german-aircraft` — WWII-era aircraft claim cross-reference
-- `2026-05-08-pentagon-ufo-files-drop` — PURSUE Release 01 master synthesis
-- `aaro`
-- `pursue-program`
+- [hatfield-ellison-myrtle-creek-1947](hatfield-ellison-myrtle-creek-1947.md) — credentialed pilot sighting, same period, pilot training context
+- [peyerl-1944-german-aircraft](peyerl-1944-german-aircraft.md) — WWII-era aircraft claim cross-reference
+- [PURSUE master report](../../pursue-release-01/README.md) — PURSUE Release 01 master synthesis
+- [AARO](../../context/aaro.md)
+- [PURSUE program](../../context/pursue-program.md)
 
 ## Open Questions
 

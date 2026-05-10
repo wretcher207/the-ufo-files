@@ -27,15 +27,15 @@ Per AARO methodology and current PURSUE language: "unresolved means the governme
 
 ## Sources
 
-- `2026-05-08-pentagon-ufo-files-stripes`
-- `2026-05-08-newspaceeconomy-pursue-analysis`
-- `2026-05-08-pentagon-ufo-files-cbs`
+- [Stars and Stripes coverage](../pursue-release-01/coverage/stars-and-stripes.md)
+- [New Space Economy — what 'unresolved' means](../pursue-release-01/coverage/newspaceeconomy-analysis.md)
+- [CBS News coverage](../pursue-release-01/coverage/cbs-news.md)
 
 ## Connected Entities / Concepts
 
-- `pursue-program`
-- `department-of-war`
-- `uap-disclosure`
+- [PURSUE program](pursue-program.md)
+- [Department of War](department-of-war.md)
+- [UAP disclosure (concept)](uap-disclosure.md)
 
 ## Open Questions
 

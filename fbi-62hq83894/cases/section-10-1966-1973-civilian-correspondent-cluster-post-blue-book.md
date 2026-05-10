@@ -13,7 +13,7 @@ entities_mentioned: [pursue-program, aaro, fbi, j-edgar-hoover, helen-gandy, pro
 
 ## Summary
 
-Section 10 of FBI 62-HQ-83894 (the post-1965 portion of the case file) preserves a **six-correspondent civilian-witness cluster** spanning **November 1966 to October 1973** that documents the Bureau's posture on UAP correspondence across three institutional regimes: the late Hoover era (1966-1972), the Project Blue Book closure window (October-December 1969), and the immediate post-Hoover era (Hoover died May 2, 1972) under FBI Director Clarence M. Kelley. The cluster was flagged in the pass-17 civilian-correspondence master page source frontmatter (`2026-05-08-fbi-62hq83894-civilian-correspondence-hoover-pattern-1949-1950`) but unmined for substantive content until pass 28.
+Section 10 of FBI 62-HQ-83894 (the post-1965 portion of the case file) preserves a **six-correspondent civilian-witness cluster** spanning **November 1966 to October 1973** that documents the Bureau's posture on UAP correspondence across three institutional regimes: the late Hoover era (1966-1972), the Project Blue Book closure window (October-December 1969), and the immediate post-Hoover era (Hoover died May 2, 1972) under FBI Director Clarence M. Kelley. The cluster was flagged in the pass-17 civilian-correspondence master page source frontmatter ([civilian-correspondence-hoover-pattern-1949-1950](civilian-correspondence-hoover-pattern-1949-1950.md)) but unmined for substantive content until pass 28.
 
 The six correspondents:
 
@@ -175,13 +175,13 @@ The clipping also notes the Air Force's running-tally on Project Blue Book: "**1
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-fbi-62hq83894-civilian-correspondence-hoover-pattern-1949-1950`
-- `2026-05-08-fbi-62hq83894-mid-1950-case-handling-spectrum-north-chicago-alice-texas`
-- `2026-05-08-fbi-62hq83894-pervier-tulsa-fbi-agent-corroboration-1950`
-- `2026-05-08-fbi-62hq83894-frank-scully-communist-teletype-october-1950`
-- `pursue-program`
-- `aaro`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [civilian-correspondence-hoover-pattern-1949-1950](civilian-correspondence-hoover-pattern-1949-1950.md)
+- [mid-1950-case-handling-spectrum-north-chicago-alice-texas](mid-1950-case-handling-spectrum-north-chicago-alice-texas.md)
+- [pervier-tulsa-fbi-agent-corroboration-1950](pervier-tulsa-fbi-agent-corroboration-1950.md)
+- [frank-scully-communist-teletype-october-1950](frank-scully-communist-teletype-october-1950.md)
+- [PURSUE program](../../context/pursue-program.md)
+- [AARO](../../context/aaro.md)
 - `fbi`
 - `project-blue-book`
 - `condon-report`

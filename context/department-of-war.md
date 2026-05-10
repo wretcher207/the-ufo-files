@@ -24,17 +24,17 @@ The rebrand and the UFO disclosure share the same week's news cycle on the same 
 
 ## Sources
 
-- `2026-05-08-pentagon-ufo-files-cbs`
-- `2026-05-08-pentagon-ufo-files-fox`
-- `2026-05-08-pentagon-ufo-files-stripes`
-- `2026-05-08-mirror-football-uap`
-- `2026-05-08-washtimes-trump-ufo-files`
+- [CBS News coverage](../pursue-release-01/coverage/cbs-news.md)
+- [Fox News coverage](../pursue-release-01/coverage/fox-news.md)
+- [Stars and Stripes coverage](../pursue-release-01/coverage/stars-and-stripes.md)
+- [Mirror, football-UAP framing](../pursue-release-01/coverage/mirror-football-uap.md)
+- [Washington Times coverage](../pursue-release-01/coverage/washtimes-trump-ufo-files.md)
 
 ## Connected Entities / Concepts
 
-- `pursue-program`
-- `pete-hegseth`
-- `aaro`
+- [PURSUE program](pursue-program.md)
+- [Pete Hegseth](pete-hegseth.md)
+- [AARO](aaro.md)
 
 ## Open Questions
 

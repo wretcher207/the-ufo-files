@@ -82,8 +82,8 @@ Truex stated that Caselia commented "Maybe it's a flying saucer" and that "he ha
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-09-fbi-62hq83894-portland-police-department-september-1947` — Comparative multi-witness case with institutional coordination (dispatch) vs. social coordination (Fort Dix/girlfriend meeting)
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [portland-police-department-september-1947](portland-police-department-september-1947.md) — Comparative multi-witness case with institutional coordination (dispatch) vs. social coordination (Fort Dix/girlfriend meeting)
 - `Entity: Fort Dix`
 - `Concept: Multi-Observer Discrepancy Analysis in Early UAP Cases, 1947`
 

@@ -67,7 +67,7 @@ Page 67 is a partial OCR of an earlier note ("Correspondence largely relates to.
 
 1. **Popular-culture significance is inverted.** The Hottel memo became the most-downloaded FBI Vault document after Vault opened in 2011 and is routinely paraphrased online as "FBI memo confirms three flying saucers and alien bodies recovered in New Mexico." The actual document is a four-hop rumor with explicit "no further evaluation." Future readers of 62-HQ-83894 should not over-weight this single page on the strength of its public-search-engine ranking.
 
-2. **It is a representative artifact of mid-1950 institutional churn.** Serial 162-83894-209 (Hottel, March 22), serial 62-83894-210 (Oak Ridge, March 7 intake, `2026-05-08-fbi-62hq83894-stuart-adcock-oak-ridge-march-1950`), and the Pervier Tulsa traffic (`2026-05-08-fbi-62hq83894-pervier-tulsa-fbi-agent-corroboration-1950`) cluster within weeks of each other. The same window produced the SAC San Antonio "Project Grudge" memo and the Cabell directive draft. The Hottel memo is one item in a heightened-volume moment, not the headline of it.
+2. **It is a representative artifact of mid-1950 institutional churn.** Serial 162-83894-209 (Hottel, March 22), serial 62-83894-210 (Oak Ridge, March 7 intake, [stuart-adcock-oak-ridge-march-1950](stuart-adcock-oak-ridge-march-1950.md)), and the Pervier Tulsa traffic ([pervier-tulsa-fbi-agent-corroboration-1950](pervier-tulsa-fbi-agent-corroboration-1950.md)) cluster within weeks of each other. The same window produced the SAC San Antonio "Project Grudge" memo and the Cabell directive draft. The Hottel memo is one item in a heightened-volume moment, not the headline of it.
 
 3. **The Aztec / Frank Scully connection is plausible.** The "three saucers, ~50 feet diameter, small humanoid bodies in metallic cloth" description tracks closely with the contemporaneous Aztec NM crash story that Variety columnist Frank Scully had been promoting since his late-1949 magazine columns and would book-publish as *Behind the Flying Saucers* in fall 1950. The Hottel memo predates the Scully book by about seven months but post-dates Scully's lecture-circuit and column material. Whether the unnamed "investigator for the Air Forces" was downstream from Scully's circuit, or whether Scully was downstream from the same rumor pool, is a citable historical question. (Note: a grep of the PURSUE release for "Aztec," "Scully," and "Behind the Flying Saucers" returns no hits, so this connection has to be made from outside the file.)
 
@@ -75,7 +75,7 @@ Page 67 is a partial OCR of an earlier note ("Correspondence largely relates to.
 
 5. **The Bureau's "no further evaluation" disposition has a counterpart.** This is the same disposition documented at scale in the civilian-correspondence pattern (pass 17), where Hoover-directed responses politely declined to investigate public letters about saucer sightings. The Hottel memo applies the same logic to an inter-agency rumor relay: the Bureau filed it, recorded it, indexed it, and did not act on it.
 
-6. **The third-hand source quality is the operational counterexample to Cuneo.** In the Cuneo / Jones case (`2026-05-08-fbi-62hq83894-cuneo-jones-winchell-followup-1949`), a single phone call from a politically connected first-person source to D. M. Ladd produced a same-week federal background check across the country. The Hottel memo is the opposite end of the same spectrum: an institutional relay chain four hops deep, marked "no further evaluation," filed and forgotten. The two cases together illustrate that what determined Bureau action in 1949–1950 saucer correspondence was source proximity, not source content.
+6. **The third-hand source quality is the operational counterexample to Cuneo.** In the Cuneo / Jones case ([cuneo-jones-winchell-followup-1949](cuneo-jones-winchell-followup-1949.md)), a single phone call from a politically connected first-person source to D. M. Ladd produced a same-week federal background check across the country. The Hottel memo is the opposite end of the same spectrum: an institutional relay chain four hops deep, marked "no further evaluation," filed and forgotten. The two cases together illustrate that what determined Bureau action in 1949–1950 saucer correspondence was source proximity, not source content.
 
 7. **The "metallic cloth" / "blackout suits" detail dates the rumor to 1950 human-aviation imagination.** The vocabulary points to whoever invented or first transmitted the rumor reaching for the era's high-altitude / test-pilot garment language (G-suits, pressure suits) and applying it to small occupants. This is a useful internal-consistency check: the rumor is a 1950 product, not a transmission from elsewhere.
 
@@ -85,21 +85,21 @@ Page 67 is a partial OCR of an earlier note ("Correspondence largely relates to.
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-pentagon-ufo-files-drop`
-- `2026-05-08-fbi-62hq83894-stuart-adcock-oak-ridge-march-1950`
-- `2026-05-08-fbi-62hq83894-pervier-tulsa-fbi-agent-corroboration-1950`
-- `2026-05-08-fbi-62hq83894-cuneo-jones-winchell-followup-1949`
-- `2026-05-08-fbi-62hq83894-civilian-correspondence-hoover-pattern-1949-1950`
-- `2026-05-08-fbi-62hq83894-belmont-twinkle-master-memo-osi-log-1949-1950`
-- `uap-disclosure`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [PURSUE master report](../../pursue-release-01/README.md)
+- [stuart-adcock-oak-ridge-march-1950](stuart-adcock-oak-ridge-march-1950.md)
+- [pervier-tulsa-fbi-agent-corroboration-1950](pervier-tulsa-fbi-agent-corroboration-1950.md)
+- [cuneo-jones-winchell-followup-1949](cuneo-jones-winchell-followup-1949.md)
+- [civilian-correspondence-hoover-pattern-1949-1950](civilian-correspondence-hoover-pattern-1949-1950.md)
+- [belmont-twinkle-master-memo-osi-log-1949-1950](belmont-twinkle-master-memo-osi-log-1949-1950.md)
+- [UAP disclosure (concept)](../../context/uap-disclosure.md)
 
 ## Open Questions
 
 - **Who was the unnamed "investigator for the Air Forces"?** The memo is silent. No Bureau follow-up attempted to identify him. No corresponding AAF / USAF document surfaces in 62-HQ-83894. This is the rumor's anchor point and it is unfilled.
 - **What was Karl Howe's actual relationship to the Sex Squad's casework?** Was the saucer rumor encountered in the course of a vice investigation, or was it social conversation between a DC police investigator and a friend who happened to be FBI? The page does not say.
 - **Did Hottel forward this because he believed it, or because the Bureau's intake norm was to forward all flying-saucer rumors to the Director?** The "no further evaluation" sentence reads as a hedge against the latter — Hottel disclaiming on Kurtzman's behalf while still putting it on Hoover's desk. A cross-check against other Hottel-to-Hoover memoranda from this window (search Section 5 for "Hottel" returns this single page; the broader file may have more) would clarify the routing norm.
-- ~~**Frank Scully's circuit timing.** Did Scully or anyone in his orbit have direct or indirect contact with Air Forces personnel or DC law enforcement in early 1950? This question sits outside the FBI file and would have to be answered from Scully's papers, Variety columns, and contemporaneous lecture records.~~ **Partially resolved on pass 21.** An in-archive Frank Scully reference does exist after all: the October 13, 1950 Hoover URGENT teletype to SAC Los Angeles (Section 6 page 22, FBI serial 62-83894-253) ordering Communist-affiliation cross-reference on the author of *Behind the Flying Saucers*, plus the October 31, 1950 case-file transfer to 100-2244-6 (Section 6 page 23). The reference is not about circuit timing — it is about cross-loading Scully against the LA Office's pre-existing late-1930s Communist-activities subject file. See `2026-05-08-fbi-62hq83894-frank-scully-communist-teletype-october-1950`. The original circuit-timing question (whether Scully had contact with AAF or DC law enforcement) remains open and outside this archive.
+- ~~**Frank Scully's circuit timing.** Did Scully or anyone in his orbit have direct or indirect contact with Air Forces personnel or DC law enforcement in early 1950? This question sits outside the FBI file and would have to be answered from Scully's papers, Variety columns, and contemporaneous lecture records.~~ **Partially resolved on pass 21.** An in-archive Frank Scully reference does exist after all: the October 13, 1950 Hoover URGENT teletype to SAC Los Angeles (Section 6 page 22, FBI serial 62-83894-253) ordering Communist-affiliation cross-reference on the author of *Behind the Flying Saucers*, plus the October 31, 1950 case-file transfer to 100-2244-6 (Section 6 page 23). The reference is not about circuit timing — it is about cross-loading Scully against the LA Office's pre-existing late-1930s Communist-activities subject file. See [frank-scully-communist-teletype-october-1950](frank-scully-communist-teletype-october-1950.md). The original circuit-timing question (whether Scully had contact with AAF or DC law enforcement) remains open and outside this archive.
 - **Why did Hoover not annotate the page?** Hoover's marginal annotations elsewhere in 62-HQ-83894 are frequent and sharp (see his "this should have been done the first thing monday" note in the Cuneo correspondence). The Hottel memo as released carries no Hoover handwriting. Was it filed without his personal review, or has the annotation been redacted on this release?
 
 ## Quotes Worth Keeping

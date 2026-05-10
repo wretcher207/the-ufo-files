@@ -77,11 +77,11 @@ The Dow Chemical Physics laboratory analysis found a complex composition:
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory` — full PURSUE Release 01 file inventory
-- `2026-05-09-fbi-62hq83894-full-inventory` — complete FBI 62-HQ-83894 case-mining index
-- `2026-05-10-fbi-62hq83894-government-secret-experiment-theory-august-1947` — Garrett memo (same month, same archive) treating hypothesis seriously at inter-agency level; invokes Los Alamos/government facility knowledge
-- `2026-05-08-fbi-62hq83894-oak-ridge-gasser-atomic-propulsion-1947-1949` — W. R. Presley NEPA Project case (atomic facilities + UFO sightings cluster)
-- `2026-05-08-fbi-62hq83894-project-grudge-vital-installations-1948-1949` — Project Grudge analysis of sightings near atomic facilities
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md) — full PURSUE Release 01 file inventory
+- [FBI 62-HQ-83894 case index](../full-inventory.md) — complete FBI 62-HQ-83894 case-mining index
+- [government-secret-experiment-theory-august-1947](government-secret-experiment-theory-august-1947.md) — Garrett memo (same month, same archive) treating hypothesis seriously at inter-agency level; invokes Los Alamos/government facility knowledge
+- [oak-ridge-gasser-atomic-propulsion-1947-1949](oak-ridge-gasser-atomic-propulsion-1947-1949.md) — W. R. Presley NEPA Project case (atomic facilities + UFO sightings cluster)
+- [project-grudge-vital-installations-1948-1949](project-grudge-vital-installations-1948-1949.md) — Project Grudge analysis of sightings near atomic facilities
 
 ## Open Questions
 

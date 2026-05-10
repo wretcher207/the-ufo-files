@@ -19,7 +19,7 @@ The letter is filed at FBI serial **62-83894-230**, alongside Hoover's standard 
 
 But the artifact that makes the case substantive — and the find of pass 26 — is **Section 5 page 161**, an attached document titled "**UNIVERSITY OF CALIFORNIA — REPORT OF FLYING SAUCER**" containing a first-person narrative of an aerial sighting on **June 24, 1947**: a private-plane pilot flying from Chehalis, Washington to Yakima, Washington at approximately 9,500 feet observing nine objects flying in formation at an estimated 1,200 MPH for approximately three minutes.
 
-**That is Kenneth Arnold's sighting.** The route (Chehalis → Yakima), the date (June 24 1947), the altitude (9,500 ft), the formation count (nine), and the speed (1,200 MPH) are all identical to Arnold's June 24, 1947 Mt. Rainier sighting documented in the 4AF CIC cluster (`2026-05-08-fbi-62hq83894-springer-brown-cic-cluster-pre-maury-island-1947`).
+**That is Kenneth Arnold's sighting.** The route (Chehalis → Yakima), the date (June 24 1947), the altitude (9,500 ft), the formation count (nine), and the speed (1,200 MPH) are all identical to Arnold's June 24, 1947 Mt. Rainier sighting documented in the 4AF CIC cluster ([springer-brown-cic-cluster-pre-maury-island-1947](springer-brown-cic-cluster-pre-maury-island-1947.md)).
 
 The page 161 first-person narrative is therefore a **second-pass primary-source preservation of the Arnold case** — written in the first-person voice of the witness (the page reads "I was flying my private plane from Chehalis, Washington to Yakima, Washington" and signs off "I am submitting this report to the FBI as I believe it is a matter of national security"), routed through DeWayne Johnson's UCLA dissertation research, and arriving at FBI HQ 35 months after Arnold's original July 1947 4AF CIC interview.
 
@@ -109,7 +109,7 @@ Standard Hoover form-reply structure, addressed to "Mr. DeWayne B. Johnson / Gra
 
 Signed: **John Edgar Hoover, Director.** Filed June 9, 1950.
 
-Twelve named senior FBI officials in the carbon-copy distribution column: Tolson, Ladd, Clegg, Glavin, Nichols, Rosen, Tracy, Harbo, Mohr, Tele. Room, Nease, Gandy. The Hoover-form-reply distribution practice (per `2026-05-08-fbi-62hq83894-civilian-correspondence-hoover-pattern-1949-1950`) treats academic-researcher correspondence the same as civilian-witness correspondence — same form structure, same routing list, same redirect to Secretary of Defense. Johnson received no analytical engagement; he was treated as another civilian correspondent.
+Twelve named senior FBI officials in the carbon-copy distribution column: Tolson, Ladd, Clegg, Glavin, Nichols, Rosen, Tracy, Harbo, Mohr, Tele. Room, Nease, Gandy. The Hoover-form-reply distribution practice (per [civilian-correspondence-hoover-pattern-1949-1950](civilian-correspondence-hoover-pattern-1949-1950.md)) treats academic-researcher correspondence the same as civilian-witness correspondence — same form structure, same routing list, same redirect to Secretary of Defense. Johnson received no analytical engagement; he was treated as another civilian correspondent.
 
 ARA:mus drafted the reply (the same drafting initials seen on multiple 1949-1950 form-replies in the pass-22 civilian-correspondence master page).
 
@@ -133,14 +133,14 @@ ARA:mus drafted the reply (the same drafting initials seen on multiple 1949-1950
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-fbi-62hq83894-springer-brown-cic-cluster-pre-maury-island-1947`
-- `2026-05-08-fbi-62hq83894-civilian-correspondence-hoover-pattern-1949-1950`
-- `2026-05-08-fbi-62hq83894-section-2-1947-multi-case-extension-and-wenyon-pre-roswell`
-- `2026-05-08-fbi-62hq83894-guy-hottel-three-saucers-new-mexico-1950`
-- `2026-05-08-fbi-62hq83894-frank-scully-communist-teletype-october-1950`
-- `pursue-program`
-- `aaro`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [springer-brown-cic-cluster-pre-maury-island-1947](springer-brown-cic-cluster-pre-maury-island-1947.md)
+- [civilian-correspondence-hoover-pattern-1949-1950](civilian-correspondence-hoover-pattern-1949-1950.md)
+- [section-2-1947-multi-case-extension-and-wenyon-pre-roswell](section-2-1947-multi-case-extension-and-wenyon-pre-roswell.md)
+- [guy-hottel-three-saucers-new-mexico-1950](guy-hottel-three-saucers-new-mexico-1950.md)
+- [frank-scully-communist-teletype-october-1950](frank-scully-communist-teletype-october-1950.md)
+- [PURSUE program](../../context/pursue-program.md)
+- [AARO](../../context/aaro.md)
 - `fbi`
 
 ## Open Questions

@@ -177,26 +177,26 @@ Stapp's explicit committed personal opinions, on the record, sworn:
 
 6. **Geographic and temporal alignment with the broader 1947 wave.** McHenry/Ruvolo's two objects "moving toward Mojave, California." Stapp's object "drifted slightly north of due west against the prevailing wind, toward Mount Wilson." Both cases describe motion against prevailing wind, at the same altitude band (~8,000 ft for the McHenry sighting, descending object for Stapp), on the same date (July 8, 1947). The object descriptions are not identical (silver disc/sphere vs. ovular silver-aluminum with two upper projections) — but they are within the broader population of 1947 wave reports.
 
-7. **CIC custody chain identifies Thomas A. McMillan.** The same CIC office that took these affidavits at Muroc was contemporaneously operating the document-custody chain that took possession of the recovered Davidson-Brown crash material on August 1, 1947 (`2026-05-08-fbi-62hq83894-davidson-brown-crash-mission-report`). CIC Agent Thomas A. McMillan is now a name attached to specific operational paperwork that can be cross-referenced.
+7. **CIC custody chain identifies Thomas A. McMillan.** The same CIC office that took these affidavits at Muroc was contemporaneously operating the document-custody chain that took possession of the recovered Davidson-Brown crash material on August 1, 1947 ([davidson-brown-crash-mission-report](davidson-brown-crash-mission-report.md)). CIC Agent Thomas A. McMillan is now a name attached to specific operational paperwork that can be cross-referenced.
 
 8. **AARO's catalog does not surface this material.** Despite being among the most evidentially structured early UAP material in PURSUE Release 01 — multi-witness, sworn under penalty, taken by CIC under classification — none of these affidavits appear in AARO's official catalog. They are inside 62-HQ-83894 because the FBI eventually received Springer's Aug 27 1947 transmittal of the AAF's "Investigation of Flying Discs" packet. They survive in the archive as enclosure material, not as catalog cases.
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-pentagon-ufo-files-drop`
-- `2026-05-08-fbi-62hq83894-maury-island-1947`
-- `2026-05-08-fbi-62hq83894-davidson-brown-crash-mission-report`
-- `2026-05-08-fbi-62hq83894-philadelphia-1950-soap-suds-disc`
-- `2026-05-08-fbi-62hq83894-1947-california-montana-cic`
-- `pursue-program`
-- `aaro`
-- `department-of-war`
-- `uap-disclosure`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [PURSUE master report](../../pursue-release-01/README.md)
+- [maury-island-1947](maury-island-1947.md)
+- [davidson-brown-crash-mission-report](davidson-brown-crash-mission-report.md)
+- [philadelphia-1950-soap-suds-disc](philadelphia-1950-soap-suds-disc.md)
+- [1947-california-montana-cic](1947-california-montana-cic.md)
+- [PURSUE program](../../context/pursue-program.md)
+- [AARO](../../context/aaro.md)
+- [Department of War](../../context/department-of-war.md)
+- [UAP disclosure (concept)](../../context/uap-disclosure.md)
 
 ## Open Questions
 
-- **Pass 5 update**: The cluster is now confirmed to span Section 3 pages **63–72** (10 consecutive pages, 9 affidavits). Page 63 (Gilkey, oral, deflationary), 64 (Shoop), 65 (Ruvolo), 66–67 (McHenry, two sightings), 68 (Wise), 69–70 (Stapp), 71 (Scott), 72 (Robinson/Nauman clerical-anomaly affidavit). Pages 73 and onward shift to non-Muroc CIC investigations (the Switzer Cedar Ravine Road and Madden Montana cases — see `2026-05-08-fbi-62hq83894-1947-california-montana-cic`).
+- **Pass 5 update**: The cluster is now confirmed to span Section 3 pages **63–72** (10 consecutive pages, 9 affidavits). Page 63 (Gilkey, oral, deflationary), 64 (Shoop), 65 (Ruvolo), 66–67 (McHenry, two sightings), 68 (Wise), 69–70 (Stapp), 71 (Scott), 72 (Robinson/Nauman clerical-anomaly affidavit). Pages 73 and onward shift to non-Muroc CIC investigations (the Switzer Cedar Ravine Road and Madden Montana cases — see [1947-california-montana-cic](1947-california-montana-cic.md)).
 - **Who were the other observers in Stapp's truck?** Stapp names only Mr. Lenz of Wright Field. The remaining three of the four-witness group are not identified in the affidavit. AAF/CIC investigation paper would have followed up on this.
 - **Did anything become of CIC Agent Thomas A. McMillan's full investigation file?** The affidavits are clearly enclosures to a larger CIC investigation packet. The covering CIC report would address how the affidavits were collected, what investigation followed, and what conclusions CIC reached. That covering document is the obvious next mining target — likely either elsewhere in Section 3, or destroyed when CIC's records were absorbed into Army G-2.
 - **Did the AAF investigate the "moving toward Mojave / Mount Wilson" headings?** Both McHenry's and Stapp's sightings describe objects moving against prevailing wind on consistent NW-W headings. If anything was tracked off Muroc by radar that morning, the records would be in Air Defense Command's contemporaneous operations log — outside this release.

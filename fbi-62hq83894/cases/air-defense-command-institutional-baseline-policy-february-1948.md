@@ -73,10 +73,10 @@ This establishes a chain from ADC headquarters through numbered-air-force intell
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-09-fbi-62hq83894-jones-winchell-cuneo-1947-1949` — Hoover personal engagement despite ADC baseline dismissal posture
-- `2026-05-09-fbi-62hq83894-hackensack-new-jersey-august-1947` — Multi-witness institutional case that would fall under ADC investigation authority
-- `2026-05-09-fbi-62hq83894-portland-police-department-september-1947` — Police coordination that parallels ADC-FBI coordination protocol
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [jones-winchell-cuneo-1947-1949](jones-winchell-cuneo-1947-1949.md) — Hoover personal engagement despite ADC baseline dismissal posture
+- [hackensack-new-jersey-august-1947](hackensack-new-jersey-august-1947.md) — Multi-witness institutional case that would fall under ADC investigation authority
+- [portland-police-department-september-1947](portland-police-department-september-1947.md) — Police coordination that parallels ADC-FBI coordination protocol
 - `Entity: Air Defense Command`
 - `Concept: Institutional Dismissal Baseline vs. Hoover-Level Engagement, 1947-1950`
 

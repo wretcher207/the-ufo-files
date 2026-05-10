@@ -49,12 +49,12 @@ Cultural moment with viral potential. Personal feed and X are the right platform
 
 ## Connections
 
-- `pursue-program` — The release vehicle.
-- `department-of-war` — The rebranded host agency.
-- `aaro` — Investigative office providing technical input.
-- `pete-hegseth` — Secretary of War, public face of release.
-- `uap-disclosure` — Broader concept.
-- `2026-05-08-tyson-anticlimactic-prediction` — Pre-release skeptic frame.
+- [PURSUE program](../../context/pursue-program.md) — The release vehicle.
+- [Department of War](../../context/department-of-war.md) — The rebranded host agency.
+- [AARO](../../context/aaro.md) — Investigative office providing technical input.
+- [Pete Hegseth](../../context/pete-hegseth.md) — Secretary of War, public face of release.
+- [UAP disclosure (concept)](../../context/uap-disclosure.md) — Broader concept.
+- [Tyson — anticlimactic prediction](tyson-anticlimactic-prediction.md) — Pre-release skeptic frame.
 
 ## Open Questions
 

@@ -23,7 +23,7 @@ Three cases filed in Section 5 of FBI 62-HQ-83894 between January 16 and March 3
 
 Together, the three cases establish the **Bureau's January-March 1950 primary-source documentation of the crashed-saucer rumor network six months before Frank Scully's *Behind the Flying Saucers* (Henry Holt, September 1950) commercialized the genre**. Two of Scully's own primary sources (Newton and Koehler) are documented in the FBI case file in March 1950 as a Bureau-tracked subject; the broader rumor network is preserved in OSI SECRET PRIORITY classified form in January 1950; and a contemporaneous March 1950 student-journalist trick-photograph hoax is documented in primary form as the kind of artifact the rumor network was producing.
 
-The Wyandotte Echo / Coulter narrative is also independent of the Hottel memo (March 22, 1950, `2026-05-08-fbi-62hq83894-guy-hottel-three-saucers-new-mexico-1950`) — different specifics (cabin-and-ring vs. 50-ft-saucer; bodies-taped-in-wire vs. metallic-cloth-3-ft-bodies), different witnesses, different transmission channels — but contemporaneous ('within three months) and converging on the same crashed-saucer-and-3-ft-bodies rumor schema. **The 1950 crashed-saucer rumor was an institutional network with multiple branches converging on shared specifics, not a single-source-driven story.**
+The Wyandotte Echo / Coulter narrative is also independent of the Hottel memo (March 22, 1950, [guy-hottel-three-saucers-new-mexico-1950](guy-hottel-three-saucers-new-mexico-1950.md)) — different specifics (cabin-and-ring vs. 50-ft-saucer; bodies-taped-in-wire vs. metallic-cloth-3-ft-bodies), different witnesses, different transmission channels — but contemporaneous ('within three months) and converging on the same crashed-saucer-and-3-ft-bodies rumor schema. **The 1950 crashed-saucer rumor was an institutional network with multiple branches converging on shared specifics, not a single-source-driven story.**
 
 The Newton/Koehler hoax was famously exposed in 1952 by True Magazine's J. P. Cahn ("The Flying Saucers and the Mysterious Little Men," September 1952 issue) as a confidence scheme — Newton was a known oil-stock con artist, Koehler his accomplice, and the "near indestructible metal souvenir" was conventional aluminum. The page-77 Bureau marginalia "they checked this out negatively" predates Cahn's exposé by 30 months. **The Bureau had Newton and Koehler flagged as not-substantive in primary source six months before Scully published their stories as fact.**
 
@@ -125,7 +125,7 @@ Filed RECORDED-112, INDEXED-112, 62-83894-314. CORRECTION line at end: "FIRST WO
 
 ## Why This Matters
 
-1. **The Wyandotte Echo / Rudy Fick / Coulter narrative is the upstream Bureau-and-OSI primary-source record of the crashed-saucer rumor that Frank Scully would commercialize eight months later.** SECRET PRIORITY OSI message dated January 16, 1950 — six weeks before the Hottel memo (March 22, 1950, `2026-05-08-fbi-62hq83894-guy-hottel-three-saucers-new-mexico-1950`) and eight months before Scully's *Behind the Flying Saucers* (Henry Holt, September 1950). The rumor was already in OSI Chief-of-Staff routing in mid-January 1950.
+1. **The Wyandotte Echo / Rudy Fick / Coulter narrative is the upstream Bureau-and-OSI primary-source record of the crashed-saucer rumor that Frank Scully would commercialize eight months later.** SECRET PRIORITY OSI message dated January 16, 1950 — six weeks before the Hottel memo (March 22, 1950, [guy-hottel-three-saucers-new-mexico-1950](guy-hottel-three-saucers-new-mexico-1950.md)) and eight months before Scully's *Behind the Flying Saucers* (Henry Holt, September 1950). The rumor was already in OSI Chief-of-Staff routing in mid-January 1950.
 
 2. **The 1950 crashed-saucer rumor was an institutional network with multiple branches.** The Wyandotte Echo (cabin-and-ring 18 ft, 50 saucers found, charred-vs-preserved bodies, blond and beardless 3-ft bodies, food in tablet form, bodies taped in wire) and the Newton/Koehler version (Mojave Desert single disc, 18 three-foot bodies, near-indestructible metal, radio-set souvenir) are different rumor branches with shared specifics. Plus the Hottel memo's third version (3 saucers in NM, 50 ft saucers, 3 humanoid bodies in metallic cloth). The Bureau had three distinct rumor-versions on file by March 22 1950 — converging on the crashed-saucer-and-3-ft-bodies schema with branch-specific details that don't internally reconcile.
 
@@ -147,15 +147,15 @@ Filed RECORDED-112, INDEXED-112, 62-83894-314. CORRECTION line at end: "FIRST WO
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-fbi-62hq83894-guy-hottel-three-saucers-new-mexico-1950`
-- `2026-05-08-fbi-62hq83894-frank-scully-communist-teletype-october-1950`
-- `2026-05-08-fbi-62hq83894-d3-briefing-halfery-mister-x-may-1950`
-- `2026-05-08-fbi-62hq83894-hixenbaugh-photographs-petrone-informant-1950`
-- `2026-05-08-fbi-62hq83894-civilian-correspondence-hoover-pattern-1949-1950`
-- `2026-05-08-fbi-62hq83894-dewayne-johnson-ucla-dissertation-arnold-second-pass-1950`
-- `pursue-program`
-- `aaro`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [guy-hottel-three-saucers-new-mexico-1950](guy-hottel-three-saucers-new-mexico-1950.md)
+- [frank-scully-communist-teletype-october-1950](frank-scully-communist-teletype-october-1950.md)
+- [d3-briefing-halfery-mister-x-may-1950](d3-briefing-halfery-mister-x-may-1950.md)
+- [hixenbaugh-photographs-petrone-informant-1950](hixenbaugh-photographs-petrone-informant-1950.md)
+- [civilian-correspondence-hoover-pattern-1949-1950](civilian-correspondence-hoover-pattern-1949-1950.md)
+- [dewayne-johnson-ucla-dissertation-arnold-second-pass-1950](dewayne-johnson-ucla-dissertation-arnold-second-pass-1950.md)
+- [PURSUE program](../../context/pursue-program.md)
+- [AARO](../../context/aaro.md)
 - `fbi`
 - `frank-scully`
 

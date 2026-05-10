@@ -98,13 +98,13 @@ He closes:
 
 ## Connections
 
-- `2026-05-09-fbi-62hq83894-kenneth-arnold-biographical-statement-1947` — Arnold's biographical statement (Section 2 page 163), the companion credentialing preface submitted with this narrative
-- `2026-05-08-fbi-62hq83894-springer-brown-cic-cluster-pre-maury-island-1947` — the 30-page Hamilton Field CIC cluster this document is Exhibit A of; includes Brown's evaluative posture in writing
-- `2026-05-08-fbi-62hq83894-maury-island-1947` — three weeks after Brown received this document, Brown and Davidson died on the Maury Island return flight; this is the last substantive document Brown handled in his UAP investigation
-- `2026-05-08-fbi-62hq83894-dewayne-johnson-ucla-dissertation-arnold-second-pass-1950` — second-pass first-person Arnold sighting narrative at 35-month remove (Section 5 page 161); compare quantitative parameters for consistency
-- `2026-05-09-fbi-62hq83894-wenyon-rehoboth-delaware-1946` — Wenyon's pre-Arnold sightings (September 1946, June 2, 1947) as pre-existing data points Arnold could not have known
-- `2026-05-08-fbi-62hq83894-section-2-1947-multi-case-extension-and-wenyon-pre-roswell` — multiple Section 2 1947 cases filed alongside this document in the same CIC cluster
-- `2026-05-08-pursue-release-01-full-inventory`
+- [kenneth-arnold-biographical-statement-1947](kenneth-arnold-biographical-statement-1947.md) — Arnold's biographical statement (Section 2 page 163), the companion credentialing preface submitted with this narrative
+- [springer-brown-cic-cluster-pre-maury-island-1947](springer-brown-cic-cluster-pre-maury-island-1947.md) — the 30-page Hamilton Field CIC cluster this document is Exhibit A of; includes Brown's evaluative posture in writing
+- [maury-island-1947](maury-island-1947.md) — three weeks after Brown received this document, Brown and Davidson died on the Maury Island return flight; this is the last substantive document Brown handled in his UAP investigation
+- [dewayne-johnson-ucla-dissertation-arnold-second-pass-1950](dewayne-johnson-ucla-dissertation-arnold-second-pass-1950.md) — second-pass first-person Arnold sighting narrative at 35-month remove (Section 5 page 161); compare quantitative parameters for consistency
+- [wenyon-rehoboth-delaware-1946](wenyon-rehoboth-delaware-1946.md) — Wenyon's pre-Arnold sightings (September 1946, June 2, 1947) as pre-existing data points Arnold could not have known
+- [section-2-1947-multi-case-extension-and-wenyon-pre-roswell](section-2-1947-multi-case-extension-and-wenyon-pre-roswell.md) — multiple Section 2 1947 cases filed alongside this document in the same CIC cluster
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
 
 ## Open Questions
 

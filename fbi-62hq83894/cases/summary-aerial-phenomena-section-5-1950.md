@@ -15,7 +15,7 @@ entities_mentioned: [sac-albuquerque, j-edgar-hoover, kirtland-osi, 17th-distric
 
 This source page documents a single FBI Office Memorandum found at Section 5 page 164: **SAC Albuquerque to Director, FBI, dated July 19, 1950, subject "SUMMARY OF AERIAL PHENOMENA IN NEW MEXICO."** Stamped 162-83894-V, received July 21, 1950. It is **not** itself a summary; it is a one-paragraph FBI transmittal cover letter forwarding an OSI-prepared summary of New Mexico aerial-phenomena observations covering December 1948 to May 25, 1950, "prepared by the Inspector General's Office of the 17th District of Special Investigations, Kirtland Air Force Base, New Mexico."
 
-This document is the **missing-link bridging memo** explicitly referenced in the Belmont→Ladd master memo of August 23, 1950 (pass 11, `2026-05-08-fbi-62hq83894-belmont-twinkle-master-memo-osi-log-1949-1950`). Pass 11 noted that "**The OSI July 19, 1950 summary** as the bridging document between La Paz's May 23 Seventh Report and Belmont's August 23 master memo — referenced but not in the OCR'd portions read." Page 164 is that referenced document — or, more precisely, the FBI Albuquerque transmittal of it.
+This document is the **missing-link bridging memo** explicitly referenced in the Belmont→Ladd master memo of August 23, 1950 (pass 11, [belmont-twinkle-master-memo-osi-log-1949-1950](belmont-twinkle-master-memo-osi-log-1949-1950.md)). Pass 11 noted that "**The OSI July 19, 1950 summary** as the bridging document between La Paz's May 23 Seventh Report and Belmont's August 23 master memo — referenced but not in the OCR'd portions read." Page 164 is that referenced document — or, more precisely, the FBI Albuquerque transmittal of it.
 
 The substantive content (the actual OSI summary of observations) is **not** filed in 62-HQ-83894. Two annotations make this explicit:
 
@@ -45,8 +45,8 @@ A handwritten "S-1 = Air Force" annotation in the margin marks the originating s
 
 ### What the transmittal page 164 establishes
 
-1. **Date-bracket of the underlying OSI summary**: December 1948 to May 25, 1950 — exactly seventeen months, ending two days after La Paz's Seventh Report submission of May 23, 1950 (`2026-05-08-fbi-62hq83894-la-paz-seventh-report-cabell-directive-twinkle`).
-2. **Authoring office**: 17th District OSI, Kirtland AFB, New Mexico — the same OSI office whose cumulative sighting log is excerpted in Section 6 (`2026-05-08-fbi-62hq83894-osi-cumulative-sighting-log-full-read-1948-1950`).
+1. **Date-bracket of the underlying OSI summary**: December 1948 to May 25, 1950 — exactly seventeen months, ending two days after La Paz's Seventh Report submission of May 23, 1950 ([la-paz-seventh-report-cabell-directive-twinkle](la-paz-seventh-report-cabell-directive-twinkle.md)).
+2. **Authoring office**: 17th District OSI, Kirtland AFB, New Mexico — the same OSI office whose cumulative sighting log is excerpted in Section 6 ([osi-cumulative-sighting-log-full-read-1948-1950](osi-cumulative-sighting-log-full-read-1948-1950.md)).
 3. **Routing**: Albuquerque-to-HQ, not USAF-to-FBI directly. The Bureau's New Mexico field office served as intake for OSI summary product.
 4. **Cross-file location**: original in **62-85557-217**, not in the Flying Discs file 62-83894. A new lead for any future researcher: the substantive document content is filed in a different FBI case-file altogether.
 5. **Bureau jurisdiction posture**: "for the completion of the Bureau's files" — a passive, archival framing. Albuquerque does not request action, does not flag investigative significance, does not characterize the contents.
@@ -75,7 +75,7 @@ They are **different documents at different stages of the same 1950 New Mexico i
 ## Why This Matters
 
 1. **Confirms the existence of the document Belmont referenced.** Pass 11 logged Belmont's "OSI July 19, 1950 summary" as cited-but-unread. Page 164 is the FBI-side record of that summary's transmittal, dated the same day and matching subject and date-bracket exactly. This closes a documentary gap in the 1948–1950 New Mexico phenomena chain.
-2. **Names the authoring office unambiguously.** The summary was prepared by the **17th District Office of Special Investigations, Kirtland AFB** — the same office that maintained the cumulative sighting log excerpted in Section 6 (`2026-05-08-fbi-62hq83894-osi-cumulative-sighting-log-full-read-1948-1950`). The OSI cumulative log and the OSI summary are likely the same evidentiary base, processed for two different purposes: structured table format for the cumulative log, narrative recapitulation for the summary.
+2. **Names the authoring office unambiguously.** The summary was prepared by the **17th District Office of Special Investigations, Kirtland AFB** — the same office that maintained the cumulative sighting log excerpted in Section 6 ([osi-cumulative-sighting-log-full-read-1948-1950](osi-cumulative-sighting-log-full-read-1948-1950.md)). The OSI cumulative log and the OSI summary are likely the same evidentiary base, processed for two different purposes: structured table format for the cumulative log, narrative recapitulation for the summary.
 3. **Identifies the 62-85557 cross-file.** The original substantive document is filed in 62-85557-217. This is a previously unflagged cross-reference. Future researchers attempting to locate the actual summary text should request 62-85557, not 62-HQ-83894.
 4. **Establishes Albuquerque field office as an OSI/Bureau information conduit.** Pass 11's master memo is HQ-level synthesis; page 164 shows the **field-office intake step** preceding it. Albuquerque routinely forwarded OSI-Kirtland product upward without commentary or jurisdictional claim.
 5. **Date-bracket of December 1948 to May 25, 1950 corroborates the seventeen-month observation window** that Belmont references in his master memo's "Since 1948, approximately 150 observations" claim. Belmont's denominator was almost certainly drawn from this OSI summary's count.
@@ -85,13 +85,13 @@ They are **different documents at different stages of the same 1950 New Mexico i
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-pentagon-ufo-files-drop`
-- `2026-05-08-fbi-62hq83894-belmont-twinkle-master-memo-osi-log-1949-1950` — pass 11, the master memo that cites this July 19, 1950 summary as the bridging document.
-- `2026-05-08-fbi-62hq83894-osi-cumulative-sighting-log-full-read-1948-1950` — pass 15, the structured-table OSI sighting log likely sharing an evidentiary base with the page 164 summary.
-- `2026-05-08-fbi-62hq83894-la-paz-seventh-report-cabell-directive-twinkle` — pass 10, La Paz's Seventh Report submitted May 23, 1950, two days before the closing date of the page 164 summary.
-- `2026-05-08-fbi-62hq83894-project-grudge-vital-installations-1948-1949` — pass 9, the vital-installations framing under which the December 1948 start-date of the OSI summary falls.
-- `uap-disclosure`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [PURSUE master report](../../pursue-release-01/README.md)
+- [belmont-twinkle-master-memo-osi-log-1949-1950](belmont-twinkle-master-memo-osi-log-1949-1950.md) — pass 11, the master memo that cites this July 19, 1950 summary as the bridging document.
+- [osi-cumulative-sighting-log-full-read-1948-1950](osi-cumulative-sighting-log-full-read-1948-1950.md) — pass 15, the structured-table OSI sighting log likely sharing an evidentiary base with the page 164 summary.
+- [la-paz-seventh-report-cabell-directive-twinkle](la-paz-seventh-report-cabell-directive-twinkle.md) — pass 10, La Paz's Seventh Report submitted May 23, 1950, two days before the closing date of the page 164 summary.
+- [project-grudge-vital-installations-1948-1949](project-grudge-vital-installations-1948-1949.md) — pass 9, the vital-installations framing under which the December 1948 start-date of the OSI summary falls.
+- [UAP disclosure (concept)](../../context/uap-disclosure.md)
 
 ## Open Questions
 

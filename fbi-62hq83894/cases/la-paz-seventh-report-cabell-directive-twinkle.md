@@ -13,7 +13,7 @@ entities_mentioned: [lincoln-la-paz, doyle-rees, c-p-cabell, joseph-f-carroll, a
 
 ## Summary
 
-Section 6 of 62-HQ-83894 contains the most substantive scientific document in the entire archive read so far: **Dr. Lincoln La Paz's "Anomalous Luminous Phenomena (Seventh Report)"** of May 23, 1950, written from the University of New Mexico Institute of Meteoritics to Lt. Colonel Doyle Rees, 17th District Office of Special Investigations at Kirtland Air Force Base. The Seventh Report extends the six-point Starvation Peak characterization documented in pass 9 (see `2026-05-08-fbi-62hq83894-project-grudge-vital-installations-1948-1949`) to **eleven specific differences** between the Green Fireballs and ordinary meteors, against a corpus of **72 objects** classified in the Green Fireball category by May 1950 (~5% of the total unscreened observations La Paz had received).
+Section 6 of 62-HQ-83894 contains the most substantive scientific document in the entire archive read so far: **Dr. Lincoln La Paz's "Anomalous Luminous Phenomena (Seventh Report)"** of May 23, 1950, written from the University of New Mexico Institute of Meteoritics to Lt. Colonel Doyle Rees, 17th District Office of Special Investigations at Kirtland Air Force Base. The Seventh Report extends the six-point Starvation Peak characterization documented in pass 9 (see [project-grudge-vital-installations-1948-1949](project-grudge-vital-installations-1948-1949.md)) to **eleven specific differences** between the Green Fireballs and ordinary meteors, against a corpus of **72 objects** classified in the Green Fireball category by May 1950 (~5% of the total unscreened observations La Paz had received).
 
 The report is striking on three counts:
 
@@ -23,7 +23,7 @@ The report is striking on three counts:
 
 The report is paired in 62-HQ-83894 Section 6 with three other documents that close several pass-8 and pass-9 open threads:
 
-- **Maj. Gen. C. P. Cabell's September 8, 1950 letter to J. Edgar Hoover** (Cabell as USAF Director of Intelligence, later Deputy Director CIA), transmitting the **AFOIC-CC-1 "Reporting of Information on Unconventional Aircraft" memorandum** of the same date — the founding USAF reporting protocol on UAPs to Air Materiel Command MCIS, with the explicit instruction "It is desired that no publicity be given this reporting or analysis activity." This is the formal directive successor to the March 1949 SAC field-letter named in `2026-05-08-fbi-62hq83894-oak-ridge-gasser-atomic-propulsion-1947-1949` and pass 9.
+- **Maj. Gen. C. P. Cabell's September 8, 1950 letter to J. Edgar Hoover** (Cabell as USAF Director of Intelligence, later Deputy Director CIA), transmitting the **AFOIC-CC-1 "Reporting of Information on Unconventional Aircraft" memorandum** of the same date — the founding USAF reporting protocol on UAPs to Air Materiel Command MCIS, with the explicit instruction "It is desired that no publicity be given this reporting or analysis activity." This is the formal directive successor to the March 1949 SAC field-letter named in [oak-ridge-gasser-atomic-propulsion-1947-1949](oak-ridge-gasser-atomic-propulsion-1947-1949.md) and pass 9.
 - **Lt. Col. Doyle Rees's May 25, 1950 "Summary of Observations of Aerial Phenomena in the New Mexico Area, December 1948 – May 1950"** to Brig. Gen. Joseph F. Carroll, Director of Special Investigations, HQ USAF — the multi-agency cover document that distributes La Paz's report to FBI El Paso and Albuquerque, AEC Los Alamos, and (originally, before strikethrough) to Joseph Kaplan at the AF Scientific Advisory Board, Wright-Patterson AMC Director of Technical Intelligence, and the Research and Development Board's Committee on Geophysics and Geography under Dr. H. E. Landsberg.
 - **D. M. Ladd's October 9, 1950 memo to Director Hoover** (FBI serial 162-83894-250) bringing **Project Twinkle in Bureau primary source** by name. Project Twinkle was the AF observation project at Vaughn, New Mexico set up "for the purpose of obtaining data regarding these unusual aerial phenomena which had been seen in the vicinity of sensitive installations in New Mexico." Project Engineer: **Dr. Anthony O. Mirarchi**. Land-Air, Inc. was the contractor. The Bureau routinely received approximately 3–4 complaints per month June–September 1950 and noted no observable increase during or as a result of the Korean War.
 - **The Datil NM photograph by Cpl Lertis E. Stanfield** (Holloman AFB), February 24–25, 1950, with La Paz's published verdict — not the moon, not Venus, not a planet, not a fixed star out of focus — and an excerpt of the OSI cumulative sighting log including a January 1948 USSR sighting on a line between Brest and Kiev.
@@ -79,7 +79,7 @@ La Paz's quoted February 20, 1950 letter to Dr. P. H. Wyckoff, Chief Atmospheric
 > "I have come to the conclusion that, on the basis of the evidence now available to me, I would not be justified in recommending a fireball project. In my opinion, this evidence proves conclusively that the fireballs reported on fall into one of two categories: Those of the first category (the majority) are meteorite falls of unusual, but certainly not of impossible, magnitude, frequency and other characteristics; those of the second category (the minority) are U. S. guided missiles undergoing tests in the neighborhoods of the sensitive installations they are designed to defend. This interpretation of the latter category is the one that I proposed in answer to a question raised by Dr. Teller at the first Los Alamos conference on February 17, 1949. It was not taken seriously then and I doubt that it will be taken seriously at the present time. However, even if my interpretation of the unconventional fireballs is the correct one, it is obvious that those in position to confirm it should refuse to do so."
 > — La Paz to Wyckoff, February 20, 1950, quoted in La Paz Seventh Report (Section 6 page 30)
 
-The "first Los Alamos conference on February 17, 1949" is the formal scientific conference referenced in `2026-05-08-fbi-62hq83894-project-grudge-vital-installations-1948-1949` (where SAC San Antonio's March 22, 1949 letter dated the AMC T-2 transition meeting to February 16, 1949 — these are the same meeting, possibly with different recorded dates due to multi-day session). **Edward Teller was present.** La Paz proposed the U.S.-tests-near-sensitive-installations hypothesis at that conference and saw it dismissed.
+The "first Los Alamos conference on February 17, 1949" is the formal scientific conference referenced in [project-grudge-vital-installations-1948-1949](project-grudge-vital-installations-1948-1949.md) (where SAC San Antonio's March 22, 1949 letter dated the AMC T-2 transition meeting to February 16, 1949 — these are the same meeting, possibly with different recorded dates due to multi-day session). **Edward Teller was present.** La Paz proposed the U.S.-tests-near-sensitive-installations hypothesis at that conference and saw it dismissed.
 
 The closing line — "those in position to confirm it should refuse to do so" — is one of the most quotable single sentences in the entire 62-HQ-83894 archive. It is La Paz's own articulation of the operational secrecy logic: even a correct U.S.-tests interpretation, if confirmed, would compromise the secret-tests it was confirming. The honest analyst's recommendation in that scenario is to refuse to confirm.
 
@@ -193,17 +193,17 @@ The presence of a Soviet-territory UAP sighting in the OSI cumulative log is dir
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-pentagon-ufo-files-drop` (master synthesis)
-- `2026-05-08-fbi-62hq83894-project-grudge-vital-installations-1948-1949` — pass 9 source page; this report extends the six-point Starvation Peak summary to eleven points and adds the Wyckoff letter / Teller-Los Alamos thread
-- `2026-05-08-fbi-62hq83894-oak-ridge-gasser-atomic-propulsion-1947-1949` — pass 8 source page; the Cabell directive is the formal successor to the SAC field-letter documented there
-- `2026-05-08-fbi-62hq83894-rhodes-phoenix-photographs-1947`
-- `2026-05-08-fbi-62hq83894-maury-island-1947`
-- `2026-05-08-fbi-62hq83894-muroc-1947-cic-affidavits`
-- `2026-05-08-fbi-62hq83894-1947-california-montana-cic`
-- `2026-05-08-fbi-62hq83894-davidson-brown-crash-mission-report`
-- `2026-05-08-fbi-62hq83894-philadelphia-1950-soap-suds-disc`
-- `uap-disclosure`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [PURSUE master report](../../pursue-release-01/README.md) (master synthesis)
+- [project-grudge-vital-installations-1948-1949](project-grudge-vital-installations-1948-1949.md) — pass 9 source page; this report extends the six-point Starvation Peak summary to eleven points and adds the Wyckoff letter / Teller-Los Alamos thread
+- [oak-ridge-gasser-atomic-propulsion-1947-1949](oak-ridge-gasser-atomic-propulsion-1947-1949.md) — pass 8 source page; the Cabell directive is the formal successor to the SAC field-letter documented there
+- [rhodes-phoenix-photographs-1947](rhodes-phoenix-photographs-1947.md)
+- [maury-island-1947](maury-island-1947.md)
+- [muroc-1947-cic-affidavits](muroc-1947-cic-affidavits.md)
+- [1947-california-montana-cic](1947-california-montana-cic.md)
+- [davidson-brown-crash-mission-report](davidson-brown-crash-mission-report.md)
+- [philadelphia-1950-soap-suds-disc](philadelphia-1950-soap-suds-disc.md)
+- [UAP disclosure (concept)](../../context/uap-disclosure.md)
 
 ## Open Questions
 

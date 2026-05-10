@@ -101,10 +101,10 @@ This establishes that Koehler's narrative about Newton's Mojave disc discovery p
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-09-fbi-62hq83894-hoover-scully-communist-investigation-october-1950` — director-level security vetting of Scully occurring six months after Bureau's institutional vetting of the source material
-- `2026-05-09-fbi-62hq83894-cabell-afoic-cc-1-multi-agency-protocol-september-1950` — formal UAP reporting protocol established September 8, 1950 (six months after pre-Scully rumor-network tracking)
-- `2026-05-09-fbi-62hq83894-merchant-wichita-falls-patriotic-civilian-august-1948` — field-office dismissal baseline contrast: civilian patriotic offer → field-office dismissal (Aug 1948) vs. civilian hoax spreading → URGENT director-level notification (Mar-Apr 1950)
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [hoover-scully-communist-investigation-october-1950](hoover-scully-communist-investigation-october-1950.md) — director-level security vetting of Scully occurring six months after Bureau's institutional vetting of the source material
+- [cabell-afoic-cc-1-multi-agency-protocol-september-1950](cabell-afoic-cc-1-multi-agency-protocol-september-1950.md) — formal UAP reporting protocol established September 8, 1950 (six months after pre-Scully rumor-network tracking)
+- [merchant-wichita-falls-patriotic-civilian-august-1948](merchant-wichita-falls-patriotic-civilian-august-1948.md) — field-office dismissal baseline contrast: civilian patriotic offer → field-office dismissal (Aug 1948) vs. civilian hoax spreading → URGENT director-level notification (Mar-Apr 1950)
 - `Entity: George T. Koehler`
 - `Entity: Silas Newton`
 - `Entity: Jim Barden`

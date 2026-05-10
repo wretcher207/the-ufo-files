@@ -96,14 +96,14 @@ The case was filed as FBI serial 62-83894-65 with destruction stamp dated Novemb
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory` — full PURSUE Release 01 file inventory
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md) — full PURSUE Release 01 file inventory
 - `fbi-62hq83894-full-inventory` — complete FBI 62-HQ-83894 case-mining index
-- `2026-05-09-fbi-62hq83894-kenneth-arnold-cascade-1947` — Kenneth Arnold June 24, 1947 Cascade sighting (temporally and geographically adjacent cascade cluster)
-- `2026-05-08-fbi-62hq83894-springer-brown-cic-cluster-pre-maury-island-1947` — Hamilton Field 4AF CIC investigative baseline concurrent with Myrtle Creek sighting
-- `2026-05-08-fbi-62hq83894-1947-california-montana-cic` — Switzer/Madden civilian-witness 4AF CIC investigations (same cluster contemporaneous)
-- `2026-05-08-fbi-62hq83894-muroc-1947-cic-affidavits` — Muroc CIC affidavits July 7–8 1947 (same credentialed-witness cluster pattern)
-- `2026-05-08-fbi-62hq83894-phoenix-blythe-radar-intercept-509th-bomb-group-june-1950` — 509th Bomb Group B-29 chase (later military-aircraft-pursuit case with similar operational decision-making)
-- `2026-05-09-fbi-62hq83894-portland-police-department-september-1947` — Portland Police Department multi-witness sighting (same geographic region, same 1947 wave)
+- [kenneth-arnold-cascade-1947](kenneth-arnold-cascade-1947.md) — Kenneth Arnold June 24, 1947 Cascade sighting (temporally and geographically adjacent cascade cluster)
+- [springer-brown-cic-cluster-pre-maury-island-1947](springer-brown-cic-cluster-pre-maury-island-1947.md) — Hamilton Field 4AF CIC investigative baseline concurrent with Myrtle Creek sighting
+- [1947-california-montana-cic](1947-california-montana-cic.md) — Switzer/Madden civilian-witness 4AF CIC investigations (same cluster contemporaneous)
+- [muroc-1947-cic-affidavits](muroc-1947-cic-affidavits.md) — Muroc CIC affidavits July 7–8 1947 (same credentialed-witness cluster pattern)
+- [phoenix-blythe-radar-intercept-509th-bomb-group-june-1950](phoenix-blythe-radar-intercept-509th-bomb-group-june-1950.md) — 509th Bomb Group B-29 chase (later military-aircraft-pursuit case with similar operational decision-making)
+- [portland-police-department-september-1947](portland-police-department-september-1947.md) — Portland Police Department multi-witness sighting (same geographic region, same 1947 wave)
 
 ## Open Questions
 

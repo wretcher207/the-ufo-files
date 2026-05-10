@@ -13,7 +13,7 @@ entities_mentioned: [a-h-belmont, d-m-ladd, anthony-o-mirarchi, lincoln-la-paz, 
 
 ## Summary
 
-This is the FBI master Project Twinkle / New Mexico phenomena memo that pass 10 (`2026-05-08-fbi-62hq83894-la-paz-seventh-report-cabell-directive-twinkle`) cited but did not read directly: **A. H. Belmont's August 23, 1950 four-page memorandum to D. M. Ladd** (FBI serial 62-83894-246), titled "SUMMARY OF AERIAL PHENOMENA IN NEW MEXICO — MISCELLANEOUS — INFORMATION CONCERNING." It is the document Ladd's October 9, 1950 follow-up memo (Section 6 pages 13/16, FBI serial 162-83894-250, documented in pass 10) referenced as "on August 23, 1950, I furnished to you a memorandum regarding Project Twinkle."
+This is the FBI master Project Twinkle / New Mexico phenomena memo that pass 10 ([la-paz-seventh-report-cabell-directive-twinkle](la-paz-seventh-report-cabell-directive-twinkle.md)) cited but did not read directly: **A. H. Belmont's August 23, 1950 four-page memorandum to D. M. Ladd** (FBI serial 62-83894-246), titled "SUMMARY OF AERIAL PHENOMENA IN NEW MEXICO — MISCELLANEOUS — INFORMATION CONCERNING." It is the document Ladd's October 9, 1950 follow-up memo (Section 6 pages 13/16, FBI serial 162-83894-250, documented in pass 10) referenced as "on August 23, 1950, I furnished to you a memorandum regarding Project Twinkle."
 
 Belmont's master memo establishes in primary FBI internal source:
 
@@ -112,7 +112,7 @@ Three weeks after the Belmont master memo, Hoover signed a referral letter to US
 > John Edgar Hoover - Director, Federal Bureau of Investigation"
 > — Hoover to USAF Director of Special Investigations, September 8, 1950 (Section 6 page 6)
 
-This is a small but documentary-grade Bureau standing-procedure piece: a Toronto civilian-witness writes to the FBI; the Bureau acknowledges the writer, refers the substantive content to USAF, files a copy under 62-HQ-83894. The procedural shape — *acknowledge to writer, refer to USAF, file* — is exactly the loop SAC Letter No. 38 (March 25, 1949, `2026-05-08-fbi-62hq83894-oak-ridge-gasser-atomic-propulsion-1947-1949`) and the Cabell AFOIC-CC-1 directive (September 8, 1950, `2026-05-08-fbi-62hq83894-la-paz-seventh-report-cabell-directive-twinkle`) had formalized. The Hoover→USAF letter is the loop in operation, the same day as the Cabell directive that formalized it.
+This is a small but documentary-grade Bureau standing-procedure piece: a Toronto civilian-witness writes to the FBI; the Bureau acknowledges the writer, refers the substantive content to USAF, files a copy under 62-HQ-83894. The procedural shape — *acknowledge to writer, refer to USAF, file* — is exactly the loop SAC Letter No. 38 (March 25, 1949, [oak-ridge-gasser-atomic-propulsion-1947-1949](oak-ridge-gasser-atomic-propulsion-1947-1949.md)) and the Cabell AFOIC-CC-1 directive (September 8, 1950, [la-paz-seventh-report-cabell-directive-twinkle](la-paz-seventh-report-cabell-directive-twinkle.md)) had formalized. The Hoover→USAF letter is the loop in operation, the same day as the Cabell directive that formalized it.
 
 ## Why This Matters
 
@@ -129,14 +129,14 @@ This is a small but documentary-grade Bureau standing-procedure piece: a Toronto
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-pentagon-ufo-files-drop` (master synthesis)
-- `2026-05-08-fbi-62hq83894-la-paz-seventh-report-cabell-directive-twinkle` — pass 10 source page; the Belmont master memo is the Bureau-internal companion document the Ladd October 9 memo referenced
-- `2026-05-08-fbi-62hq83894-project-grudge-vital-installations-1948-1949` — pass 9 source page; the OSI sighting log records sightings at Los Alamos, Sandia, Killeen Base — all the Vital Installations sites documented in pass 9
-- `2026-05-08-fbi-62hq83894-oak-ridge-gasser-atomic-propulsion-1947-1949` — pass 8 source page; the Hoover→USAF September 8, 1950 referral procedure is the operational form of the field-letter procedure documented in pass 8
-- `2026-05-08-fbi-62hq83894-rhodes-phoenix-photographs-1947`
-- `2026-05-08-fbi-62hq83894-philadelphia-1950-soap-suds-disc`
-- `uap-disclosure`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [PURSUE master report](../../pursue-release-01/README.md) (master synthesis)
+- [la-paz-seventh-report-cabell-directive-twinkle](la-paz-seventh-report-cabell-directive-twinkle.md) — pass 10 source page; the Belmont master memo is the Bureau-internal companion document the Ladd October 9 memo referenced
+- [project-grudge-vital-installations-1948-1949](project-grudge-vital-installations-1948-1949.md) — pass 9 source page; the OSI sighting log records sightings at Los Alamos, Sandia, Killeen Base — all the Vital Installations sites documented in pass 9
+- [oak-ridge-gasser-atomic-propulsion-1947-1949](oak-ridge-gasser-atomic-propulsion-1947-1949.md) — pass 8 source page; the Hoover→USAF September 8, 1950 referral procedure is the operational form of the field-letter procedure documented in pass 8
+- [rhodes-phoenix-photographs-1947](rhodes-phoenix-photographs-1947.md)
+- [philadelphia-1950-soap-suds-disc](philadelphia-1950-soap-suds-disc.md)
+- [UAP disclosure (concept)](../../context/uap-disclosure.md)
 
 ## Open Questions
 

@@ -21,7 +21,7 @@ Within four days in early July 1950, the FBI's case-handling pipeline processed 
 
 The pair makes a clean primary-source comparison of how the mid-1950 Bureau distinguished evidentially structured single-witness intake from disposable hoax intake — and how fast the resolution loop ran in each direction. Both cases were filed in the same week, in the same case file, with adjacent FBI serial numbers, transmitted via the same Hoover-class senior-routing distribution list (Tolson, Ladd, Clegg, Glavin, Nichols, Rosen, Tracy, Harbo, Belmont, Mohr, Tele. Room, Nease, Gandy).
 
-The North Chicago case also surfaces **the Bureau's explicit operational protocol for OSI-handoff of substantive single-witness intake** — Section 5 page 175 (a Director-to-SAC-Chicago directive of July 28 1950) requires the SAC to "advise the Bureau whether the information contained in your reference letter has been furnished to the local office of OSI in Chicago, Illinois in accordance with existing Bureau instructions." This is the **earliest in-archive primary-source artifact** of the Bureau Bulletin operational chain that funneled civilian-witness intake from FBI field offices to OSI for analytical review while the Bureau retained no analytical engagement (per `2026-05-08-fbi-62hq83894-belmont-twinkle-master-memo-osi-log-1949-1950`).
+The North Chicago case also surfaces **the Bureau's explicit operational protocol for OSI-handoff of substantive single-witness intake** — Section 5 page 175 (a Director-to-SAC-Chicago directive of July 28 1950) requires the SAC to "advise the Bureau whether the information contained in your reference letter has been furnished to the local office of OSI in Chicago, Illinois in accordance with existing Bureau instructions." This is the **earliest in-archive primary-source artifact** of the Bureau Bulletin operational chain that funneled civilian-witness intake from FBI field offices to OSI for analytical review while the Bureau retained no analytical engagement (per [belmont-twinkle-master-memo-osi-log-1949-1950](belmont-twinkle-master-memo-osi-log-1949-1950.md)).
 
 The Alice Texas case also surfaces the **Bureau's mid-1950 press-handling tradecraft**: SAC Houston's first URGENT teletype (page 176) closes with "**PRESS INQUIRIES OF THIS OFFICE WILL BE ANSWERED WITH NO COMMENT UACB**" (UACB = "Unless Advised to the Contrary by the Bureau"), with handwritten note on the teletype reading "**7-4-50 4:45PM Press release O.K. Per Mr. Nichols E**." The Bureau's standing-policy on UAP press inquiries — silence-until-cleared — is on the file in primary form, with the operational override-clearance process documented (Mr. Nichols of FBI HQ explicitly clearing a press release within 4 hours of the case opening).
 
@@ -105,7 +105,7 @@ The Houston teletype's distribution list was 13 senior officials; the San Antoni
 
 1. **The pair establishes the mid-1950 Bureau case-handling spectrum in primary source.** Same week, same case file, adjacent FBI serial numbers (62-83894-235 vs. -236/-237/-238), same Director-level senior distribution list. One end of the spectrum: a 20-25-second single-witness reliable-informant sighting with structured visual mensuration over a Naval Training Center, escalated to OSI handoff within 27 days. Other end: a 4-hour-resolution hoax case with a freshly-painted welded-wings prank, closed by the Chief of Police of Alice via local radio newscast, with the Bureau's "no further inquires to be made" disposition logged less than 4 hours after first contact.
 
-2. **The earliest in-archive primary-source artifact of the Bureau's OSI-handoff verification protocol.** Section 5 page 175 directs SAC Chicago to "advise the Bureau whether the information contained in your reference letter has been furnished to the local office of OSI in Chicago, Illinois in accordance with existing Bureau instructions." The Director's office maintained an automated compliance-verification step on top of the standing OSI-handoff protocol — UAP intake handoffs were not just trusted, they were verified. Operational refinement to the Belmont-Twinkle master-memo arc (`2026-05-08-fbi-62hq83894-belmont-twinkle-master-memo-osi-log-1949-1950`).
+2. **The earliest in-archive primary-source artifact of the Bureau's OSI-handoff verification protocol.** Section 5 page 175 directs SAC Chicago to "advise the Bureau whether the information contained in your reference letter has been furnished to the local office of OSI in Chicago, Illinois in accordance with existing Bureau instructions." The Director's office maintained an automated compliance-verification step on top of the standing OSI-handoff protocol — UAP intake handoffs were not just trusted, they were verified. Operational refinement to the Belmont-Twinkle master-memo arc ([belmont-twinkle-master-memo-osi-log-1949-1950](belmont-twinkle-master-memo-osi-log-1949-1950.md)).
 
 3. **Mr. Nichols (Louis B. Nichols, Assistant Director / chief press-and-public-relations officer) personally cleared a press release on a UAP-hoax case within 10 minutes of teletype receipt.** The handwritten clearance note "7-4-50 4:45PM Press release O.K. Per Mr. Nichols E" on the SAC Houston teletype establishes the Bureau's mid-1950 senior-level press-clearance loop on UAP cases as ~10-minute-decision-cycle. The "UACB" caveat ("Unless Advised to the Contrary by the Bureau") in field-office teletypes was operationally reversible by direct Nichols-level decision in minutes.
 
@@ -121,15 +121,15 @@ The Houston teletype's distribution list was 13 senior officials; the San Antoni
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-fbi-62hq83894-civilian-correspondence-hoover-pattern-1949-1950`
-- `2026-05-08-fbi-62hq83894-pervier-tulsa-fbi-agent-corroboration-1950`
-- `2026-05-08-fbi-62hq83894-belmont-twinkle-master-memo-osi-log-1949-1950`
-- `2026-05-08-fbi-62hq83894-osi-cumulative-sighting-log-full-read-1948-1950`
-- `2026-05-08-fbi-62hq83894-phoenix-blythe-radar-intercept-509th-bomb-group-june-1950`
-- `2026-05-08-fbi-62hq83894-hixenbaugh-photographs-petrone-informant-1950`
-- `pursue-program`
-- `aaro`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [civilian-correspondence-hoover-pattern-1949-1950](civilian-correspondence-hoover-pattern-1949-1950.md)
+- [pervier-tulsa-fbi-agent-corroboration-1950](pervier-tulsa-fbi-agent-corroboration-1950.md)
+- [belmont-twinkle-master-memo-osi-log-1949-1950](belmont-twinkle-master-memo-osi-log-1949-1950.md)
+- [osi-cumulative-sighting-log-full-read-1948-1950](osi-cumulative-sighting-log-full-read-1948-1950.md)
+- [phoenix-blythe-radar-intercept-509th-bomb-group-june-1950](phoenix-blythe-radar-intercept-509th-bomb-group-june-1950.md)
+- [hixenbaugh-photographs-petrone-informant-1950](hixenbaugh-photographs-petrone-informant-1950.md)
+- [PURSUE program](../../context/pursue-program.md)
+- [AARO](../../context/aaro.md)
 - `fbi`
 
 ## Open Questions

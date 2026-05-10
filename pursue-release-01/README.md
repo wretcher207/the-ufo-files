@@ -1,4 +1,4 @@
-# PURSUE Release 01 — Master Report
+# PURSUE Release 01: Master Report
 
 **Released:** May 8, 2026
 **Source:** [war.gov/UFO/](https://www.war.gov/UFO/) (Department of War, supported by ODNI, vetted by AARO)
@@ -31,13 +31,13 @@ Read carefully, this is not nothing. Read carefully, it is also not aliens. It i
 
 Most news coverage of PURSUE Release 01 leans on three things: the football-shaped INDOPACOM video, the Eye-of-Sauron simile, and Tyson's pre-release prediction that the files would be anticlimactic. All three are real. None of them are the highest-leverage items in the release.
 
-This report is built directly off the file inventory and the AARO-authored case descriptions in the official metadata. The full inventory raw extract lives at [`full-inventory.md`](full-inventory.md). Per-case writeups are in [`cases/`](cases/). News coverage and framing pages are in [`coverage/`](coverage/).
+This report is built directly off the file inventory and the AARO-authored case descriptions in the official metadata. The full inventory raw extract lives at [PURSUE full inventory](full-inventory.md). Per-case writeups are in [`cases/`](cases/). News coverage and framing pages are in [`coverage/`](coverage/).
 
 ---
 
 ## The four threads that matter
 
-### 1. NASA-UAP-VM6, Apollo 17 Triangular Formation Photo
+### 1: NASA-UAP-VM6, Apollo 17 Triangular Formation Photo
 
 → [Full case writeup](cases/apollo-17-vm6.md)
 
@@ -58,7 +58,7 @@ Apollo 12 (NASA-UAP-D1) has LMP Alan Bean observing *"particles and flashes of l
 
 This is the case to track. If the Apollo 17 re-analysis lands on "is" rather than "potentially," it changes the disclosure conversation in a way no infrared sensor clip can.
 
-### 2. The September 2023 Bronze Ellipsoid (FBI)
+### 2: The September 2023 Bronze Ellipsoid (FBI)
 
 → [Full case writeup](cases/bronze-ellipsoid.md)
 
@@ -76,7 +76,7 @@ The FBI Lab produced an actual graphic overlay on a real photograph of the site.
 
 Almost no major outlet is leading with this case. The football-shaped infrared blob is dominating coverage instead, despite being a 9-second monocular sensor clip without scale, range, or witness corroboration.
 
-### 3. The USPER Statement
+### 3: The USPER Statement
 
 → [Full case writeup](cases/usper-statement.md)
 
@@ -94,7 +94,7 @@ The narrative:
 
 A senior intelligence official, on the record, describes a sustained 30-minute multi-orb event at a US military facility, with helicopter pursuit failure and thermal observation. If accurate as filed, this is the kind of incident where the government has all the supporting sensor data and is choosing what to release. The 302 interview is what they released. The helicopter's onboard FLIR, radar, and thermal imagery is, presumably, what they didn't.
 
-### 4. The Western US "Orbs Launching Orbs" Event (2023)
+### 4: The Western US "Orbs Launching Orbs" Event (2023)
 
 → [Full case writeup](cases/orbs-launching-orbs.md)
 
@@ -102,7 +102,7 @@ Seven federal law enforcement officers, three two-officer teams, multiple wester
 
 AARO's own self-assessment in the slides PDF:
 
-> "the reporters' credibility, and the potentially anomalous nature of the events themselves — combine to make this report among the most compelling within AARO's current holdings."
+> "the reporters' credibility, and the potentially anomalous nature of the events themselves, combine to make this report among the most compelling within AARO's current holdings."
 
 That is an unusually direct AARO endorsement. Compare to the AARO standard line on every video clip: "should not be interpreted as a conclusive indication."
 
@@ -112,7 +112,7 @@ The viral "Eye of Sauron" simile that has dominated coverage is one of these off
 
 ## Other substantive files most coverage has missed
 
-### State Dept Cable 5, Mexico, September 2003 — Alien Corpses Hearing
+### State Dept Cable 5, Mexico, September 2003: Alien Corpses Hearing
 
 → [Full case writeup](cases/mexico-2003-alien-corpses.md)
 
@@ -122,7 +122,7 @@ Verbatim AARO summary:
 
 A US Embassy cable, on file at the Department of State, documenting the Mexican Congress being shown alleged alien corpses in 2003. Buried in a 162-file release.
 
-### State Dept Cable 2, Kazakhstan, January 1994 — 747 Encounter
+### State Dept Cable 2, Kazakhstan, January 1994, 747 Encounter
 
 → [Full case writeup](cases/kazakhstan-1994-747.md)
 
@@ -152,11 +152,11 @@ The release contains AARO's own commentary on selected cases. These are revealin
 
 - **DOW-UAP-PR21 (Iraq 2022).** Mission report described UAP as "probable SU-27/35." AARO comment: "SU-27 and SU-35 are designations for military aircraft operated by the Armed Forces of the Russian Federation." (Russian fighter, not anomaly.)
 - **DOW-UAP-PR45 (Southern US 2020).** AARO comment: "The area of contrast's apparent increase in size is likely to be at least partially attributable to the U.S. platform closing the distance between itself and the source of the detection." (Parallax artifact.)
-- **DOW-UAP-PR38 (Middle East 2013).** Modal Image text reads "Resolved as an Aircraft, Middle East 2013" — included in the unresolved tranche despite already being resolved.
+- **DOW-UAP-PR38 (Middle East 2013).** Modal Image text reads "Resolved as an Aircraft, Middle East 2013", included in the unresolved tranche despite already being resolved.
 
 The implication: AARO is willing to identify mundane causes when it can. The cases left unresolved are unresolved because the data is insufficient, not because AARO is hiding alien explanations behind boilerplate. This is the strongest argument against the "they're sitting on the truth" framing.
 
-It also means the cases that survive AARO's filter — Apollo 17 VM6, the Bronze Ellipsoid, USPER, Western US orbs — survive for a reason.
+It also means the cases that survive AARO's filter. Apollo 17 VM6, the Bronze Ellipsoid, USPER, Western US orbs, survive for a reason.
 
 ---
 
@@ -176,7 +176,7 @@ Both can be true.
 
 ## What to watch next
 
-1. **The Apollo 17 NASA + DOW re-analysis.** The Apollo 17 VM6 case is the only one where AARO has committed to *"potentially a physical object."* If the full re-analysis lands on a definitive identification — physical or not — it changes the disclosure conversation.
+1. **The Apollo 17 NASA + DOW re-analysis.** The Apollo 17 VM6 case is the only one where AARO has committed to *"potentially a physical object."* If the full re-analysis lands on a definitive identification, physical or not, it changes the disclosure conversation.
 2. **The Anna Paulina Luna whistleblower videos.** Expected in a later PURSUE tranche.
 3. **Sensor metadata.** If AARO publishes the full sensor records for the Bronze Ellipsoid, USPER, or western-US orbs cases, those become independently analyzable.
 4. **Whether the Bronze Ellipsoid case gets institutional follow-up.** It is the most evidentially structured case in the release and has had almost no public investigation.
@@ -186,20 +186,20 @@ Both can be true.
 ## Source notes
 
 **Primary spine:**
-- [`full-inventory.md`](full-inventory.md) — full 162-item AARO catalog with file URLs.
+- [PURSUE full inventory](full-inventory.md), full 162-item AARO catalog with file URLs.
 
 **Per-case writeups:** [`cases/`](cases/)
-- [Apollo 17 VM6](cases/apollo-17-vm6.md) — the smoking-gun candidate
-- [Bronze Ellipsoid](cases/bronze-ellipsoid.md) — most evidentially structured case
-- [USPER Statement](cases/usper-statement.md) — highest-rank single witness
-- [Orbs Launching Orbs](cases/orbs-launching-orbs.md) — most AARO-endorsed case
-- [Mexico 2003 Alien Corpses Cable](cases/mexico-2003-alien-corpses.md) — buried lede
-- [Kazakhstan 1994 747 Encounter](cases/kazakhstan-1994-747.md) — historical cable
+- [Apollo 17 VM6](cases/apollo-17-vm6.md), the smoking-gun candidate
+- [Bronze Ellipsoid](cases/bronze-ellipsoid.md), most evidentially structured case
+- [USPER Statement](cases/usper-statement.md), highest-rank single witness
+- [Orbs Launching Orbs](cases/orbs-launching-orbs.md), most AARO-endorsed case
+- [Mexico 2003 Alien Corpses Cable](cases/mexico-2003-alien-corpses.md), buried lede
+- [Kazakhstan 1994 747 Encounter](cases/kazakhstan-1994-747.md), historical cable
 
 **Coverage and framing:** [`coverage/`](coverage/)
-- [Tyson's anticlimactic prediction](coverage/tyson-anticlimactic-prediction.md) — pre-release skeptical anchor
+- [Tyson's anticlimactic prediction](coverage/tyson-anticlimactic-prediction.md), pre-release skeptical anchor
 - [New Space Economy: what "unresolved" actually means](coverage/newspaceeconomy-analysis.md)
-- [CBS](coverage/cbs-news.md), [Fox](coverage/fox-news.md), [Stars and Stripes](coverage/stars-and-stripes.md), [Mirror](coverage/mirror-football-uap.md), [Washington Times](coverage/washtimes-trump-ufo-files.md) — news-cycle coverage
+- [CBS News coverage](coverage/cbs-news.md), [Fox News coverage](coverage/fox-news.md), [Stars and Stripes](coverage/stars-and-stripes.md), [Mirror, football-UAP framing](coverage/mirror-football-uap.md), [Washington Times](coverage/washtimes-trump-ufo-files.md), news-cycle coverage
 
 **Context:** [`../context/`](../context/)
 - [PURSUE program](../context/pursue-program.md)

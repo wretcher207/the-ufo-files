@@ -59,12 +59,12 @@ The combined picture: a recurring multi-year, multi-witness, western US testing-
 
 ## Connections
 
-- `pursue-program`
-- `aaro`
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-bronze-ellipsoid-september-2023`
-- `2026-05-08-usper-statement-orb-helicopter-chase`
-- `2026-05-08-pentagon-ufo-files-drop` — master synthesis
+- [PURSUE program](../../context/pursue-program.md)
+- [AARO](../../context/aaro.md)
+- [PURSUE full inventory](../full-inventory.md)
+- [Bronze Ellipsoid (Sept 2023)](bronze-ellipsoid.md)
+- [USPER Statement](usper-statement.md)
+- [PURSUE master report](../README.md) — master synthesis
 
 ## Open Questions
 

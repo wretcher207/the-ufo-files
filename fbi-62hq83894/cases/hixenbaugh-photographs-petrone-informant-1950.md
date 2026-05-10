@@ -19,7 +19,7 @@ What makes these two cases worth a single combined wiki page is what each contai
 
 The Petrone case is thinner in evidentiary substance but operationally clean. ROBERT R. PETRONE, publisher of the Midwest Times newspaper at 3437 West Chicago Avenue, brought to the Chicago Field Office on July 28, 1950 an unsolicited letter postmarked July 25 from an "ALBERT HOLMBERG" describing a flying saucer "not yet owned by any government" with crystal-glass wings, two jet engines, and radio control. Petrone explicitly told the Bureau he did not want to publish the letter "as he felt the Army desired that the matter be kept confidential," and committed to reporting back if HOLMBERG sent the promised "zinc cuts" or further correspondence. Chicago indices were negative on HOLMBERG. The case generated a Chicago-to-Bureau memo (page 194) and a follow-up forwarding-to-OSI memo (page 192) eight days later. No further investigative file is visible in Section 5.
 
-The two cases together establish the **mid-1950 case-volume pattern**: Bureau field offices were processing UAP-related civilian-witness matter at a tempo that no longer warranted standalone investigative attention but still triggered standardized field-office reporting and OSI-forwarding correspondence. They also document the **two evidentiary modalities the Bureau was case-handling in parallel**: (1) photographic-evidence cases inheriting the procedural lineage of the `2026-05-08-fbi-62hq83894-rhodes-phoenix-photographs-1947` case, and (2) informant-tip cases inheriting the lineage of the `2026-05-08-fbi-62hq83894-cuneo-jones-winchell-followup-1949` case. Both lineages converge on the same disposition: forward to OSI per the `2026-05-08-fbi-62hq83894-belmont-twinkle-master-memo-osi-log-1949-1950|Cabell directive` structure, no Bureau action.
+The two cases together establish the **mid-1950 case-volume pattern**: Bureau field offices were processing UAP-related civilian-witness matter at a tempo that no longer warranted standalone investigative attention but still triggered standardized field-office reporting and OSI-forwarding correspondence. They also document the **two evidentiary modalities the Bureau was case-handling in parallel**: (1) photographic-evidence cases inheriting the procedural lineage of the [rhodes-phoenix-photographs-1947](rhodes-phoenix-photographs-1947.md) case, and (2) informant-tip cases inheriting the lineage of the [cuneo-jones-winchell-followup-1949](cuneo-jones-winchell-followup-1949.md) case. Both lineages converge on the same disposition: forward to OSI per the `2026-05-08-fbi-62hq83894-belmont-twinkle-master-memo-osi-log-1949-1950|Cabell directive` structure, no Bureau action.
 
 ## What the Section 5 Documents Document
 
@@ -79,7 +79,7 @@ The reference to "Chicago let dated July 18, 1950" indicates an earlier Chicago 
 
 2. **Two distinct evidence types, identical disposition.** Hixenbaugh produced 50 feet of 16 mm motion-picture film with national television and Walter Winchell distribution. Petrone delivered a one-page anonymous letter to a small-circulation neighborhood newspaper. The Bureau's case-handling protocol for both was identical: field-office memo to Director, followed by OSI forwarding. The disposition envelope is type-agnostic by mid-1950, even when the evidentiary substance differs by orders of magnitude.
 
-3. **Photographic-evidence comparison to Rhodes 1947.** The Rhodes case (see `2026-05-08-fbi-62hq83894-rhodes-phoenix-photographs-1947`) generated a Hoover-level teletype expressly *forbidding* joint Bureau-AAF investigation of civilian photographic evidence. By July 1950 the Hixenbaugh case generated no Bureau interest in the photographs at all; the AAF examination chain (Godman Field to Wright-Patterson) ran independently of the Bureau, and the Louisville Office's role was reduced to (a) refusing to clear AAF visitors as authentic and (b) documenting an internal-newsroom hoax allegation against the photographer. The 1947 Hoover concern about Bureau exposure to civilian photographic evidence has, by 1950, been operationally resolved by handing photographic cases entirely to OSI/AAF.
+3. **Photographic-evidence comparison to Rhodes 1947.** The Rhodes case (see [rhodes-phoenix-photographs-1947](rhodes-phoenix-photographs-1947.md)) generated a Hoover-level teletype expressly *forbidding* joint Bureau-AAF investigation of civilian photographic evidence. By July 1950 the Hixenbaugh case generated no Bureau interest in the photographs at all; the AAF examination chain (Godman Field to Wright-Patterson) ran independently of the Bureau, and the Louisville Office's role was reduced to (a) refusing to clear AAF visitors as authentic and (b) documenting an internal-newsroom hoax allegation against the photographer. The 1947 Hoover concern about Bureau exposure to civilian photographic evidence has, by 1950, been operationally resolved by handing photographic cases entirely to OSI/AAF.
 
 4. **Informant-evidence comparison to Cuneo/Jones 1949.** The `2026-05-08-fbi-62hq83894-cuneo-jones-winchell-followup-1949|Cuneo/Jones case` involved a named columnist (Walter Winchell) running a UAP claim through the Bureau via a journalist conduit. The Petrone case is a smaller-scale version of the same pattern: a small-circulation newspaper publisher walking unsolicited mail into a field office. The Bureau handled both with a no-action / refer-out posture, but in 1950 the field-office memo no longer raises the question of investigative action. It assumes OSI handoff as the default.
 
@@ -91,15 +91,15 @@ The reference to "Chicago let dated July 18, 1950" indicates an earlier Chicago 
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-pentagon-ufo-files-drop`
-- `2026-05-08-fbi-62hq83894-rhodes-phoenix-photographs-1947` (the famous photographic-evidence comparable; opposite procedural posture in 1947)
-- `2026-05-08-fbi-62hq83894-cuneo-jones-winchell-followup-1949` (informant-conduit comparable from the prior year)
-- `2026-05-08-fbi-62hq83894-civilian-correspondence-hoover-pattern-1949-1950` (pass 17; the broader civilian-correspondence and form-reply pattern that dominates Section 5)
-- `2026-05-08-fbi-62hq83894-belmont-twinkle-master-memo-osi-log-1949-1950` (pass 11; the OSI-handoff structural memo whose disposition logic both these 1950 cases inherit)
-- `2026-05-08-fbi-62hq83894-osi-cumulative-sighting-log-full-read-1948-1950` (pass 15; the OSI cumulative-log endpoint these field-office memos feed into)
-- `2026-05-08-fbi-62hq83894-houston-noack-physical-object-1948` (procedural contrast; in 1948 a recovered-object case mobilized multi-state Bureau Agent presence at AAF examination, by mid-1950 the photographic and informant cases get standardized OSI-forwarding)
-- `uap-disclosure`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [PURSUE master report](../../pursue-release-01/README.md)
+- [rhodes-phoenix-photographs-1947](rhodes-phoenix-photographs-1947.md) (the famous photographic-evidence comparable; opposite procedural posture in 1947)
+- [cuneo-jones-winchell-followup-1949](cuneo-jones-winchell-followup-1949.md) (informant-conduit comparable from the prior year)
+- [civilian-correspondence-hoover-pattern-1949-1950](civilian-correspondence-hoover-pattern-1949-1950.md) (pass 17; the broader civilian-correspondence and form-reply pattern that dominates Section 5)
+- [belmont-twinkle-master-memo-osi-log-1949-1950](belmont-twinkle-master-memo-osi-log-1949-1950.md) (pass 11; the OSI-handoff structural memo whose disposition logic both these 1950 cases inherit)
+- [osi-cumulative-sighting-log-full-read-1948-1950](osi-cumulative-sighting-log-full-read-1948-1950.md) (pass 15; the OSI cumulative-log endpoint these field-office memos feed into)
+- [houston-noack-physical-object-1948](houston-noack-physical-object-1948.md) (procedural contrast; in 1948 a recovered-object case mobilized multi-state Bureau Agent presence at AAF examination, by mid-1950 the photographic and informant cases get standardized OSI-forwarding)
+- [UAP disclosure (concept)](../../context/uap-disclosure.md)
 
 ## Open Questions
 

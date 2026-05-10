@@ -13,7 +13,7 @@ entities_mentioned: [pursue-program, aaro, fbi]
 
 ## Summary
 
-Immediately following the Muroc Army Air Field affidavit cluster (`2026-05-08-fbi-62hq83894-muroc-1947-cic-affidavits`), Section 3 of FBI 62-HQ-83894 carries two **civilian-witness 4AF CIC investigations** from the same August 1947 paper trail:
+Immediately following the Muroc Army Air Field affidavit cluster ([muroc-1947-cic-affidavits](muroc-1947-cic-affidavits.md)), Section 3 of FBI 62-HQ-83894 carries two **civilian-witness 4AF CIC investigations** from the same August 1947 paper trail:
 
 1. **Switzer family / Cedar Ravine Road / Placerville, California, 14 August 1947, ~16:00.** Multi-witness sighting from a moving automobile of a 4–6 ft "highly polished chromium" rectangular metallic object that vanished into a 10-ft puff of dark gray smoke at ~800 yards distance. Investigated by **4AF CIC Special Agents Bryden E. Moon and Hubbard** at the Switzer home in Sacramento on 20 August 1947. Mrs. Switzer and her mother corroborated separately.
 
@@ -139,21 +139,21 @@ Distribution per Springer's transmittal: AAF (2 copies), Air Defense Command (1)
 
 2. **The "melted into thin air" termination** is unusual. Madden distinguishes this carefully from "passed beyond an obstruction." He is asserting the object terminated at apparent visibility while still in clear sky. That is a discrete observation independent of the object's physical reality, and is one of the better-documented 1947 instances of the "abrupt vanish" pattern.
 
-3. **Arnold-spillover effect.** Madden's cover letter explicitly cites the August 7 1947 *Spokesman Review* account of Kenneth Arnold's Tacoma visit (during the Maury Island episode — see `2026-05-08-fbi-62hq83894-maury-island-1947`) as his motivation to come forward with a sighting from 10 days earlier. That confirms the broader 1947 reporting pattern: civilians witnessed events, said nothing, then came forward only after Arnold's wave became national news.
+3. **Arnold-spillover effect.** Madden's cover letter explicitly cites the August 7 1947 *Spokesman Review* account of Kenneth Arnold's Tacoma visit (during the Maury Island episode — see [maury-island-1947](maury-island-1947.md)) as his motivation to come forward with a sighting from 10 days earlier. That confirms the broader 1947 reporting pattern: civilians witnessed events, said nothing, then came forward only after Arnold's wave became national news.
 
 4. **AAF chose not to investigate.** Springer's cover note — *"No further investigation will be made of this reported incident by this headquarters"* — is a deliberate non-action commitment, distributed to AAF, ADC, 6th Army, and FBI simultaneously. Compare to the Switzer case which got CIC ground investigation, and to the Muroc cluster which got nine sworn affidavits. The differential is informative: 4AF/A-2 invested in cases with military-witness components and declined civilian-only cases lacking corroborating physical evidence.
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-pentagon-ufo-files-drop`
-- `2026-05-08-fbi-62hq83894-muroc-1947-cic-affidavits`
-- `2026-05-08-fbi-62hq83894-maury-island-1947`
-- `2026-05-08-fbi-62hq83894-davidson-brown-crash-mission-report`
-- `pursue-program`
-- `aaro`
-- `department-of-war`
-- `uap-disclosure`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [PURSUE master report](../../pursue-release-01/README.md)
+- [muroc-1947-cic-affidavits](muroc-1947-cic-affidavits.md)
+- [maury-island-1947](maury-island-1947.md)
+- [davidson-brown-crash-mission-report](davidson-brown-crash-mission-report.md)
+- [PURSUE program](../../context/pursue-program.md)
+- [AARO](../../context/aaro.md)
+- [Department of War](../../context/department-of-war.md)
+- [UAP disclosure (concept)](../../context/uap-disclosure.md)
 
 ## Open Questions
 

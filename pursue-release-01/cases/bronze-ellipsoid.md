@@ -47,12 +47,12 @@ The FBI Photo B-series (24 monochrome stills, late 2025, "Western United States"
 
 ## Connections
 
-- `pursue-program`
-- `aaro`
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-usper-statement-orb-helicopter-chase`
-- `2026-05-08-orbs-launching-orbs-western-us`
-- `2026-05-08-pentagon-ufo-files-drop` — master synthesis
+- [PURSUE program](../../context/pursue-program.md)
+- [AARO](../../context/aaro.md)
+- [PURSUE full inventory](../full-inventory.md)
+- [USPER Statement](usper-statement.md)
+- [Western US orbs launching orbs](orbs-launching-orbs.md)
+- [PURSUE master report](../README.md) — master synthesis
 
 ## Open Questions
 

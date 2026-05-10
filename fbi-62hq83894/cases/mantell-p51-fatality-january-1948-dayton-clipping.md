@@ -116,15 +116,15 @@ The "Mrs. Frank Gardner" attribution on the cover memo is operationally inconsis
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-fbi-62hq83894-davidson-brown-crash-mission-report`
-- `2026-05-08-fbi-62hq83894-project-grudge-vital-installations-1948-1949`
-- `2026-05-08-fbi-62hq83894-belmont-twinkle-master-memo-osi-log-1949-1950`
-- `2026-05-08-fbi-62hq83894-civilian-correspondence-hoover-pattern-1949-1950`
-- `2026-05-08-fbi-62hq83894-pre-scully-crashed-saucer-rumor-network-1950`
-- `2026-05-08-fbi-62hq83894-kodiak-alaska-oni-january-1950`
-- `pursue-program`
-- `aaro`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [davidson-brown-crash-mission-report](davidson-brown-crash-mission-report.md)
+- [project-grudge-vital-installations-1948-1949](project-grudge-vital-installations-1948-1949.md)
+- [belmont-twinkle-master-memo-osi-log-1949-1950](belmont-twinkle-master-memo-osi-log-1949-1950.md)
+- [civilian-correspondence-hoover-pattern-1949-1950](civilian-correspondence-hoover-pattern-1949-1950.md)
+- [pre-scully-crashed-saucer-rumor-network-1950](pre-scully-crashed-saucer-rumor-network-1950.md)
+- [kodiak-alaska-oni-january-1950](kodiak-alaska-oni-january-1950.md)
+- [PURSUE program](../../context/pursue-program.md)
+- [AARO](../../context/aaro.md)
 - `fbi`
 - `captain-mantell`
 - `project-sign`

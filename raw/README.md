@@ -39,14 +39,14 @@ generated_at: "..."
 
 `manifest.jsonl` records one JSON line per page conversion, including the source file, page number, output path, character count, status, and any error.
 
-These transcripts were generated using gemini-3.1-flash-lite OCR. They are not perfect — some pages are heavily redacted or photo-degraded and return `[illegible]` tokens. Where a case writeup quotes the file, it quotes the OCR'd text; where the OCR is suspect, the writeup notes that.
+These transcripts were generated using gemini-3.1-flash-lite OCR. They are not perfect, some pages are heavily redacted or photo-degraded and return `[illegible]` tokens. Where a case writeup quotes the file, it quotes the OCR'd text; where the OCR is suspect, the writeup notes that.
 
 ### `pursue-metadata/`
 
 The release inventory:
 
-- `uap-csv.csv` — the full 162-row PURSUE Release 01 catalog (120 PDFs, 28 videos, 14 images).
-- `pdf_manifest.tsv` — the corrected 120-PDF manifest used for the OCR pipeline.
+- `uap-csv.csv`, the full 162-row PURSUE Release 01 catalog (120 PDFs, 28 videos, 14 images).
+- `pdf_manifest.tsv`, the corrected 120-PDF manifest used for the OCR pipeline.
 
 ---
 

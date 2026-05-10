@@ -38,11 +38,11 @@ This is the article that lets a thoughtful social post cut through the headlines
 
 ## Connections
 
-- `uap-disclosure`
-- `aaro`
-- `pursue-program`
-- `2026-05-08-pentagon-ufo-files-cbs` — The cases this analysis is applied to.
-- `2026-05-08-tyson-anticlimactic-prediction` — Same evidentiary skepticism, different rhetorical mode.
+- [UAP disclosure (concept)](../../context/uap-disclosure.md)
+- [AARO](../../context/aaro.md)
+- [PURSUE program](../../context/pursue-program.md)
+- [CBS News coverage](cbs-news.md) — The cases this analysis is applied to.
+- [Tyson — anticlimactic prediction](tyson-anticlimactic-prediction.md) — Same evidentiary skepticism, different rhetorical mode.
 
 ## Open Questions
 

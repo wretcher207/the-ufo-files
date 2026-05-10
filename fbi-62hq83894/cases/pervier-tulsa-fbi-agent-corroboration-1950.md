@@ -77,12 +77,12 @@ Page 67 is a partial duplicate / mailroom transcript fragment of the same NOTE, 
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory` — section inventory page
-- `2026-05-08-pentagon-ufo-files-drop` — master release synthesis
-- `2026-05-08-fbi-62hq83894-cuneo-jones-winchell-followup-1949` — pass 14, civilian-engineer UAP-physics speculation comparison (Jones "negative gravity")
-- `2026-05-08-fbi-62hq83894-project-grudge-vital-installations-1948-1949` — pass 9, Soviet-attribution thesis comparison (Mrs. Merchant cosmic-ray theory)
-- `2026-05-08-fbi-62hq83894-oak-ridge-gasser-atomic-propulsion-1947-1949` — pass 8, civilian atomic/propulsion speculation
-- `uap-disclosure`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md) — section inventory page
+- [PURSUE master report](../../pursue-release-01/README.md) — master release synthesis
+- [cuneo-jones-winchell-followup-1949](cuneo-jones-winchell-followup-1949.md) — pass 14, civilian-engineer UAP-physics speculation comparison (Jones "negative gravity")
+- [project-grudge-vital-installations-1948-1949](project-grudge-vital-installations-1948-1949.md) — pass 9, Soviet-attribution thesis comparison (Mrs. Merchant cosmic-ray theory)
+- [oak-ridge-gasser-atomic-propulsion-1947-1949](oak-ridge-gasser-atomic-propulsion-1947-1949.md) — pass 8, civilian atomic/propulsion speculation
+- [UAP disclosure (concept)](../../context/uap-disclosure.md)
 
 ## Open Questions
 

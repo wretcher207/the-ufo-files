@@ -105,9 +105,9 @@ On August 23, 1950, the FBI Bureau received a summary briefing from A. H. Belmon
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-09-fbi-62hq83894-air-defense-command-institutional-baseline-policy-february-1948` — Institutional dismissal baseline that Stanfield case escalates beyond
-- `2026-05-09-fbi-62hq83894-jones-winchell-cuneo-1947-1949` — Civilian high-level routing; contrast with military-scientific pathway
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [air-defense-command-institutional-baseline-policy-february-1948](air-defense-command-institutional-baseline-policy-february-1948.md) — Institutional dismissal baseline that Stanfield case escalates beyond
+- [jones-winchell-cuneo-1947-1949](jones-winchell-cuneo-1947-1949.md) — Civilian high-level routing; contrast with military-scientific pathway
 - `Entity: Lincoln LaPaz`
 - `Entity: Holloman Air Force Base`
 - `Concept: Scientific Analysis as Institutional Escalation Trigger, 1947-1950`

@@ -52,12 +52,12 @@ None of those are in this release.
 
 ## Connections
 
-- `pursue-program`
-- `aaro`
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-bronze-ellipsoid-september-2023` — likely western US testing context
-- `2026-05-08-orbs-launching-orbs-western-us` — likely linked event series
-- `2026-05-08-pentagon-ufo-files-drop` — master synthesis
+- [PURSUE program](../../context/pursue-program.md)
+- [AARO](../../context/aaro.md)
+- [PURSUE full inventory](../full-inventory.md)
+- [Bronze Ellipsoid (Sept 2023)](bronze-ellipsoid.md) — likely western US testing context
+- [Western US orbs launching orbs](orbs-launching-orbs.md) — likely linked event series
+- [PURSUE master report](../README.md) — master synthesis
 
 ## Open Questions
 

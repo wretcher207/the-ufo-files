@@ -101,12 +101,12 @@ This is a Director-adjacent routing list — Associate Director Tolson, Assistan
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-09-fbi-62hq83894-fbi-investigative-memo-case-follow-up-1947` — Filed as serial 62-83894-96, two serials after Sarbanis (94); both September 1947; contrasting case types (coded-message informant vs. named multi-witness field investigation)
-- `2026-05-08-fbi-62hq83894-civilian-correspondence-hoover-pattern-1949-1950` — Broader civilian-witness correspondence pattern; Sarbanis case (1947) predates the Hoover form-reply formula that stabilized January 1948 – February 1950
-- `2026-05-09-fbi-62hq83894-danforth-illinois-instrument-examination-september-1947` — Contemporaneous September 1947 case (serial 62-83894-122, later that month); same month, different investigative type (artifact vetting vs. coded-message informant)
-- `2026-05-09-fbi-62hq83894-parker-rix-ledges-lebanon-september-1947` — September 17, 1947 (same date as this memo); professional-witness sighting letter to Hoover vs. anonymous coded-message in public newspaper; both September 1947 HQ processing
-- `2026-05-08-fbi-62hq83894-oak-ridge-gasser-atomic-propulsion-1947-1949` — Atomic-propulsion framing parallel; Gasser's off-the-record briefing connects flying discs to atomic propulsion; coded message connects flying discs to "ATOMIC WAR" concern
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [fbi-investigative-memo-case-follow-up-1947](fbi-investigative-memo-case-follow-up-1947.md) — Filed as serial 62-83894-96, two serials after Sarbanis (94); both September 1947; contrasting case types (coded-message informant vs. named multi-witness field investigation)
+- [civilian-correspondence-hoover-pattern-1949-1950](civilian-correspondence-hoover-pattern-1949-1950.md) — Broader civilian-witness correspondence pattern; Sarbanis case (1947) predates the Hoover form-reply formula that stabilized January 1948 – February 1950
+- [danforth-illinois-instrument-examination-september-1947](danforth-illinois-instrument-examination-september-1947.md) — Contemporaneous September 1947 case (serial 62-83894-122, later that month); same month, different investigative type (artifact vetting vs. coded-message informant)
+- [parker-rix-ledges-lebanon-september-1947](parker-rix-ledges-lebanon-september-1947.md) — September 17, 1947 (same date as this memo); professional-witness sighting letter to Hoover vs. anonymous coded-message in public newspaper; both September 1947 HQ processing
+- [oak-ridge-gasser-atomic-propulsion-1947-1949](oak-ridge-gasser-atomic-propulsion-1947-1949.md) — Atomic-propulsion framing parallel; Gasser's off-the-record briefing connects flying discs to atomic propulsion; coded message connects flying discs to "ATOMIC WAR" concern
 - `Concept: City Editor's Judgment as Federal Investigation Disposition Authority`
 - `Concept: FCC Amateur Radio Records as Identified-But-Unused FBI Investigative Tool, 1947`
 - `Concept: Civilian Coded-Message Submission Protocol, FBI 62-HQ-83894, 1947`

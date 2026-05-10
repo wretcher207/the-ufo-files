@@ -145,15 +145,15 @@ This is the document that closes the loop:
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-pentagon-ufo-files-drop` (master synthesis)
-- `2026-05-08-fbi-62hq83894-maury-island-1947`
-- `2026-05-08-fbi-62hq83894-muroc-1947-cic-affidavits`
-- `2026-05-08-fbi-62hq83894-1947-california-montana-cic`
-- `2026-05-08-fbi-62hq83894-davidson-brown-crash-mission-report`
-- `2026-05-08-fbi-62hq83894-philadelphia-1950-soap-suds-disc`
-- `2026-05-08-fbi-62hq83894-rhodes-phoenix-photographs-1947`
-- `uap-disclosure`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [PURSUE master report](../../pursue-release-01/README.md) (master synthesis)
+- [maury-island-1947](maury-island-1947.md)
+- [muroc-1947-cic-affidavits](muroc-1947-cic-affidavits.md)
+- [1947-california-montana-cic](1947-california-montana-cic.md)
+- [davidson-brown-crash-mission-report](davidson-brown-crash-mission-report.md)
+- [philadelphia-1950-soap-suds-disc](philadelphia-1950-soap-suds-disc.md)
+- [rhodes-phoenix-photographs-1947](rhodes-phoenix-photographs-1947.md)
+- [UAP disclosure (concept)](../../context/uap-disclosure.md)
 
 ## Open Questions
 

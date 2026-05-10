@@ -41,10 +41,10 @@ Best single rhetorical frame for posts that don't want to either dunk on the dis
 
 ## Connections
 
-- `neil-degrasse-tyson`
-- `uap-disclosure`
-- `2026-05-08-newspaceeconomy-pursue-analysis` — Same skepticism, different rhetorical mode.
-- `2026-05-08-pentagon-ufo-files-cbs` — The release this prediction is about.
+- [Neil deGrasse Tyson](../../context/neil-degrasse-tyson.md)
+- [UAP disclosure (concept)](../../context/uap-disclosure.md)
+- [New Space Economy — what 'unresolved' means](newspaceeconomy-analysis.md) — Same skepticism, different rhetorical mode.
+- [CBS News coverage](cbs-news.md) — The release this prediction is about.
 
 ## Open Questions
 

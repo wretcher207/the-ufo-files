@@ -85,9 +85,9 @@ Within six days of Hoover's directive, SAC Los Angeles responded via urgent tele
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-09-fbi-62hq83894-parker-rix-ledges-lebanon-september-1947` — Comparative case with Hoover direct engagement (personal signature) vs. form acknowledgment
-- `2026-05-09-fbi-62hq83894-rhodes-phoenix-photographs-1947` — Comparative case with Hoover URGENT teletype prohibition vs. Jones case approval directive
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [parker-rix-ledges-lebanon-september-1947](parker-rix-ledges-lebanon-september-1947.md) — Comparative case with Hoover direct engagement (personal signature) vs. form acknowledgment
+- [rhodes-phoenix-photographs-1947](rhodes-phoenix-photographs-1947.md) — Comparative case with Hoover URGENT teletype prohibition vs. Jones case approval directive
 - `Entity: J. Edgar Hoover`
 - `Entity: Ernest Cuneo`
 - `Entity: Walter Winchell`

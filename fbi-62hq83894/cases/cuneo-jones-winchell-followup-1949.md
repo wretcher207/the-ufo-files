@@ -13,7 +13,7 @@ entities_mentioned: [ernest-cuneo, walter-winchell, j-edgar-hoover, d-m-ladd, pe
 
 ## Summary
 
-In April 1949, the FBI formally declined to interview Walter Winchell about the source of his April 3, 1949 broadcast claiming "flying discs definitely emanated from Russia" (covered in `2026-05-08-fbi-62hq83894-project-grudge-vital-installations-1948-1949`). Three months later, in July 1949, Winchell's longtime liaison Ernest Cuneo telephoned D. M. Ladd directly with a different request: a Los Angeles writer named Peter Cameron Jones had sent Winchell a letter describing a 1947 flying-saucer encounter, and Winchell wanted to know whether the Bureau objected to him running a column on it. **The Bureau said yes to this one.** Within hours, Ladd had a Los Angeles teletype going out ordering a discreet background check and an interview of Jones.
+In April 1949, the FBI formally declined to interview Walter Winchell about the source of his April 3, 1949 broadcast claiming "flying discs definitely emanated from Russia" (covered in [project-grudge-vital-installations-1948-1949](project-grudge-vital-installations-1948-1949.md)). Three months later, in July 1949, Winchell's longtime liaison Ernest Cuneo telephoned D. M. Ladd directly with a different request: a Los Angeles writer named Peter Cameron Jones had sent Winchell a letter describing a 1947 flying-saucer encounter, and Winchell wanted to know whether the Bureau objected to him running a column on it. **The Bureau said yes to this one.** Within hours, Ladd had a Los Angeles teletype going out ordering a discreet background check and an interview of Jones.
 
 The contrast between the two decisions is the documentary finding. The G-2 Fourth Army request to interview Winchell himself was refused with a one-paragraph deflection citing SAC Letter No. 38. The Cuneo phone-call request to act on a Winchell tipster was actioned the same week, with Hoover personally chasing follow-up on July 12 ("You inquired as to what was being done with reference to the information concerning flying saucers, which information was furnished by Ernest Cuneo," page 10). Tolson personally ordered "Prepare note to Cuneo today" on July 20 (page 13).
 
@@ -85,7 +85,7 @@ July 20, 1949, Tolson routing slip (page 13): "Prepare note to Cuneo today." The
 
 ## Why This Matters
 
-1. **Bureau selectivity is the documentary finding.** In April 1949 the Fourth Army G-2 asked the Bureau through channels to interview Walter Winchell about the source of his "flying discs definitely emanated from Russia" broadcast. The Bureau refused with a one-line deflection (Section 4, `2026-05-08-fbi-62hq83894-project-grudge-vital-installations-1948-1949`). In July 1949 a phone call from Winchell's representative produced a same-week cross-country background check. Same Director, same Bureau, same general subject matter, opposite outcomes. The variable is the channel.
+1. **Bureau selectivity is the documentary finding.** In April 1949 the Fourth Army G-2 asked the Bureau through channels to interview Walter Winchell about the source of his "flying discs definitely emanated from Russia" broadcast. The Bureau refused with a one-line deflection (Section 4, [project-grudge-vital-installations-1948-1949](project-grudge-vital-installations-1948-1949.md)). In July 1949 a phone call from Winchell's representative produced a same-week cross-country background check. Same Director, same Bureau, same general subject matter, opposite outcomes. The variable is the channel.
 
 2. **Ernest Cuneo's personal access.** Cuneo was a 1936-39 Justice Department lawyer, a senior OSS officer in WWII, a Roosevelt-administration political fixer, and by 1949 Winchell's columnist liaison and lawyer. Hoover signs his letter "Dear Ernie." Cuneo, when told Hoover and Ladd are unavailable, "declined to speak to anyone else" (page 5) — which the Bureau honored rather than treating as obstruction. This is what insider access to J. Edgar Hoover looked like in 1949.
 
@@ -93,7 +93,7 @@ July 20, 1949, Tolson routing slip (page 13): "Prepare note to Cuneo today." The
 
 4. **The Jones letter content matters as a 1947-saucer-account data point.** Even if Jones turned out not to exist at the address given, the letter Cuneo read to Ladd on July 9, 1949 is a coherent, articulate first-person August-1947 saucer-encounter narrative that includes silent flight, transparent metal, a top-shaped craft, and a theoretical extrapolation toward both extraterrestrial visitation and "negative gravity" propulsion theory. The "negative gravity" framing in particular foreshadows decades of later UFO-propulsion folklore and is unusually technical for a 1947 layperson account. Cuneo's read — "very good knowledge of physics" (page 21) — is not nothing, even from a non-physicist political operative.
 
-5. **The Bureau used "the Air Corps" deferral as a polite brush-off, not as a routing.** When Cuneo asked about publication clearance, Ladd suggested he check with USAF. Cuneo refused with "To hell with the Air Force" (page 19). Ladd did not push the issue. The Bureau accepted that flying-saucer questions routed through the Winchell channel would never go to USAF. This is consistent with the broader pattern in `2026-05-08-fbi-62hq83894-belmont-twinkle-master-memo-osi-log-1949-1950` where the Bureau treated USAF/OSI as the operational lead but did not enforce that routing on politically connected outside callers.
+5. **The Bureau used "the Air Corps" deferral as a polite brush-off, not as a routing.** When Cuneo asked about publication clearance, Ladd suggested he check with USAF. Cuneo refused with "To hell with the Air Force" (page 19). Ladd did not push the issue. The Bureau accepted that flying-saucer questions routed through the Winchell channel would never go to USAF. This is consistent with the broader pattern in [belmont-twinkle-master-memo-osi-log-1949-1950](belmont-twinkle-master-memo-osi-log-1949-1950.md) where the Bureau treated USAF/OSI as the operational lead but did not enforce that routing on politically connected outside callers.
 
 6. **Bureaucratic asymmetry between in-channel and political-intermediary requests.** This case is a clean controlled experiment. Two requests touching Walter Winchell's saucer-related communications, three months apart, identical Bureau leadership, opposite outcomes. The differential is the channel.
 
@@ -101,13 +101,13 @@ July 20, 1949, Tolson routing slip (page 13): "Prepare note to Cuneo today." The
 
 ## Connections
 
-- `2026-05-08-pursue-release-01-full-inventory`
-- `2026-05-08-pentagon-ufo-files-drop` (master synthesis)
-- `2026-05-08-fbi-62hq83894-project-grudge-vital-installations-1948-1949` — the original Winchell affair where the Bureau declined the G-2 Fourth Army interview request; this case is the Section 5 contrast
-- `2026-05-08-fbi-62hq83894-rhodes-phoenix-photographs-1947`
-- `2026-05-08-fbi-62hq83894-oak-ridge-gasser-atomic-propulsion-1947-1949`
-- `2026-05-08-fbi-62hq83894-belmont-twinkle-master-memo-osi-log-1949-1950`
-- `uap-disclosure`
+- [PURSUE full inventory](../../pursue-release-01/full-inventory.md)
+- [PURSUE master report](../../pursue-release-01/README.md) (master synthesis)
+- [project-grudge-vital-installations-1948-1949](project-grudge-vital-installations-1948-1949.md) — the original Winchell affair where the Bureau declined the G-2 Fourth Army interview request; this case is the Section 5 contrast
+- [rhodes-phoenix-photographs-1947](rhodes-phoenix-photographs-1947.md)
+- [oak-ridge-gasser-atomic-propulsion-1947-1949](oak-ridge-gasser-atomic-propulsion-1947-1949.md)
+- [belmont-twinkle-master-memo-osi-log-1949-1950](belmont-twinkle-master-memo-osi-log-1949-1950.md)
+- [UAP disclosure (concept)](../../context/uap-disclosure.md)
 
 ## Open Questions
 
