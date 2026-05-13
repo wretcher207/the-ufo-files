@@ -9,6 +9,8 @@ source_date: 1950-07-20
 publisher: "FBI / F. Ray Turner (civilian witness)"
 tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1950, primary-source, f-ray-turner, oak-park-illinois, saucer-tree, anonymous-threat-note, civilian-correspondence, atomic-plant-code]
 entities_mentioned: [pursue-program, aaro, fbi]
+thread: 1949-50-disinfo
+significance: medium
 ---
 
 ## Summary

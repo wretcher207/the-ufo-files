@@ -9,6 +9,8 @@ source_date: 1948-01-07
 publisher: "Dayton Journal-Herald (United Press) / FBI / J. Edgar Hoover / USAF Director of Special Investigations"
 tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1948, primary-source, mantell, captain-mantell, p-51, fort-knox, fatality, project-sign, wright-patterson, 240-30-statistics, real-aircraft-of-unconventional-design]
 entities_mentioned: [pursue-program, aaro, fbi, captain-mantell, project-sign, wright-patterson]
+thread: 1948-49-hardening
+significance: high
 ---
 
 ## Summary

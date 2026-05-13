@@ -9,6 +9,8 @@ source_date: 1947-06-24
 publisher: "Federal Bureau of Investigation / Fourth Air Force Intelligence"
 tags: [fbi, 62hq83894, kenneth-arnold, 1947, cascade-mountains, washington, pilot-witness, sighting, primary-source, original-narrative]
 entities_mentioned: [kenneth-arnold, frank-m-brown-cic, donald-l-springer-4af, mt-rainier, mt-adams, yakima-wa, pendleton-or, sonny-robinson-aaf, capt-smith-united-airlines]
+thread: 1947-origin
+significance: high
 ---
 
 ## Summary

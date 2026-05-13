@@ -9,6 +9,8 @@ source_date: 1950-03-22
 publisher: "FBI / U.S. Department of Justice"
 tags: [fbi, 62-hq-83894, hottel-memo, three-saucers, new-mexico, fbi-vault, popular-culture, sa-kurtzman, primary-source]
 entities_mentioned: [guy-hottel, r-h-kurtzman, karl-howe, j-edgar-hoover, washington-field-office, metropolitan-police-department, sex-squad]
+thread: 1949-50-disinfo
+significance: high
 ---
 
 ## Summary

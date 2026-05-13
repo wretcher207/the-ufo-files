@@ -9,6 +9,8 @@ source_date: 1947-08
 publisher: "FBI (Director Hoover, SAC Los Angeles)"
 tags: [ufo-files-62hq83894, 1947-post-roswell, high-level-routing, hoover-engagement, information-intermediary, california-los-angeles, memory-decay, failed-locate, primary-source]
 entities_mentioned: ["Peter Camerton Jones", "Walter Winchell", "Ernest Cuneo", "J. Edgar Hoover", "Mr. Ladd", "Federal Bureau of Investigation", "Los Angeles", "County Fairs"]
+thread: 1948-49-hardening
+significance: medium
 ---
 
 ## Summary

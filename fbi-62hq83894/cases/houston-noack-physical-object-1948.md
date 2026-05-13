@@ -9,6 +9,8 @@ source_date: 1948-12-28
 publisher: "FBI / U.S. Department of Justice"
 tags: [fbi, 62-hq-83894, noack-case, physical-examination, lone-pine, houston-sac, joint-aaf-interview, primary-source, tow-target-resolution, helendale]
 entities_mentioned: [lonnie-edward-noack, fuller-blackwell, robert-b-fleming, christopher-r-bradley, capt-harold-bush, sac-galen-n-willis, sac-r-b-hood, h-b-fletcher, d-m-ladd, howard-fletcher, graham-w-kitchel, edward-olsen, w-nathan-provinse, rose-c-rotsel, henry-t-rice, claude-leroy-wolford, nathan-smith, r-c-person, c-a-toce, robert-broussard, frank-reed, humble-oil-and-refining-company, vasco-electrical-manufacturing-company, ohlson-and-rice-manufacturing-company, wolford-plastics-molding-co, ellington-field-osi, fifth-osi-district-wright-field, fbi-laboratory, eastman-kodak-company, houston-post]
+thread: 1948-49-hardening
+significance: medium
 ---
 
 ## Summary

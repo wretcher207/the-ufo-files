@@ -9,6 +9,8 @@ case_date: 1994-01-27
 publisher: "PURSUE / U.S. Department of State"
 tags: [ufo, uap, kazakhstan, tajikistan, 747, state-department, primary-source, pursue]
 entities_mentioned: [pursue-program]
+thread: pursue-2026
+significance: medium
 ---
 
 ## Summary

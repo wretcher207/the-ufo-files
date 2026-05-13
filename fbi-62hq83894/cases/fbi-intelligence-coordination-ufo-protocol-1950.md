@@ -9,6 +9,8 @@ source_date: 1949-07-09
 publisher: "FBI / U.S. Department of Justice"
 tags: [ufo-files-62hq83894, 1949-routing-protocol, form-64, cc-150, division-four, telemeter, distribution-list, destruction-stamp-nov1964, institutional-protocol, primary-source, pursue, release-01]
 entities_mentioned: ["D. M. Ladd", "J. Edgar Hoover", "Clyde Tolson", "E. A. Tamm", "Mr. Fletcher", "Miss Gandy", "Mr. Tracy", "FBI Division Four", "FBI Communications Section", "SAC Los Angeles", "R. B. Hood"]
+thread: 1949-50-disinfo
+significance: medium
 ---
 
 ## Summary

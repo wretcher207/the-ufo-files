@@ -9,6 +9,8 @@ case_date: 2023
 publisher: "PURSUE / AARO"
 tags: [ufo, uap, orbs, federal-officers, western-us, primary-source, aaro-compelling, pursue]
 entities_mentioned: [pursue-program, aaro, fbi]
+thread: pursue-2026
+significance: high
 ---
 
 ## Summary

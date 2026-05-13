@@ -9,6 +9,8 @@ source_date: 1950-06-02
 publisher: "FBI / J. Edgar Hoover (form reply) / DeWayne B. Johnson (UCLA Graduate Department of Journalism)"
 tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1950, primary-source, dewayne-johnson, ucla, journalism, dissertation, kenneth-arnold, second-pass-narrative, civilian-correspondence, academic-research]
 entities_mentioned: [pursue-program, aaro, fbi]
+thread: 1949-50-disinfo
+significance: medium
 ---
 
 ## Summary

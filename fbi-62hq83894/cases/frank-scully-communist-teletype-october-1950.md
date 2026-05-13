@@ -9,6 +9,8 @@ source_date: 1950-10-13
 publisher: "FBI / U.S. Department of Justice"
 tags: [fbi, 62hq83894, ufo, uap, frank-scully, behind-the-flying-saucers, aztec, communist-activities, hoover, project-twinkle, civilian-correspondence, primary-source, pursue, release-01]
 entities_mentioned: [j-edgar-hoover, frank-scully, d-m-ladd, a-h-belmont, anthony-mirarchi, project-twinkle, land-air-inc, fbi-los-angeles-office, fbi-philadelphia-office, osi-wright-field, e-l-welton]
+thread: 1949-50-disinfo
+significance: medium
 ---
 
 ## Summary

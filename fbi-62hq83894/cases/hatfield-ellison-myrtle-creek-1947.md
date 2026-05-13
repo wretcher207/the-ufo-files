@@ -9,6 +9,8 @@ source_date: 1947-08-06
 publisher: "Federal Bureau of Investigation / Portland SAC"
 tags: [fbi, 62hq83894, 1947, oregon, sighting, credentialed-pilot, military-witness, two-witness, aircraft-pursuit, computed-speed, primary-source]
 entities_mentioned: [ray-virgil-hatfield, noble-ellison, tri-city-airport-myrtle-creek, united-states-navy, naval-air-corps]
+thread: 1947-origin
+significance: medium
 ---
 
 ## Summary

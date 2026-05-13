@@ -9,6 +9,8 @@ source_date: 1950-07-19
 publisher: "FBI / U.S. Department of Justice"
 tags: [fbi, 62-hq-83894, summary-aerial-phenomena, master-memo-lineage, sac-albuquerque, kirtland-osi, 17th-district-osi, cross-reference-62-85557, primary-source]
 entities_mentioned: [sac-albuquerque, j-edgar-hoover, kirtland-osi, 17th-district-osi, a-h-belmont, d-m-ladd, project-twinkle]
+thread: 1949-50-disinfo
+significance: medium
 ---
 
 ## Summary

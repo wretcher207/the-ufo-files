@@ -9,6 +9,8 @@ source_date: 1950-07-XX
 publisher: "FBI / U.S. Department of Justice"
 tags: [fbi, 62-hq-83894, hixenbaugh-photographs, petrone-informant, mid-1950, civilian-witness, primary-source, hoax-allegation, photographic-evidence, informant-tip]
 entities_mentioned: [alf-e-hixenbaugh, robert-steinau, william-davis, robert-r-petrone, albert-holmberg, j-edgar-hoover, walter-winchell, sac-louisville, sac-chicago, godman-field, wright-patterson-field, louisville-times, courier-journal, midwest-times, osi]
+thread: 1949-50-disinfo
+significance: medium
 ---
 
 ## Summary

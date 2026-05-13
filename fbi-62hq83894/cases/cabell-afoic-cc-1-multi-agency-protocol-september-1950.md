@@ -9,6 +9,8 @@ source_date: 1950-09-08
 publisher: "Director of Intelligence, Air Force / Major General C. P. Cabell / Federal Bureau of Investigation"
 tags: [ufo-files-62hq83894, 1950-multi-agency-protocol, institutional-formalization, reporting-standardization, air-force-directive, fbi-coordination, primary-source]
 entities_mentioned: ["Major General C. P. Cabell", "Air Force Intelligence", "FBI Director", "US Army G-2", "Naval Intelligence", "US Coast Guard Intelligence", "State Department", "CIA", "Air Materiel Command", "Major Air Commands"]
+thread: 1949-50-disinfo
+significance: high
 ---
 
 ## Summary

@@ -9,6 +9,8 @@ source_date: 1950-03-09
 publisher: "Federal Bureau of Investigation"
 tags: [ufo-files-62hq83894, 1950-rumor-network-intelligence, crashed-saucer-hoax, director-urgent-notification, pre-scully-institutional-vetting, hoax-photograph, primary-source]
 entities_mentioned: ["George T. Koehler", "Silas Newton", "Jim Barden", "FBI Denver", "FBI Albuquerque", "University of New Mexico", "Donald Keyhoe", "Frank Scully"]
+thread: 1949-50-disinfo
+significance: medium
 ---
 
 ## Summary

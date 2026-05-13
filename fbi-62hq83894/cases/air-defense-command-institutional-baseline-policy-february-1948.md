@@ -9,6 +9,8 @@ source_date: 1948-02-04
 publisher: "Air Defense Command, Mitchel Air Force Base"
 tags: [ufo-files-62hq83894, 1948-military-policy, institutional-baseline, dismissal-protocol, flying-discs, air-defense-command, primary-source]
 entities_mentioned: ["Air Defense Command", "Mitchel Air Force Base", "First Air Force", "Second Air Force", "Fourth Air Force", "Tenth Air Force", "Eleventh Air Force", "Fourteenth Air Force", "Federal Bureau of Investigation", "Counter Intelligence Corps"]
+thread: 1948-49-hardening
+significance: medium
 ---
 
 ## Summary

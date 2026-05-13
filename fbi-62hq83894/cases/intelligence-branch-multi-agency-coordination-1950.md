@@ -9,6 +9,8 @@ source_date: 1950-05-23
 publisher: "U.S. Army Intelligence Branch, New Orleans Port of Embarkation (NOPE) / 117th CIC Detachment Field Office"
 tags: [ufo-files-62hq83894, 1950-army-coordination, multi-agency-chain-of-custody, intelligence-branch, nope, cid-cic, halfery, photograph-handling-protocol, case-tracking-system, primary-source, pursue, release-01]
 entities_mentioned: ["Louis Rebillia Jr.", "Agent John F. Quinn", "John R. Espesite", "Michael Halfery", "117th CIC Detachment", "NOPE CID", "Intelligence Branch NOPE", "New Orleans Port of Embarkation", "Major Merle L. Mennie"]
+thread: 1949-50-disinfo
+significance: medium
 ---
 
 ## Summary

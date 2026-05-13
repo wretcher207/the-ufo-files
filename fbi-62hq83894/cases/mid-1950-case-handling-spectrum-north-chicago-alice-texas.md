@@ -9,6 +9,8 @@ source_date: 1950-07-04
 publisher: "FBI Chicago / Houston / San Antonio Field Offices and OSI Kelly AFB"
 tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1950, primary-source, north-chicago, great-lakes-naval-training-center, alice-texas, hoax-resolution, bureau-tradecraft, osi-handoff, press-handling]
 entities_mentioned: [pursue-program, aaro, fbi]
+thread: 1949-50-disinfo
+significance: medium
 ---
 
 ## Summary

@@ -9,6 +9,8 @@ source_date: 1950-02-24
 publisher: "17th District OSI, Holloman Air Force Base / Institute of Meteoritics, University of New Mexico / FBI"
 tags: [ufo-files-62hq83894, 1950-new-mexico, military-witness, expert-analysis, photograph, scientific-elimination, project-twinkle, green-fireballs, primary-source]
 entities_mentioned: ["Cpl Lertis E. Stanfield", "Dr. Lincoln LaPaz", "Lt. Colonel Doyle Rees", "17th District OSI", "Holloman Air Force Base", "Institute of Meteoritics", "University of New Mexico", "Land-Air Incorporated", "Federal Bureau of Investigation", "Air Materiel Command", "Sandia Base"]
+thread: 1949-50-disinfo
+significance: medium
 ---
 
 ## Summary

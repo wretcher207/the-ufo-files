@@ -9,6 +9,8 @@ source_date: 1950-09-26
 publisher: "FBI / U.S. Department of Justice"
 tags: [ufo, uap, pursue, fbi, 62-hq-83894, philadelphia, 1950, primary-source, soft-landing, residue]
 entities_mentioned: [pursue-program, aaro, fbi]
+thread: 1949-50-disinfo
+significance: medium
 ---
 
 ## Summary

@@ -9,6 +9,8 @@ source_date: 1947-07-08
 publisher: "Counter Intelligence Corps (CIC), Muroc Army Air Field / 4144th AAFBU"
 tags: [ufo, uap, pursue, fbi, 62-hq-83894, muroc, edwards-afb, 1947, primary-source, john-paul-stapp, cic-affidavits, roswell-era]
 entities_mentioned: [pursue-program, aaro, fbi]
+thread: 1947-origin
+significance: medium
 ---
 
 ## Summary

@@ -9,6 +9,8 @@ source_date: 1949-10-08
 publisher: "FBI / U.S. Department of Justice"
 tags: [fbi, 62-hq-83894, civilian-correspondence, form-letter-pattern, internal-notes, hoover-replies, primary-source, methodological]
 entities_mentioned: [j-edgar-hoover, maurice-e-hatten, florence-pervier, walter-fisher, marion-beuscher, henry-beston, glenn-lee-adams, lewis-a-ward, e-l-welton, walter-d-jones-toronto, dewayne-b-johnson, douglas-harrison, tage-stensig, helen-gandy]
+thread: 1950s-1973-tail
+significance: high
 ---
 
 ## Summary

@@ -9,6 +9,8 @@ source_date: 1947-06-24
 publisher: "Counter Intelligence Corps (4AF CIC), Hamilton Field — Kenneth Arnold (Exhibit A, first-person typed narrative)"
 tags: [ufo-files-62hq83894, kenneth-arnold, 1947, mt-rainier, cascade-mountains, sighting-narrative, primary-source, pre-roswell, nine-objects, formation-flight, exhibit-a, cic-investigation]
 entities_mentioned: ["Kenneth Arnold", "Frank M. Brown", "4AF CIC", "Hamilton Field", "Mt. Rainier", "Mt. Adams", "Yakima Airport", "Pendleton Oregon", "Al Baxter", "Sonny Robinson", "Captain E. J. Smith", "United Air Lines", "Central Air Service", "Chehalis Washington"]
+thread: 1947-origin
+significance: medium
 ---
 
 ## Summary

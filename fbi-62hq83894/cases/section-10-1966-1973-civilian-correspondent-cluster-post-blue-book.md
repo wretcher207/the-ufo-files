@@ -9,6 +9,8 @@ source_date: 1966-11-29
 publisher: "FBI / J. Edgar Hoover (1966-1972) / Helen Gandy (Hoover's secretary) / FBI Director C. M. Kelley (post-Hoover, 1973)"
 tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1966, 1967, 1968, 1969, 1973, primary-source, post-project-blue-book, civilian-correspondence, men-in-black, condon-report, project-blue-book-closure, joe-thorn, ray-robinson, jane-ferry, larry-stephens, paul-brassington, ron-fraide]
 entities_mentioned: [pursue-program, aaro, fbi, j-edgar-hoover, helen-gandy, project-blue-book, condon-report]
+thread: 1950s-1973-tail
+significance: medium
 ---
 
 ## Summary

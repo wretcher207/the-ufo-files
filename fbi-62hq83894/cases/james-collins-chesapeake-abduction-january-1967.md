@@ -9,6 +9,8 @@ source_date: 1967-01-18
 publisher: "FBI / Special Investigative Division (SA A. R. Ware) / Director Hoover senior-distribution"
 tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1967, primary-source, abduction, james-collins, chesapeake-virginia, hoover-era, time-loss, missing-time, humanoid-witnesses, oak-grove-tv]
 entities_mentioned: [pursue-program, aaro, fbi, j-edgar-hoover]
+thread: 1950s-1973-tail
+significance: medium
 ---
 
 ## Summary

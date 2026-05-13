@@ -9,6 +9,8 @@ source_date: 1947-07-09 to 1947-08-08
 publisher: "Federal Bureau of Investigation / Detroit Office"
 tags: [fbi, 62hq83894, 1947, physical-evidence, radioactivity, dow-chemical, michigan, hoax-assessment, credibility-analysis, primary-source]
 entities_mentioned: [raymond-edward-lane, laura-lane, dow-chemical-company, selfridge-field, los-alamos-project, midland-michigan]
+thread: 1947-origin
+significance: medium
 ---
 
 ## Summary

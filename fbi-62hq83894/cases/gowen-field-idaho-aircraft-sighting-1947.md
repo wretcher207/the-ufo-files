@@ -9,6 +9,8 @@ source_date: 1947-07-12
 publisher: "Federal Bureau of Investigation / U.S. Army Air Forces 4th Air Force CIC"
 tags: [ufo-files-62hq83894, 1947-idaho-sighting, david-johnson, gowen-field, aerial-sighting, 8mm-film, cic-interview, sworn-statement, frank-brown, davidson, primary-source]
 entities_mentioned: ["David N. Johnson", "James L. Brown", "Frank M. Brown", "Captain William L. Davidson", "Communicator Albertson", "Geo. L. Flaherty", "Kenneth Arnold", "S/A Frank M. Brown CIC 4th AF", "James L. Brown Idaho Daily Statesman"]
+thread: 1947-origin
+significance: low
 ---
 
 ## Summary
