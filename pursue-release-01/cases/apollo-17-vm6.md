@@ -9,6 +9,8 @@ case_date: 1972-12
 publisher: "PURSUE / Department of War / NASA"
 tags: [ufo, uap, apollo-17, nasa, primary-source, smoking-gun, lunar-surface, pursue]
 entities_mentioned: [pursue-program, aaro, department-of-war]
+thread: pursue-2026
+significance: high
 ---
 
 ## Summary

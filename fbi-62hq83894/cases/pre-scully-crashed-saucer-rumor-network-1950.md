@@ -9,6 +9,8 @@ source_date: 1950-01-16
 publisher: "USAF OSI District 13 (Offutt AFB) / FBI New Orleans / FBI Albuquerque"
 tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1950, primary-source, pre-scully, crashed-saucer, rudy-fick, coulter, silas-newton, george-koehler, frank-scully-source, wyandotte-echo, mojave-disc, jim-barden, trick-photograph, secret-priority, osi]
 entities_mentioned: [pursue-program, aaro, fbi, frank-scully, silas-newton, donald-keyhoe]
+thread: 1949-50-disinfo
+significance: medium
 ---
 
 ## Summary

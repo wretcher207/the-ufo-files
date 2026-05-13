@@ -9,6 +9,8 @@ source_date: 1947-08-12
 publisher: "FBI / U.S. Department of Justice"
 tags: [ufo, uap, pursue, fbi, 62-hq-83894, maury-island, kenneth-arnold, 1947, primary-source, hoax]
 entities_mentioned: [pursue-program, aaro, fbi]
+thread: 1947-origin
+significance: high
 ---
 
 ## Summary

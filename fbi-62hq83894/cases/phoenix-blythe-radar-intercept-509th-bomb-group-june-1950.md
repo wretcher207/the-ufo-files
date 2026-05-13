@@ -9,6 +9,8 @@ source_date: 1950-06-30
 publisher: "FBI Phoenix Field Office / OSI Williams AFB / 509th Bomb Group Roswell NM"
 tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1950, primary-source, phoenix, blythe, radar-intercept, 509th-bomb-group, b-29, roswell, herman-munroe, osi-williams-afb, korean-war-context]
 entities_mentioned: [pursue-program, aaro, fbi]
+thread: 1949-50-disinfo
+significance: medium
 ---
 
 ## Summary

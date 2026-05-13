@@ -9,6 +9,8 @@ source_date: 1949-01-31
 publisher: "FBI / U.S. Department of Justice"
 tags: [fbi, 62-hq-83894, project-grudge, vital-installations, los-alamos, sandia-base, camp-hood, killeen-base, green-fireballs, lincoln-la-paz, walter-winchell, robert-ripley, primary-source, no-recovery]
 entities_mentioned: [lincoln-la-paz, walter-winchell, robert-ripley, j-edgar-hoover, frederick-w-davis, william-e-carpenter, c-d-gasser, madeline-gwynne-merchant, warren-r-franscioni, project-grudge, los-alamos-laboratory, sandia-base, camp-hood, killeen-base, atomic-energy-commission, fourth-army-g-2, osi-usaf]
+thread: 1948-49-hardening
+significance: high
 ---
 
 ## Summary

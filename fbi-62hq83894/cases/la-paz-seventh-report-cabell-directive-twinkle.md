@@ -9,6 +9,8 @@ source_date: 1950-05-23
 publisher: "FBI / U.S. Department of Justice"
 tags: [fbi, 62-hq-83894, la-paz-seventh-report, project-twinkle, cabell-directive, kaplan, von-karman, teller, fred-whipple, peter-millman, wyckoff, datil-stanfield-photograph, kirtland-osi, primary-source]
 entities_mentioned: [lincoln-la-paz, doyle-rees, c-p-cabell, joseph-f-carroll, anthony-o-mirarchi, joseph-kaplan, theodore-von-karman, edward-teller, p-h-wyckoff, fred-whipple, peter-m-millman, l-a-manning, william-crozier, lertis-e-stanfield, j-edgar-hoover, project-twinkle, kirtland-air-force-base, holloman-air-force-base, sandia-base, los-alamos-laboratory, institute-of-meteoritics, dominion-observatory, harvard-college-observatory]
+thread: 1949-50-disinfo
+significance: medium
 ---
 
 ## Summary

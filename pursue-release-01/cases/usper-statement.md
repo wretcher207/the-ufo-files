@@ -9,6 +9,8 @@ case_date: 2025-late
 publisher: "PURSUE / FBI"
 tags: [ufo, uap, fbi-302, usper, intelligence-official, primary-source, helicopter-pursuit, orb, pursue]
 entities_mentioned: [pursue-program, aaro, fbi]
+thread: pursue-2026
+significance: high
 ---
 
 ## Summary

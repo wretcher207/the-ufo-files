@@ -9,6 +9,8 @@ source_date: 1950-02-28
 publisher: "FBI / U.S. Department of Justice"
 tags: [fbi, 62-hq-83894, pervier-case, tulsa, fbi-agent-corroboration, civilian-witness, soviet-attribution-theory, primary-source]
 entities_mentioned: [florence-b-pervier, j-edgar-hoover, sac-tulsa, fbi-tulsa-field-office, corps-of-engineers, war-department, woodward-tornado-1947, general-george-c-marshall, president-fdr, martin-dies]
+thread: 1949-50-disinfo
+significance: medium
 ---
 
 ## Summary

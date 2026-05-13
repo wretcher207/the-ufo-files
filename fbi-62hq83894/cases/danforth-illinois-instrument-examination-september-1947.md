@@ -9,6 +9,8 @@ source_date: 1947-09-23
 publisher: "Federal Bureau of Investigation / E.G. Fitch, Assistant Director"
 tags: [ufo-files-62hq83894, 1947-artifact-vetting, operation-mogul-reference, multi-agency-coordination, wright-field-authority, major-hopkins, hoax-classification, primary-source]
 entities_mentioned: ["FBI Laboratory Division", "E.G. Fitch", "S.W. Reynolds", "Mrs. Whedon", "Army Engineers", "Major Hopkins", "Lieutenant Colonel George Garrett", "Wright Field", "Operation Mogul", "Mr. Ladd", "Mr. Harbo", "Mr. Baughman"]
+thread: 1947-origin
+significance: low
 ---
 
 ## Summary

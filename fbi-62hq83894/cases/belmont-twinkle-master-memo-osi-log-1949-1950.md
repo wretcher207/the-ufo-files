@@ -9,6 +9,8 @@ source_date: 1950-08-23
 publisher: "FBI / U.S. Department of Justice"
 tags: [fbi, 62-hq-83894, project-twinkle, belmont-memo, osi-sighting-log, los-alamos, sandia-base, alamogordo, vaughn-nm, killeen-base, primary-source, multi-witness]
 entities_mentioned: [a-h-belmont, d-m-ladd, anthony-o-mirarchi, lincoln-la-paz, j-edgar-hoover, walter-d-jones, land-air-inc, project-twinkle, kirtland-osi, los-alamos-laboratory, sandia-base, alamogordo, vaughn-nm, killeen-base]
+thread: 1949-50-disinfo
+significance: high
 ---
 
 ## Summary

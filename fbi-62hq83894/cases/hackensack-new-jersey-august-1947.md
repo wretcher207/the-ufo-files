@@ -9,6 +9,8 @@ source_date: 1947-08-03
 publisher: "FBI (SAC Newark)"
 tags: [ufo-files-62hq83894, 1947-post-roswell, military-civilian-coordination, multi-observer, government-witness, new-jersey-hackensack, discrepancy-analysis, systematic-interview, primary-source]
 entities_mentioned: ["Charles Caselia Jr.", "William A. Truex", "Joyce McFarland", "Winfield S. Booth", "James Perone", "Arthur F. Williams", "T. Howard Waldron", "Fort Dix", "Hackensack Police Department", "FBI Newark", "Federal Bureau of Investigation"]
+thread: 1947-origin
+significance: low
 ---
 
 ## Summary

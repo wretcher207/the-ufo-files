@@ -9,6 +9,8 @@ source_date: 1967-06-08
 publisher: "Federal Bureau of Investigation / Miami Office"
 tags: [fbi, 62hq83894, wwii, german-aircraft, test-pilot, 1944, luftwaffe, austria, saucer-shaped, photographic-evidence, primary-source]
 entities_mentioned: [paul-l-peyerl, kuehr, luftwaffe, black-forest-austria, miami-fbi-office]
+thread: 1947-origin
+significance: medium
 ---
 
 ## Summary

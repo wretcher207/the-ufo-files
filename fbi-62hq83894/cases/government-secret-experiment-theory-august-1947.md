@@ -9,6 +9,8 @@ source_date: 1947-08-19
 publisher: "Federal Bureau of Investigation / Liaison Section & War Department Intelligence Division"
 tags: [fbi, 62hq83894, 1947, government-experiment-hypothesis, inter-agency-coordination, air-force-intelligence, war-department, institutional-analysis, primary-source]
 entities_mentioned: [samuel-w-reynolds, lieutenant-colonel-garrett, mr-carroll, colonel-l-r-forney, general-chamberlin, d-m-ladd, e-g-fitch, air-force-intelligence, war-department-intelligence]
+thread: 1947-origin
+significance: high
 ---
 
 ## Summary

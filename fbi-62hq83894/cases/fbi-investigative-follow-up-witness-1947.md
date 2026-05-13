@@ -9,6 +9,8 @@ source_date: 1947-09-17
 publisher: "Federal Bureau of Investigation / W. V. Cleveland, to J. P. Coyne"
 tags: [ufo-files-62hq83894, 1947-coded-message, fbi-laboratory, informant-follow-up, newsday-long-island, radio-ham, fcc-amateur-records, martian-authorship-claim, editorial-judgment-as-disposition, primary-source]
 entities_mentioned: ["Mrs. A. Sarbanis", "W. V. Cleveland", "J. P. Coyne", "Radio Ham", "Newsday", "FBI Laboratory", "New York FBI Office", "FCC", "Federal Communications Commission", "Federal Bureau of Investigation", "Mr. Tolson", "Mr. E. A. Tamm", "Mr. Ladd", "Mr. Nichols"]
+thread: 1947-origin
+significance: low
 ---
 
 ## Summary

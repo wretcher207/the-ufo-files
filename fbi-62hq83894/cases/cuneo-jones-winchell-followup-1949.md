@@ -9,6 +9,8 @@ source_date: 1949-07-XX
 publisher: "FBI / U.S. Department of Justice"
 tags: [fbi, 62-hq-83894, cuneo, winchell, jones-letter, los-angeles-office, primary-source, hoover-ladd-direct, prank-letter, bureau-selectivity]
 entities_mentioned: [ernest-cuneo, walter-winchell, j-edgar-hoover, d-m-ladd, peter-cameron-jones, clyde-tolson, r-b-hood-sac-los-angeles]
+thread: 1948-49-hardening
+significance: medium
 ---
 
 ## Summary

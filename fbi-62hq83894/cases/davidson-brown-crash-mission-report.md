@@ -9,6 +9,8 @@ source_date: 1947-08-04
 publisher: "AAF Air Rescue Service Detachment 8 / 62d AAF Base Unit, McChord Field"
 tags: [ufo, uap, pursue, fbi, 62-hq-83894, maury-island, davidson-brown-crash, 1947, primary-source, aaf-air-rescue]
 entities_mentioned: [pursue-program, aaro, fbi]
+thread: 1947-origin
+significance: medium
 ---
 
 ## Summary

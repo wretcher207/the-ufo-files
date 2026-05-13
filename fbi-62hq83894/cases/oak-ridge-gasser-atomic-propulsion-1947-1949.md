@@ -9,6 +9,8 @@ source_date: 1949-01-10
 publisher: "FBI / U.S. Department of Justice"
 tags: [fbi, 62-hq-83894, oak-ridge, atomic-propulsion, gasser-interview, presley-photographs, aec-suppression, project-grudge-precursor, soviet-attribution, wright-field, primary-source]
 entities_mentioned: [c-d-gasser, g-j-rathman, w-r-presley, c-c-mcswain, d-m-ladd, h-b-fletcher, j-edgar-hoover, atomic-energy-commission, nepa-project, wright-patterson-afb, air-materiel-command, oak-ridge-national-laboratory]
+thread: 1948-49-hardening
+significance: high
 ---
 
 ## Summary

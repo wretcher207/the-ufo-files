@@ -9,6 +9,8 @@ source_date: 1947-07-07
 publisher: "FBI / U.S. Department of Justice"
 tags: [fbi, 62-hq-83894, rhodes-photographs, phoenix-1947, primary-source, hoover-teletype, identity-concealment, jurisdictional-dispute, aaf-a2, osi]
 entities_mentioned: [william-albert-rhodes, j-bailey-brower, george-fugate-jr, donald-springer, harry-kimball, heber-m-clegg, j-edgar-hoover, d-m-ladd, lynn-c-aldrich, walter-winchell, ernest-cuneo, true-magazine]
+thread: 1947-origin
+significance: medium
 ---
 
 ## Summary

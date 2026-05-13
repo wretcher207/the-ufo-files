@@ -9,6 +9,8 @@ source_date: 1947-09-17
 publisher: "FBI (Director, SAC Albany)"
 tags: [ufo-files-62hq83894, 1947-post-roswell, hoover-acknowledgment, professional-witness, superintendent, vermont-new-hampshire, dual-object, primary-source]
 entities_mentioned: ["A. Courtney Parker", "Federal Bureau of Investigation", "J. Edgar Hoover", "Superintendent of Schools", "Rix Ledges", "Lebanon New Hampshire", "South Royalton Vermont", "Albany FBI Office"]
+thread: 1947-origin
+significance: low
 ---
 
 ## Summary

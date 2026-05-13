@@ -9,6 +9,8 @@ source_date: 1947-09-11
 publisher: "FBI (SAC Portland)"
 tags: [ufo-files-62hq83894, 1947-post-roswell, government-witnesses, police-chief, multi-observer, citywide-dispatch, newspaper-corroboration, oregon-portland, primary-source]
 entities_mentioned: ["Leon V. Jenkins", "H.S. Raney", "Robert D. Adair", "J. R. Caldwell", "Robert W. Shaylor", "Donald W. Cowling", "Portland Police Department", "Portland Oregon", "Federal Bureau of Investigation", "The Oregonian", "SAC Portland"]
+thread: 1947-origin
+significance: low
 ---
 
 ## Summary

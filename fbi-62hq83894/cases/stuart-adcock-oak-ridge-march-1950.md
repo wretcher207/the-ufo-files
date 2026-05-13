@@ -9,6 +9,8 @@ source_date: 1950-03-01
 publisher: "FBI / U.S. Department of Justice"
 tags: [fbi, 62-hq-83894, adcock-case, oak-ridge, vital-facilities, internal-security, sac-knoxville, primary-source, radar-sighting, third-army, cic, osi, aec-security, dry-run]
 entities_mentioned: [stuart-adcock, c-d-gasser, charlton-c-mcswain, a-h-belmont, j-edgar-hoover, e-l-seagraves, w-m-price, robert-cross, gene-goedjen, g-r-shacklett, charles-white, frank-callaghan, howard-woodside, john-meade, c-a-rolander, francis-r-hammack, oak-ridge-national-laboratory, nepa-project, sac-knoxville, atomic-energy-commission, third-army, fourteenth-air-force, cic-third-army, osi-twenty-fourth-district, naval-reserve-knoxville, smyrna-air-base, wrol]
+thread: 1949-50-disinfo
+significance: medium
 ---
 
 ## Summary

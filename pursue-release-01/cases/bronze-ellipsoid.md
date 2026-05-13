@@ -9,6 +9,8 @@ case_date: 2023-09
 publisher: "PURSUE / FBI"
 tags: [ufo, uap, fbi, fbi-302, primary-source, bronze-ellipsoid, multi-witness, pursue]
 entities_mentioned: [pursue-program, aaro, fbi]
+thread: pursue-2026
+significance: high
 ---
 
 ## Summary

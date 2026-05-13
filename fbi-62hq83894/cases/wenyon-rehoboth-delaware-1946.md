@@ -9,6 +9,8 @@ source_date: 1946-09 / 1947-06
 publisher: "FBI (SAC Baltimore, Director)"
 tags: [ufo-files-62hq83894, pre-roswell-uap, delaware, pilot-report, eastern-airlines, memorial-day-crash, fbi-dismissal, 1946, primary-source]
 entities_mentioned: ["Horace P. Wenyon", "Federal Bureau of Investigation", "Eastern Airlines", "Civil Aeronautic Authority", "Wilmington Delaware", "Rehoboth Beach Delaware", "Port Deposit Maryland", "Wilmington Morning News"]
+thread: 1947-origin
+significance: medium
 ---
 
 ## Summary

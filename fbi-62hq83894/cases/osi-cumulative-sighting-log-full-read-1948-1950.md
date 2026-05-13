@@ -9,6 +9,8 @@ source_date: 1950-05-25
 publisher: "FBI / U.S. Department of Justice"
 tags: [fbi, 62-hq-83894, osi-sighting-log, kirtland-osi, los-alamos, sandia-base, killeen-base, vaughn-nm, holloman, tucson, roswell, evaluation-codes, primary-source, structured-data]
 entities_mentioned: [doyle-rees, lincoln-la-paz, kirtland-air-force-base, los-alamos-laboratory, sandia-base, holloman-air-force-base, killeen-base, camp-hood, vaughn-nm, alamogordo, white-sands]
+thread: 1949-50-disinfo
+significance: medium
 ---
 
 ## Summary

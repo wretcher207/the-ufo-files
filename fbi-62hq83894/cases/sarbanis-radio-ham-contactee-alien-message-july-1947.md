@@ -9,6 +9,8 @@ source_date: 1947-07-10 to 1947-09-17
 publisher: "Federal Bureau of Investigation / New York Office"
 tags: [fbi, 62hq83894, 1947, contactee, alien-message, coded-message, newsday, long-island, radio-ham, hoax-assessment, primary-source]
 entities_mentioned: [mrs-a-g-sarbanis, jack-altschul, newsday-newspaper, radio-ham-anonymous, stephen-m-schuster, edward-scheidt, william-a-johnson, w-v-cleveland, j-p-coyne, fcc-amateur-radio]
+thread: 1947-origin
+significance: high
 ---
 
 ## Summary

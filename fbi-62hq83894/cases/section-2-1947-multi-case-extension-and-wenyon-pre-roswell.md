@@ -9,6 +9,8 @@ source_date: 1947-09-04
 publisher: "FBI San Francisco / Butte / Portland / Baltimore Field Offices and 4AF CIC Hamilton Field"
 tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1947, 1946, primary-source, twin-falls, hedstrom, bethel-alaska, peck, daly, lake-mead, armstrong, myrtle-creek, hatfield, ellison, wenyon, pre-roswell, mcleod-seattle-times, general-hale, bureau-bulletin-42]
 entities_mentioned: [pursue-program, aaro, fbi]
+thread: 1947-origin
+significance: medium
 ---
 
 ## Summary

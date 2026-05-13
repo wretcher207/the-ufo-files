@@ -9,6 +9,8 @@ source_date: 1950-05-19
 publisher: "FBI / U.S. Department of Justice (D-3 Briefing); U.S. Army Intelligence Branch, New Orleans Port of Embarkation (Halfery report)"
 tags: [fbi, 62hq83894, ufo, uap, d3-briefing, mr-stites, michael-halfery, mister-x, hoax-photograph, hottel-memo, aztec, crashed-saucer, rickenbacker, ezekiel, sweden-1946, mass-hysteria, primary-source, pursue, release-01]
 entities_mentioned: [d3-briefing, mr-stites, g-2, michael-halfery, john-r-esposito, major-merle-l-mennie, col-bordon, osi, new-orleans-port-of-embarkation, eddie-rickenbacker, peenemunde, dago-island, marktkirche-wiesbaden, translag-usa, fbi]
+thread: 1949-50-disinfo
+significance: medium
 ---
 
 ## Summary

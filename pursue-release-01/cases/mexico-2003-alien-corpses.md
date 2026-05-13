@@ -9,6 +9,8 @@ case_date: 2003-09-12
 publisher: "PURSUE / U.S. Department of State"
 tags: [ufo, uap, mexico, alien-corpses, state-department, primary-source, congressional-testimony, pursue]
 entities_mentioned: [pursue-program]
+thread: pursue-2026
+significance: medium
 ---
 
 ## Summary

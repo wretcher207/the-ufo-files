@@ -9,6 +9,8 @@ source_date: 1948-08-05
 publisher: "Atlanta Special Agent in Charge, Federal Bureau of Investigation / Foltz"
 tags: [ufo-files-62hq83894, 1948-civilian-witness, field-office-dismissal, credibility-filtering, patriotic-framing, eastern-air-lines, chiles-whitted, institutional-non-escalation, primary-source]
 entities_mentioned: ["Mrs. Madeline Gwynne Merchant", "Eastern Air Lines", "Captain C. S. Chiles", "John B. Whitted", "Major Sidney Newburger", "General Handy", "Los Alamos", "Atlanta Journal", "Atlanta SAC", "Edwin J. Foltz", "Federal Bureau of Investigation"]
+thread: 1948-49-hardening
+significance: medium
 ---
 
 ## Summary

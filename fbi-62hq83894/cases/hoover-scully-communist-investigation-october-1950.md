@@ -9,6 +9,8 @@ source_date: 1950-10-13
 publisher: "Federal Bureau of Investigation / FBI Director J. Edgar Hoover"
 tags: [ufo-files-62hq83894, 1950-hoover-personal-engagement, flying-saucer-literature, counterintelligence-frame, communist-vetting, director-directive, primary-source]
 entities_mentioned: ["J. Edgar Hoover", "Frank Scully", "SAC Los Angeles", "FBI Communications Section", "FBI Senior Officials"]
+thread: 1949-50-disinfo
+significance: high
 ---
 
 ## Summary

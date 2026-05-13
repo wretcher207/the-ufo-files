@@ -9,6 +9,8 @@ source_date: 1947-07-12
 publisher: "Counter Intelligence Corps (4AF CIC), Hamilton Field — Kenneth Arnold (first-person typed statement)"
 tags: [ufo-files-62hq83894, kenneth-arnold, 1947, biographical, pilot-credibility, cic-investigation, primary-source, eagle-scout, callair, fire-control-engineer, pre-roswell]
 entities_mentioned: ["Kenneth Arnold", "Frank M. Brown", "4AF CIC", "Hamilton Field", "Great Western Fire Control Supply", "Red Comet Inc.", "University of Minnesota", "Earl T. Vance", "Ed Leach", "Roland C. Arnold", "Burton K. Wheeler", "Bernie Bierman", "Glenn L. Jarrett", "Neils Thorpe"]
+thread: 1947-origin
+significance: medium
 ---
 
 ## Summary

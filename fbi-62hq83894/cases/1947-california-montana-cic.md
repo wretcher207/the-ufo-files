@@ -9,6 +9,8 @@ source_date: 1947-08-20
 publisher: "Counter Intelligence Corps (4AF CIC), Hamilton Field"
 tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1947, primary-source, cic-investigation, switzer, madden, placerville, canyon-ferry-montana]
 entities_mentioned: [pursue-program, aaro, fbi]
+thread: 1947-origin
+significance: low
 ---
 
 ## Summary

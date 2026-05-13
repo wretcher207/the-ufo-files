@@ -9,6 +9,8 @@ source_date: 1947-07-28
 publisher: "Counter Intelligence Corps (4AF CIC), Hamilton Field / FBI San Francisco Field Office"
 tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1947, primary-source, cic-investigation, kenneth-arnold, frank-brown, william-davidson, donald-springer, james-nelson, hamilton-field, 4af, mt-rainier, boise, palm-springs, pre-maury-island]
 entities_mentioned: [pursue-program, aaro, fbi]
+thread: 1947-origin
+significance: medium
 ---
 
 ## Summary

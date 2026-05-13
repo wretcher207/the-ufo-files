@@ -9,6 +9,8 @@ source_date: 1950-02-10
 publisher: "Office of Naval Intelligence (ONI) / U.S. Navy / forwarded to FBI via Liaison Channels"
 tags: [fbi, 62hq83894, ufo, uap, kodiak-alaska, oni, navy, multi-witness, radar-visual, lt-smith, lt-barco, bruce-maccabee, foia, primary-source, pursue, release-01]
 entities_mentioned: [kodiak-naval-air-station, patrol-squadron-one, p2v3-patrol-plane, lt-smith, lt-causer, lt-barco, paulson-ad1, morgan-bmc, carver-qm, giskey-alc, uss-tillamock-ata-192, oni, naval-intelligence-service, bruce-maccabee, fbi]
+thread: 1949-50-disinfo
+significance: medium
 ---
 
 ## Summary
