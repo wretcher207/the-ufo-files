@@ -46,6 +46,7 @@ confidence: high
 date: 2025-late
 threads:
   - pursue-2026
+  - gap-1974-2025
 entities:
   - pursue-program
   - aaro
