@@ -129,6 +129,8 @@ relationships:
     type: mentions
     confidence: medium
     explanation: UAP disclosure (concept)
+witnesses:
+  - Stuart E. Adcock
 ---
 
 ## Summary

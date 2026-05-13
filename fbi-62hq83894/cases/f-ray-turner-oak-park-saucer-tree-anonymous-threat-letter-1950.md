@@ -89,6 +89,8 @@ relationships:
     type: mentions
     confidence: medium
     explanation: AARO
+witnesses:
+  - F. Ray Turner
 ---
 
 ## Summary

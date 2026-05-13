@@ -96,6 +96,8 @@ relationships:
     type: mentions
     confidence: medium
     explanation: AARO
+witnesses:
+  - Kenneth Arnold
 ---
 
 ## Summary

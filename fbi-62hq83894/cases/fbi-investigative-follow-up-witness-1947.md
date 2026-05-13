@@ -97,6 +97,8 @@ relationships:
     type: mentions
     confidence: medium
     explanation: oak-ridge-gasser-atomic-propulsion-1947-1949
+witnesses:
+  - Mrs. A. Sarbanis
 ---
 
 ## Summary

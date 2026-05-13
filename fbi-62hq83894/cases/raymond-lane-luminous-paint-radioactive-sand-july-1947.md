@@ -76,6 +76,9 @@ relationships:
     type: mentions
     confidence: medium
     explanation: project-grudge-vital-installations-1948-1949
+witnesses:
+  - Raymond Edward Lane
+  - Laura Lane
 ---
 
 ## Summary

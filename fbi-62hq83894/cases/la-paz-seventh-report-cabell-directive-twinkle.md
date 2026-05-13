@@ -140,6 +140,8 @@ relationships:
     type: mentions
     confidence: medium
     explanation: UAP disclosure (concept)
+witnesses:
+  - Lertis E. Stanfield
 ---
 
 ## Summary

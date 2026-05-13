@@ -108,6 +108,12 @@ relationships:
     type: mentions
     confidence: medium
     explanation: UAP disclosure (concept)
+witnesses:
+  - Alf E. Hixenbaugh
+  - Robert Steinau
+  - William Davis
+  - Robert R. Petrone
+  - Albert Holmberg
 ---
 
 ## Summary

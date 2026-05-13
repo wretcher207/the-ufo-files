@@ -12,6 +12,16 @@ tags:
   - trump-administration
 caseId: ENTITY/pete-hegseth
 nodeType: person
+summary: >-
+  Pete Hegseth is the US Secretary of War under the Trump administration and the
+  public face of the May 8, 2026 PURSUE UFO files release.
+excerpt: >-
+  Pete Hegseth serves as the US Secretary of War, a role formerly known as
+  Secretary of Defense, in the Trump administration. He is the spokesperson and
+  signatory for the PURSUE UFO files released on May 8, 2026, and is the
+  most-quoted official in related coverage. Hegseth has stated that the files
+  were 'hidden behind classifications' and that their release demonstrates the
+  administration's commitment to transparency.
 ---
 
 ## Who He Is

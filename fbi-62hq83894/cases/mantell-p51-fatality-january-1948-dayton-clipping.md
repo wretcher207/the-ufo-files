@@ -107,6 +107,8 @@ relationships:
     type: mentions
     confidence: medium
     explanation: AARO
+witnesses:
+  - Captain Thomas F. Mantell
 ---
 
 ## Summary

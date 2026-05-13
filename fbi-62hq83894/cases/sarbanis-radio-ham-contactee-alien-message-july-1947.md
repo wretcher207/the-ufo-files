@@ -85,6 +85,10 @@ relationships:
     type: mentions
     confidence: medium
     explanation: civilian-correspondence-hoover-pattern-1949-1950
+witnesses:
+  - Mrs. A. G. Sarbanis
+  - Jack Altschul
+  - Stephen M. Schuster
 ---
 
 ## Summary

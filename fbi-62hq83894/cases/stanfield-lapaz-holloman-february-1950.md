@@ -82,6 +82,8 @@ relationships:
     type: mentions
     confidence: medium
     explanation: jones-winchell-cuneo-1947-1949
+witnesses:
+  - Corporal Lertis E. Stanfield
 ---
 
 ## Summary

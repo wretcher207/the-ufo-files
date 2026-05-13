@@ -84,6 +84,8 @@ relationships:
     type: mentions
     confidence: medium
     explanation: UAP disclosure (concept)
+witnesses:
+  - Florence B. Pervier
 ---
 
 ## Summary

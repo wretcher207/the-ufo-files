@@ -107,6 +107,8 @@ relationships:
     type: mentions
     confidence: medium
     explanation: UAP disclosure (concept)
+witnesses:
+  - W. R. Presley
 ---
 
 ## Summary

@@ -86,6 +86,9 @@ relationships:
     type: mentions
     confidence: medium
     explanation: portland-police-department-september-1947
+witnesses:
+  - Ray Virgil Hatfield
+  - Noble Ellison
 ---
 
 ## Summary

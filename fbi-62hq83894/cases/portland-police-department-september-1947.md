@@ -72,6 +72,13 @@ entities:
   - Federal Bureau of Investigation
   - The Oregonian
   - SAC Portland
+witnesses:
+  - Leon V. Jenkins
+  - H.S. Raney
+  - Robert D. Adair
+  - J. R. Caldwell
+  - Robert W. Shaylor
+  - Donald W. Cowling
 ---
 
 ## Summary

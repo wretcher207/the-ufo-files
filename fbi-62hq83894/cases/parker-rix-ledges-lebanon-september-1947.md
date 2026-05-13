@@ -64,6 +64,8 @@ entities:
   - Lebanon New Hampshire
   - South Royalton Vermont
   - Albany FBI Office
+witnesses:
+  - A. Courtney Parker
 ---
 
 ## Summary

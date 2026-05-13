@@ -81,6 +81,10 @@ relationships:
     type: mentions
     confidence: medium
     explanation: UAP disclosure (concept)
+witnesses:
+  - MATHEWS
+  - TAFF
+  - O. C. Clark
 ---
 
 ## Summary

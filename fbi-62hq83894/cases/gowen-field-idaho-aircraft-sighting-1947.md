@@ -87,6 +87,8 @@ relationships:
     type: mentions
     confidence: medium
     explanation: section-2-1947-multi-case-extension-and-wenyon-pre-roswell
+witnesses:
+  - David N. Johnson
 ---
 
 ## Summary

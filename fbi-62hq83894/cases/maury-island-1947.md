@@ -76,6 +76,13 @@ relationships:
     type: mentions
     confidence: medium
     explanation: UAP disclosure (concept)
+witnesses:
+  - Fred L. Crisman
+  - Harold A. Dahl
+  - Kenneth Arnold
+  - Emil J. Smith
+  - Ralph Stevens
+  - Dave Johnson
 ---
 
 ## Summary

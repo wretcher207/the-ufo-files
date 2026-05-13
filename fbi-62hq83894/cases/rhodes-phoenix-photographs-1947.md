@@ -101,6 +101,8 @@ relationships:
     type: mentions
     confidence: medium
     explanation: UAP disclosure (concept)
+witnesses:
+  - William Albert Rhodes
 ---
 
 ## Summary

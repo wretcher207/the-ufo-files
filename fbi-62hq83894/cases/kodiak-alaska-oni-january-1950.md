@@ -112,6 +112,14 @@ relationships:
     type: mentions
     confidence: medium
     explanation: rhodes-phoenix-photographs-1947
+witnesses:
+  - Lt. Smith
+  - GISKEY ALC
+  - MORGAN BMC
+  - CARVER QM
+  - Lt. Causer
+  - Lt. Barco
+  - PAULSON AD1
 ---
 
 ## Summary

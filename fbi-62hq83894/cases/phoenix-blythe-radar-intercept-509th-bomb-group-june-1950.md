@@ -102,6 +102,8 @@ relationships:
     type: mentions
     confidence: medium
     explanation: AARO
+witnesses:
+  - Herman Munroe
 ---
 
 ## Summary

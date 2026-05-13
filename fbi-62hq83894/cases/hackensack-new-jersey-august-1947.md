@@ -77,6 +77,10 @@ relationships:
     type: mentions
     confidence: medium
     explanation: portland-police-department-september-1947
+witnesses:
+  - Charles Caselia Jr.
+  - William A. Truex
+  - Joyce McFarland
 ---
 
 ## Summary

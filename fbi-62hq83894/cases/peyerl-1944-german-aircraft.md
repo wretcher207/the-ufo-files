@@ -77,6 +77,8 @@ relationships:
     type: mentions
     confidence: medium
     explanation: PURSUE program
+witnesses:
+  - PAUL L. PEYERL
 ---
 
 ## Summary

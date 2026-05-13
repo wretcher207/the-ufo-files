@@ -93,6 +93,19 @@ relationships:
     type: mentions
     confidence: medium
     explanation: UAP disclosure (concept)
+witnesses:
+  - Colonel Gilkey
+  - Major Richard R. Shoop
+  - 1st Lt. Joseph C. McHenry
+  - T/Sgt. Joseph Ruvolo
+  - Jannette Marie Scott
+  - PFC T. C. Robinson
+  - Major J. C. Wise
+  - Captain John Paul Stapp
+  - Mrs. A. C. Naum
+  - S/Sgt. Gerald E. Nauman
+  - Mr. Lenz
+  - Mrs. Shoop
 ---
 
 ## Summary

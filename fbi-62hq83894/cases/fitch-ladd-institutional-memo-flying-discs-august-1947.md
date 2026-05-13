@@ -4,6 +4,19 @@ nodeType: document
 agency: FBI
 classification: Declassified
 confidence: medium
+witnesses:
+  - David N. Johnson
+summary: >-
+  FBI senior leadership memo from August 1947 debates the Bureau's role in
+  flying-disc investigations, introducing the 'bird-dog for the Army' framing
+  and noting Air Force Intel's refusal to share information.
+excerpt: >-
+  J.P. Coyne's August 8 memo introduces the 'bird-dog for the Army'
+  institutional framing: FBI conducts investigations, Army takes credit and
+  command — same pattern as WWII Japanese-balloon response. Ladd's August 1
+  brief reports Air Force Intel refuses to share information (highly classified)
+  and concludes no Federal Government concern warranting FBI investigation.
+date: 1947-08
 ---
 ## [2026-05-09] ingest | 62-HQ-83894 case mining — pass 35 cases 13-14: FBI Institutional Memo and Gowen Field Aircraft Sighting (Section 2, August 1947)
 

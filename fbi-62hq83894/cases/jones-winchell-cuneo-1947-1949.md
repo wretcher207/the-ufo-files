@@ -75,6 +75,8 @@ relationships:
     type: mentions
     confidence: medium
     explanation: rhodes-phoenix-photographs-1947
+witnesses:
+  - Peter Camerton Jones
 ---
 
 ## Summary

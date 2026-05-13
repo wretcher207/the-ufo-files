@@ -112,6 +112,15 @@ relationships:
     type: mentions
     confidence: medium
     explanation: AARO
+witnesses:
+  - Joe Thorn
+  - Ray Robinson
+  - Jane Ferry
+  - Larry Stephens
+  - Paul Brassington
+  - Stephen Smith
+  - Gary Hargreaves
+  - Ron Fraide
 ---
 
 ## Summary

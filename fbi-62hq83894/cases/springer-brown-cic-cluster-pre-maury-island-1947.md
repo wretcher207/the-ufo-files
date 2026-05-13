@@ -116,6 +116,15 @@ relationships:
     type: mentions
     confidence: medium
     explanation: AARO
+witnesses:
+  - Kenneth M. Arnold
+  - David N. Johnson
+  - Capt. E. J. Smith
+  - S/Sgt Edward R. Baker
+  - Captain William H. Ryherd
+  - 1st Lt. Ward L. Stewart
+  - 'Lt. W. G. McGinty, USN'
+  - Lt. E. B. Armstrong
 ---
 
 ## Summary

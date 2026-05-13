@@ -146,6 +146,15 @@ relationships:
     type: mentions
     confidence: medium
     explanation: UAP disclosure (concept)
+witnesses:
+  - Lonnie Edward Noack
+  - Fuller Blackwell
+  - R. C. Person
+  - Nathan Smith
+  - Mrs. Nathan Smith
+  - Henry T. Rice
+  - Claude Leroy Wolford
+  - Mrs. Wolford
 ---
 
 ## Summary

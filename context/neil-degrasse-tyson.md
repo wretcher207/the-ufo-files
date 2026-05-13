@@ -13,6 +13,15 @@ tags:
   - evidentiary-standards
 caseId: ENTITY/neil-degrasse-tyson
 nodeType: person
+summary: >-
+  American astrophysicist and science communicator who predicted the 2026 PURSUE
+  UFO files would be anticlimactic, emphasizing the need for physical evidence.
+excerpt: >-
+  Neil deGrasse Tyson is an astrophysicist and director of the Hayden
+  Planetarium known for his rationalist perspective. He was a pre-release
+  skeptic of the May 2026 PURSUE UFO files, correctly predicting they would be
+  anticlimactic. He argues that real proof of aliens would require a physical
+  specimen, not just documents.
 ---
 
 ## Who He Is

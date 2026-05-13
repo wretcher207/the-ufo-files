@@ -107,6 +107,10 @@ relationships:
     type: mentions
     confidence: medium
     explanation: AARO
+witnesses:
+  - Coulter
+  - Silas Newton
+  - George Koehler
 ---
 
 ## Summary

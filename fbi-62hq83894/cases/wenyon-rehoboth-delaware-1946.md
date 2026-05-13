@@ -65,6 +65,8 @@ entities:
   - Rehoboth Beach Delaware
   - Port Deposit Maryland
   - Wilmington Morning News
+witnesses:
+  - Horace P. Wenyon
 ---
 
 ## Summary

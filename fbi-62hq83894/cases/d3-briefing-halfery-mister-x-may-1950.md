@@ -120,6 +120,9 @@ relationships:
     type: mentions
     confidence: medium
     explanation: rhodes-phoenix-photographs-1947
+witnesses:
+  - Michael Halfery
+  - John R. Esposito
 ---
 
 ## Summary

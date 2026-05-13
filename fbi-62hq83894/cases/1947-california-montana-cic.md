@@ -87,6 +87,12 @@ relationships:
     type: mentions
     confidence: medium
     explanation: UAP disclosure (concept)
+witnesses:
+  - Mr. Switzer
+  - Mrs. Switzer
+  - R. J. Madden
+  - Steve Herrmann
+  - Karl Herrmann
 ---
 
 ## Summary

@@ -86,6 +86,9 @@ relationships:
     type: mentions
     confidence: medium
     explanation: pervier-tulsa-fbi-agent-corroboration-1950
+witnesses:
+  - Captain C. S. Chiles
+  - John B. Whitted
 ---
 
 ## Summary
