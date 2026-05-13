@@ -1,16 +1,94 @@
 ---
-title: "FBI 62-HQ-83894 — F. Ray Turner Oak Park Illinois 'Saucer-Hit-A-Fig-Ash-Tree' Case and the November 1950 Anonymous Threat Note (July 20, 1950)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0203.md, page-0204.md, page-0205.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — F. Ray Turner Oak Park Illinois 'Saucer-Hit-A-Fig-Ash-Tree'
+  Case and the November 1950 Anonymous Threat Note (July 20, 1950)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1950-07-20
-publisher: "FBI / F. Ray Turner (civilian witness)"
-tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1950, primary-source, f-ray-turner, oak-park-illinois, saucer-tree, anonymous-threat-note, civilian-correspondence, atomic-plant-code]
-entities_mentioned: [pursue-program, aaro, fbi]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1950-07-20T00:00:00.000Z
+publisher: FBI / F. Ray Turner (civilian witness)
+tags:
+  - ufo
+  - uap
+  - pursue
+  - fbi
+  - 62-hq-83894
+  - 1950
+  - primary-source
+  - f-ray-turner
+  - oak-park-illinois
+  - saucer-tree
+  - anonymous-threat-note
+  - civilian-correspondence
+  - atomic-plant-code
+entities_mentioned:
+  - pursue-program
+  - aaro
+  - fbi
 thread: 1949-50-disinfo
 significance: medium
+caseId: FBI-62HQ-83894/f-ray-turner-oak-park-saucer-tree-anonymous-threat-letter-1950
+summary: >-
+  On the morning of **July 20, 1950 at 6:29 AM**, F. Ray Turner of 217 S. Maple
+  Avenue, Oak Park, Illinois, was about to start his work-truck (parked
+  overnight under a fig ash tree) when he heard "a…
+excerpt: >-
+  On the morning of **July 20, 1950 at 6:29 AM**, F. Ray Turner of 217 S. Maple
+  Avenue, Oak Park, Illinois, was about to start his work-truck (parked
+  overnight under a fig ash tree) when he heard "a whistly sound" and observed a
+  flying saucer **strike the top of the fig ash tree** above his vehicle.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0203.md,
+  page-0204.md, page-0205.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1950-07-20'
+  officialName: FBI / F. Ray Turner (civilian witness)
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1950-07-20'
+threads:
+  - 1949-50-disinfo
+entities:
+  - pursue-program
+  - aaro
+  - fbi
+relationships:
+  - target: philadelphia-1950-soap-suds-disc
+    type: mentions
+    confidence: medium
+    explanation: philadelphia-1950-soap-suds-disc
+  - target: civilian-correspondence-hoover-pattern-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: civilian-correspondence-hoover-pattern-1949-1950
+  - target: pervier-tulsa-fbi-agent-corroboration-1950
+    type: mentions
+    confidence: medium
+    explanation: pervier-tulsa-fbi-agent-corroboration-1950
+  - target: stuart-adcock-oak-ridge-march-1950
+    type: mentions
+    confidence: medium
+    explanation: stuart-adcock-oak-ridge-march-1950
+  - target: section-10-1966-1973-civilian-correspondent-cluster-post-blue-book
+    type: mentions
+    confidence: medium
+    explanation: section-10-1966-1973-civilian-correspondent-cluster-post-blue-book
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
 ---
 
 ## Summary

@@ -1,10 +1,27 @@
 ---
-title: "PURSUE Program"
+title: PURSUE Program
 type: program
 domain: cross-domain
 source_count: 7
-last_updated: 2026-05-08
-tags: [ufo, uap, pentagon, department-of-war, declassification, disclosure, trump-administration]
+last_updated: 2026-05-08T00:00:00.000Z
+tags:
+  - ufo
+  - uap
+  - pentagon
+  - department-of-war
+  - declassification
+  - disclosure
+  - trump-administration
+caseId: ENTITY/pursue-program
+summary: >-
+  PURSUE = Presidential Unsealing and Reporting System for UAP Encounters. The
+  Trump administration's interagency program for reviewing, declassifying, and
+  publicly releasing federal UAP records.
+excerpt: >-
+  PURSUE = Presidential Unsealing and Reporting System for UAP Encounters. The
+  Trump administration's interagency program for reviewing, declassifying, and
+  publicly releasing federal UAP records.
+nodeType: program
 ---
 
 ## What It Is

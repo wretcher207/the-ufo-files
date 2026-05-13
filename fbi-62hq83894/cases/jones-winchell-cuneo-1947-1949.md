@@ -1,16 +1,80 @@
 ---
-title: "FBI 62-HQ-83894 — Peter Camerton Jones / Walter Winchell / Ernest Cuneo Los Angeles 1947 Sighting Routed to Hoover, July 1949 (High-Level Information Routing, Failed Location, Institutional Memory Loss)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0017.md, page-0021.md, page-0025.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf"
-mirror_url: ""
+title: >-
+  FBI 62-HQ-83894 — Peter Camerton Jones / Walter Winchell / Ernest Cuneo Los
+  Angeles 1947 Sighting Routed to Hoover, July 1949 (High-Level Information
+  Routing, Failed Location, Institutional Memory Loss)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+mirror_url: ''
 domain: cross-domain
-date_ingested: 2026-05-09
+date_ingested: 2026-05-09T00:00:00.000Z
 source_date: 1947-08
-publisher: "FBI (Director Hoover, SAC Los Angeles)"
-tags: [ufo-files-62hq83894, 1947-post-roswell, high-level-routing, hoover-engagement, information-intermediary, california-los-angeles, memory-decay, failed-locate, primary-source]
-entities_mentioned: ["Peter Camerton Jones", "Walter Winchell", "Ernest Cuneo", "J. Edgar Hoover", "Mr. Ladd", "Federal Bureau of Investigation", "Los Angeles", "County Fairs"]
+publisher: 'FBI (Director Hoover, SAC Los Angeles)'
+tags:
+  - ufo-files-62hq83894
+  - 1947-post-roswell
+  - high-level-routing
+  - hoover-engagement
+  - information-intermediary
+  - california-los-angeles
+  - memory-decay
+  - failed-locate
+  - primary-source
+entities_mentioned:
+  - Peter Camerton Jones
+  - Walter Winchell
+  - Ernest Cuneo
+  - J. Edgar Hoover
+  - Mr. Ladd
+  - Federal Bureau of Investigation
+  - Los Angeles
+  - County Fairs
 thread: 1948-49-hardening
 significance: medium
+caseId: FBI-62HQ-83894/jones-winchell-cuneo-1947-1949
+summary: >-
+  In June 1949, Walter Winchell received a letter from Peter Camerton Jones (164
+  West 37th Street, Los Angeles 7, California) describing a flying disc sighting
+  in August 1947 in the mountains outside…
+excerpt: >-
+  In June 1949, Walter Winchell received a letter from Peter Camerton Jones (164
+  West 37th Street, Los Angeles 7, California) describing a flying disc sighting
+  in August 1947 in the mountains outside Los Angeles. Winchell routed the
+  letter to Ernest Cuneo, who read it to FBI Assistant Director D. M.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0017.md,
+  page-0021.md, page-0025.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+  releaseDate: 1947-08
+  officialName: 'FBI (Director Hoover, SAC Los Angeles)'
+  retrievedDate: 'Fri May 08 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: 1947-08
+threads:
+  - 1948-49-hardening
+entities:
+  - Peter Camerton Jones
+  - Walter Winchell
+  - Ernest Cuneo
+  - J. Edgar Hoover
+  - Mr. Ladd
+  - Federal Bureau of Investigation
+  - Los Angeles
+  - County Fairs
+relationships:
+  - target: parker-rix-ledges-lebanon-september-1947
+    type: mentions
+    confidence: medium
+    explanation: parker-rix-ledges-lebanon-september-1947
+  - target: rhodes-phoenix-photographs-1947
+    type: mentions
+    confidence: medium
+    explanation: rhodes-phoenix-photographs-1947
 ---
 
 ## Summary

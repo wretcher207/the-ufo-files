@@ -1,16 +1,121 @@
 ---
-title: "FBI 62-HQ-83894 — 4AF CIC Hamilton Field Pre-Maury-Island Investigation Cluster, July–August 1947 (Springer / Brown / Davidson / Nelson — Arnold / Johnson / Smith / Rankin / Baker / Ryherd)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0159.md, page-0160.md, page-0161.md, page-0162.md, page-0163.md, page-0164.md, page-0165.md, page-0166.md, page-0167.md, page-0168.md, page-0169.md, page-0170.md, page-0171.md, page-0173.md, page-0174.md, page-0175.md, page-0176.md, page-0182.md, page-0184.md, page-0185.md, page-0186.md, page-0187.md, page-0188.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — 4AF CIC Hamilton Field Pre-Maury-Island Investigation
+  Cluster, July–August 1947 (Springer / Brown / Davidson / Nelson — Arnold /
+  Johnson / Smith / Rankin / Baker / Ryherd)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1947-07-28
-publisher: "Counter Intelligence Corps (4AF CIC), Hamilton Field / FBI San Francisco Field Office"
-tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1947, primary-source, cic-investigation, kenneth-arnold, frank-brown, william-davidson, donald-springer, james-nelson, hamilton-field, 4af, mt-rainier, boise, palm-springs, pre-maury-island]
-entities_mentioned: [pursue-program, aaro, fbi]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1947-07-28T00:00:00.000Z
+publisher: >-
+  Counter Intelligence Corps (4AF CIC), Hamilton Field / FBI San Francisco Field
+  Office
+tags:
+  - ufo
+  - uap
+  - pursue
+  - fbi
+  - 62-hq-83894
+  - 1947
+  - primary-source
+  - cic-investigation
+  - kenneth-arnold
+  - frank-brown
+  - william-davidson
+  - donald-springer
+  - james-nelson
+  - hamilton-field
+  - 4af
+  - mt-rainier
+  - boise
+  - palm-springs
+  - pre-maury-island
+entities_mentioned:
+  - pursue-program
+  - aaro
+  - fbi
 thread: 1947-origin
 significance: medium
+caseId: FBI-62HQ-83894/springer-brown-cic-cluster-pre-maury-island-1947
+summary: >-
+  Section 2 of FBI 62-HQ-83894 contains a **30-page Hamilton Field 4AF
+  Counter-Intelligence Corps investigation cluster** (pages 159–188) transmitted
+  to the FBI Director by SAC San Francisco on 28 July…
+excerpt: >-
+  Section 2 of FBI 62-HQ-83894 contains a **30-page Hamilton Field 4AF
+  Counter-Intelligence Corps investigation cluster** (pages 159–188) transmitted
+  to the FBI Director by SAC San Francisco on 28 July 1947 and 27 August 1947 as
+  serials **62-83894-95** and **62-83894-98**.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0159.md,
+  page-0160.md, page-0161.md, page-0162.md, page-0163.md, page-0164.md,
+  page-0165.md, page-0166.md, page-0167.md, page-0168.md, page-0169.md,
+  page-0170.md, page-0171.md, page-0173.md, page-0174.md, page-0175.md,
+  page-0176.md, page-0182.md, page-0184.md, page-0185.md, page-0186.md,
+  page-0187.md, page-0188.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1947-07-28'
+  officialName: >-
+    Counter Intelligence Corps (4AF CIC), Hamilton Field / FBI San Francisco
+    Field Office
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1947-07-28'
+threads:
+  - 1947-origin
+entities:
+  - pursue-program
+  - aaro
+  - fbi
+relationships:
+  - target: maury-island-1947
+    type: mentions
+    confidence: medium
+    explanation: maury-island-1947
+  - target: davidson-brown-crash-mission-report
+    type: mentions
+    confidence: medium
+    explanation: davidson-brown-crash-mission-report
+  - target: muroc-1947-cic-affidavits
+    type: mentions
+    confidence: medium
+    explanation: muroc-1947-cic-affidavits
+  - target: 1947-california-montana-cic
+    type: mentions
+    confidence: medium
+    explanation: 1947-california-montana-cic
+  - target: rhodes-phoenix-photographs-1947
+    type: mentions
+    confidence: medium
+    explanation: rhodes-phoenix-photographs-1947
+  - target: cuneo-jones-winchell-followup-1949
+    type: mentions
+    confidence: medium
+    explanation: cuneo-jones-winchell-followup-1949
+  - target: oak-ridge-gasser-atomic-propulsion-1947-1949
+    type: mentions
+    confidence: medium
+    explanation: oak-ridge-gasser-atomic-propulsion-1947-1949
+  - target: pervier-tulsa-fbi-agent-corroboration-1950
+    type: mentions
+    confidence: medium
+    explanation: pervier-tulsa-fbi-agent-corroboration-1950
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
 ---
 
 ## Summary

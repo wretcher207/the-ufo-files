@@ -1,10 +1,24 @@
 ---
-title: "Department of War"
+title: Department of War
 type: agency
 domain: cross-domain
 source_count: 6
-last_updated: 2026-05-08
-tags: [department-of-war, pentagon, hegseth, rebrand, trump-administration, ufo, pursue]
+last_updated: 2026-05-08T00:00:00.000Z
+tags:
+  - department-of-war
+  - pentagon
+  - hegseth
+  - rebrand
+  - trump-administration
+  - ufo
+  - pursue
+caseId: ENTITY/department-of-war
+summary: >-
+  Rebranded United States Department of Defense. Per Trump-era usage in the May
+  2026 PURSUE release, official communications and the dedicated UFO portal use
+  "Department of War" and the war.gov domain…
+excerpt: Rebranded United States Department of Defense. gov / Department of Defense.
+nodeType: agency
 ---
 
 ## What It Is

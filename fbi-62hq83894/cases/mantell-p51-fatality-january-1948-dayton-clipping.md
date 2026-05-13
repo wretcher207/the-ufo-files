@@ -1,16 +1,112 @@
 ---
-title: "FBI 62-HQ-83894 — Captain Thomas F. Mantell P-51 Fatality of January 7 1948 (Dayton Journal-Herald Clipping with Last Radio Transmission Verbatim, Wright-Patterson 240+30 Statistics, and Project Sign 'Real Aircraft of Unconventional Design' Language)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0149.md, page-0150.md, page-0151.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Captain Thomas F. Mantell P-51 Fatality of January 7 1948
+  (Dayton Journal-Herald Clipping with Last Radio Transmission Verbatim,
+  Wright-Patterson 240+30 Statistics, and Project Sign 'Real Aircraft of
+  Unconventional Design' Language)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1948-01-07
-publisher: "Dayton Journal-Herald (United Press) / FBI / J. Edgar Hoover / USAF Director of Special Investigations"
-tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1948, primary-source, mantell, captain-mantell, p-51, fort-knox, fatality, project-sign, wright-patterson, 240-30-statistics, real-aircraft-of-unconventional-design]
-entities_mentioned: [pursue-program, aaro, fbi, captain-mantell, project-sign, wright-patterson]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1948-01-07T00:00:00.000Z
+publisher: >-
+  Dayton Journal-Herald (United Press) / FBI / J. Edgar Hoover / USAF Director
+  of Special Investigations
+tags:
+  - ufo
+  - uap
+  - pursue
+  - fbi
+  - 62-hq-83894
+  - 1948
+  - primary-source
+  - mantell
+  - captain-mantell
+  - p-51
+  - fort-knox
+  - fatality
+  - project-sign
+  - wright-patterson
+  - 240-30-statistics
+  - real-aircraft-of-unconventional-design
+entities_mentioned:
+  - pursue-program
+  - aaro
+  - fbi
+  - captain-mantell
+  - project-sign
+  - wright-patterson
 thread: 1948-49-hardening
 significance: high
+caseId: FBI-62HQ-83894/mantell-p51-fatality-january-1948-dayton-clipping
+summary: >-
+  Section 4 of FBI 62-HQ-83894 preserves a **United Press dispatch from the
+  Dayton Journal-Herald, dated April 27, 1948** (Section 4 page 150, FBI serial
+  62-83894-169) reporting on **Captain Thomas F.
+excerpt: >-
+  Section 4 of FBI 62-HQ-83894 preserves a **United Press dispatch from the
+  Dayton Journal-Herald, dated April 27, 1948** (Section 4 page 150, FBI serial
+  62-83894-169) reporting on **Captain Thomas F.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0149.md,
+  page-0150.md, page-0151.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1948-01-07'
+  officialName: >-
+    Dayton Journal-Herald (United Press) / FBI / J. Edgar Hoover / USAF Director
+    of Special Investigations
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: high
+date: '1948-01-07'
+threads:
+  - 1948-49-hardening
+entities:
+  - pursue-program
+  - aaro
+  - fbi
+  - captain-mantell
+  - project-sign
+  - wright-patterson
+relationships:
+  - target: davidson-brown-crash-mission-report
+    type: mentions
+    confidence: medium
+    explanation: davidson-brown-crash-mission-report
+  - target: project-grudge-vital-installations-1948-1949
+    type: mentions
+    confidence: medium
+    explanation: project-grudge-vital-installations-1948-1949
+  - target: belmont-twinkle-master-memo-osi-log-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: belmont-twinkle-master-memo-osi-log-1949-1950
+  - target: civilian-correspondence-hoover-pattern-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: civilian-correspondence-hoover-pattern-1949-1950
+  - target: pre-scully-crashed-saucer-rumor-network-1950
+    type: mentions
+    confidence: medium
+    explanation: pre-scully-crashed-saucer-rumor-network-1950
+  - target: kodiak-alaska-oni-january-1950
+    type: mentions
+    confidence: medium
+    explanation: kodiak-alaska-oni-january-1950
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
 ---
 
 ## Summary

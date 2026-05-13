@@ -1,16 +1,108 @@
 ---
-title: "FBI 62-HQ-83894 — The Bureau's Civilian-Witness Correspondence Pattern: Hoover Form-Reply, Internal NOTE, and the Substance Preserved in the File (1949–1950)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0038.md, page-0052.md, page-0066.md, page-0067.md, page-0075.md, page-0077.md, page-0089.md, page-0111.md, page-0132.md, page-0145.md, page-0160.md, page-0163.md, page-0166.md, page-0169.md, page-0186.md, page-0207.md, page-0208.md; 004-65_HS1-834228961_62-HQ-83894_Section_4/page-0028.md, page-0189.md; 006-65_HS1-834228961_62-HQ-83894_Section_6/page-0020.md; 001-65_HS1-834228961_62-HQ-83894_Section_10/page-0039.md, page-0094.md, page-0121.md, page-0138.md, page-0145.md, page-0164.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — The Bureau's Civilian-Witness Correspondence Pattern: Hoover
+  Form-Reply, Internal NOTE, and the Substance Preserved in the File (1949–1950)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1949-10-08
-publisher: "FBI / U.S. Department of Justice"
-tags: [fbi, 62-hq-83894, civilian-correspondence, form-letter-pattern, internal-notes, hoover-replies, primary-source, methodological]
-entities_mentioned: [j-edgar-hoover, maurice-e-hatten, florence-pervier, walter-fisher, marion-beuscher, henry-beston, glenn-lee-adams, lewis-a-ward, e-l-welton, walter-d-jones-toronto, dewayne-b-johnson, douglas-harrison, tage-stensig, helen-gandy]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1949-10-08T00:00:00.000Z
+publisher: FBI / U.S. Department of Justice
+tags:
+  - fbi
+  - 62-hq-83894
+  - civilian-correspondence
+  - form-letter-pattern
+  - internal-notes
+  - hoover-replies
+  - primary-source
+  - methodological
+entities_mentioned:
+  - j-edgar-hoover
+  - maurice-e-hatten
+  - florence-pervier
+  - walter-fisher
+  - marion-beuscher
+  - henry-beston
+  - glenn-lee-adams
+  - lewis-a-ward
+  - e-l-welton
+  - walter-d-jones-toronto
+  - dewayne-b-johnson
+  - douglas-harrison
+  - tage-stensig
+  - helen-gandy
 thread: 1950s-1973-tail
 significance: high
+caseId: FBI-62HQ-83894/civilian-correspondence-hoover-pattern-1949-1950
+summary: >-
+  Across the 1948–1950 sections of FBI file 62-HQ-83894, the Bureau evolved a
+  stable bureaucratic pattern for handling the rising tide of civilian
+  correspondence about flying saucers addressed to…
+excerpt: >-
+  Across the 1948–1950 sections of FBI file 62-HQ-83894, the Bureau evolved a
+  stable bureaucratic pattern for handling the rising tide of civilian
+  correspondence about flying saucers addressed to Director J. Edgar Hoover.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0038.md,
+  page-0052.md, page-0066.md, page-0067.md, page-0075.md, page-0077.md,
+  page-0089.md, page-0111.md, page-0132.md, page-0145.md, page-0160.md,
+  page-0163.md, page-0166.md, page-0169.md, page-0186.md, page-0207.md,
+  page-0208.md; 004-65_HS1-834228961_62-HQ-83894_Section_4/page-0028.md,
+  page-0189.md; 006-65_HS1-834228961_62-HQ-83894_Section_6/page-0020.md;
+  001-65_HS1-834228961_62-HQ-83894_Section_10/page-0039.md, page-0094.md,
+  page-0121.md, page-0138.md, page-0145.md, page-0164.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1949-10-08'
+  officialName: FBI / U.S. Department of Justice
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: high
+date: '1949-10-08'
+threads:
+  - 1950s-1973-tail
+entities:
+  - j-edgar-hoover
+  - maurice-e-hatten
+  - florence-pervier
+  - walter-fisher
+  - marion-beuscher
+  - henry-beston
+  - glenn-lee-adams
+  - lewis-a-ward
+  - e-l-welton
+  - walter-d-jones-toronto
+  - dewayne-b-johnson
+  - douglas-harrison
+  - tage-stensig
+  - helen-gandy
+relationships:
+  - target: pervier-tulsa-fbi-agent-corroboration-1950
+    type: mentions
+    confidence: medium
+    explanation: pervier-tulsa-fbi-agent-corroboration-1950
+  - target: cuneo-jones-winchell-followup-1949
+    type: mentions
+    confidence: medium
+    explanation: cuneo-jones-winchell-followup-1949
+  - target: project-grudge-vital-installations-1948-1949
+    type: mentions
+    confidence: medium
+    explanation: project-grudge-vital-installations-1948-1949
+  - target: frank-scully-communist-teletype-october-1950
+    type: mentions
+    confidence: medium
+    explanation: frank-scully-communist-teletype-october-1950
+  - target: uap-disclosure
+    type: mentions
+    confidence: medium
+    explanation: UAP disclosure (concept)
 ---
 
 ## Summary

@@ -1,16 +1,99 @@
 ---
-title: "FBI 62-HQ-83894 — The Mid-1950 Bureau Case-Handling Spectrum: North Chicago 'Reliable Informant' Cigar-Shaped Object (July 1) and Alice Texas Mechanic-Prank Hoax (July 4)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0174.md, page-0175.md, page-0176.md, page-0178.md, page-0180.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — The Mid-1950 Bureau Case-Handling Spectrum: North Chicago
+  'Reliable Informant' Cigar-Shaped Object (July 1) and Alice Texas
+  Mechanic-Prank Hoax (July 4)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1950-07-04
-publisher: "FBI Chicago / Houston / San Antonio Field Offices and OSI Kelly AFB"
-tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1950, primary-source, north-chicago, great-lakes-naval-training-center, alice-texas, hoax-resolution, bureau-tradecraft, osi-handoff, press-handling]
-entities_mentioned: [pursue-program, aaro, fbi]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1950-07-04T00:00:00.000Z
+publisher: FBI Chicago / Houston / San Antonio Field Offices and OSI Kelly AFB
+tags:
+  - ufo
+  - uap
+  - pursue
+  - fbi
+  - 62-hq-83894
+  - 1950
+  - primary-source
+  - north-chicago
+  - great-lakes-naval-training-center
+  - alice-texas
+  - hoax-resolution
+  - bureau-tradecraft
+  - osi-handoff
+  - press-handling
+entities_mentioned:
+  - pursue-program
+  - aaro
+  - fbi
 thread: 1949-50-disinfo
 significance: medium
+caseId: FBI-62HQ-83894/mid-1950-case-handling-spectrum-north-chicago-alice-texas
+summary: >-
+  Within four days in early July 1950, the FBI's case-handling pipeline
+  processed two flying-disc reports at the opposite ends of its evidentiary
+  spectrum: 1.
+excerpt: >-
+  Within four days in early July 1950, the FBI's case-handling pipeline
+  processed two flying-disc reports at the opposite ends of its evidentiary
+  spectrum: 1.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0174.md,
+  page-0175.md, page-0176.md, page-0178.md, page-0180.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1950-07-04'
+  officialName: FBI Chicago / Houston / San Antonio Field Offices and OSI Kelly AFB
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1950-07-04'
+threads:
+  - 1949-50-disinfo
+entities:
+  - pursue-program
+  - aaro
+  - fbi
+relationships:
+  - target: civilian-correspondence-hoover-pattern-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: civilian-correspondence-hoover-pattern-1949-1950
+  - target: pervier-tulsa-fbi-agent-corroboration-1950
+    type: mentions
+    confidence: medium
+    explanation: pervier-tulsa-fbi-agent-corroboration-1950
+  - target: belmont-twinkle-master-memo-osi-log-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: belmont-twinkle-master-memo-osi-log-1949-1950
+  - target: osi-cumulative-sighting-log-full-read-1948-1950
+    type: mentions
+    confidence: medium
+    explanation: osi-cumulative-sighting-log-full-read-1948-1950
+  - target: phoenix-blythe-radar-intercept-509th-bomb-group-june-1950
+    type: mentions
+    confidence: medium
+    explanation: phoenix-blythe-radar-intercept-509th-bomb-group-june-1950
+  - target: hixenbaugh-photographs-petrone-informant-1950
+    type: mentions
+    confidence: medium
+    explanation: hixenbaugh-photographs-petrone-informant-1950
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
 ---
 
 ## Summary

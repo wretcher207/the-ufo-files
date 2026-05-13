@@ -1,16 +1,117 @@
 ---
-title: "FBI 62-HQ-83894 — Section 10 1966-1973 Civilian-Correspondent Cluster: Thorn / Robinson / Ferry / Stephens / Brassington / Fraide and the Post-Project-Blue-Book Bureau Posture"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0030.md, page-0041.md, page-0094.md, page-0096.md, page-0097.md, page-0121.md, page-0123.md, page-0138.md, page-0140.md, page-0145.md, page-0164.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Section 10 1966-1973 Civilian-Correspondent Cluster: Thorn /
+  Robinson / Ferry / Stephens / Brassington / Fraide and the
+  Post-Project-Blue-Book Bureau Posture
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1966-11-29
-publisher: "FBI / J. Edgar Hoover (1966-1972) / Helen Gandy (Hoover's secretary) / FBI Director C. M. Kelley (post-Hoover, 1973)"
-tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1966, 1967, 1968, 1969, 1973, primary-source, post-project-blue-book, civilian-correspondence, men-in-black, condon-report, project-blue-book-closure, joe-thorn, ray-robinson, jane-ferry, larry-stephens, paul-brassington, ron-fraide]
-entities_mentioned: [pursue-program, aaro, fbi, j-edgar-hoover, helen-gandy, project-blue-book, condon-report]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1966-11-29T00:00:00.000Z
+publisher: >-
+  FBI / J. Edgar Hoover (1966-1972) / Helen Gandy (Hoover's secretary) / FBI
+  Director C. M. Kelley (post-Hoover, 1973)
+tags:
+  - ufo
+  - uap
+  - pursue
+  - fbi
+  - 62-hq-83894
+  - 1966
+  - 1967
+  - 1968
+  - 1969
+  - 1973
+  - primary-source
+  - post-project-blue-book
+  - civilian-correspondence
+  - men-in-black
+  - condon-report
+  - project-blue-book-closure
+  - joe-thorn
+  - ray-robinson
+  - jane-ferry
+  - larry-stephens
+  - paul-brassington
+  - ron-fraide
+entities_mentioned:
+  - pursue-program
+  - aaro
+  - fbi
+  - j-edgar-hoover
+  - helen-gandy
+  - project-blue-book
+  - condon-report
 thread: 1950s-1973-tail
 significance: medium
+caseId: >-
+  FBI-62HQ-83894/section-10-1966-1973-civilian-correspondent-cluster-post-blue-book
+summary: >-
+  Section 10 of FBI 62-HQ-83894 (the post-1965 portion of the case file)
+  preserves a **six-correspondent civilian-witness cluster** spanning **November
+  1966 to October 1973** that documents the…
+excerpt: >-
+  Section 10 of FBI 62-HQ-83894 (the post-1965 portion of the case file)
+  preserves a **six-correspondent civilian-witness cluster** spanning **November
+  1966 to October 1973** that documents the Bureau's posture on UAP
+  correspondence across three institutional regimes: the late Hoover era
+  (1966-1972), the Project Blue Book closure window (October-December 1969), and
+  the immediate post-Hoover era (Hoover died May 2, 1972) under FBI Director
+  Clarence M.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0030.md,
+  page-0041.md, page-0094.md, page-0096.md, page-0097.md, page-0121.md,
+  page-0123.md, page-0138.md, page-0140.md, page-0145.md, page-0164.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1966-11-29'
+  officialName: >-
+    FBI / J. Edgar Hoover (1966-1972) / Helen Gandy (Hoover's secretary) / FBI
+    Director C. M. Kelley (post-Hoover, 1973)
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1966-11-29'
+threads:
+  - 1950s-1973-tail
+entities:
+  - pursue-program
+  - aaro
+  - fbi
+  - j-edgar-hoover
+  - helen-gandy
+  - project-blue-book
+  - condon-report
+relationships:
+  - target: civilian-correspondence-hoover-pattern-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: civilian-correspondence-hoover-pattern-1949-1950
+  - target: mid-1950-case-handling-spectrum-north-chicago-alice-texas
+    type: mentions
+    confidence: medium
+    explanation: mid-1950-case-handling-spectrum-north-chicago-alice-texas
+  - target: pervier-tulsa-fbi-agent-corroboration-1950
+    type: mentions
+    confidence: medium
+    explanation: pervier-tulsa-fbi-agent-corroboration-1950
+  - target: frank-scully-communist-teletype-october-1950
+    type: mentions
+    confidence: medium
+    explanation: frank-scully-communist-teletype-october-1950
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
 ---
 
 ## Summary

@@ -1,16 +1,83 @@
 ---
-title: "FBI 62-HQ-83894 — Pre-Scully Crashed-Saucer Rumor Network Institutional Intelligence, March 9–31, 1950 (URGENT Director-Level Notification, George Koehler / Silas Newton Rumor Tracking, Jim Barden Hoax Photograph, Bureau Pre-Publication Verification of False Claims)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0054.md, page-0077.md, page-0078.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf"
-mirror_url: ""
+title: >-
+  FBI 62-HQ-83894 — Pre-Scully Crashed-Saucer Rumor Network Institutional
+  Intelligence, March 9–31, 1950 (URGENT Director-Level Notification, George
+  Koehler / Silas Newton Rumor Tracking, Jim Barden Hoax Photograph, Bureau
+  Pre-Publication Verification of False Claims)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+mirror_url: ''
 domain: cross-domain
-date_ingested: 2026-05-09
-source_date: 1950-03-09
-publisher: "Federal Bureau of Investigation"
-tags: [ufo-files-62hq83894, 1950-rumor-network-intelligence, crashed-saucer-hoax, director-urgent-notification, pre-scully-institutional-vetting, hoax-photograph, primary-source]
-entities_mentioned: ["George T. Koehler", "Silas Newton", "Jim Barden", "FBI Denver", "FBI Albuquerque", "University of New Mexico", "Donald Keyhoe", "Frank Scully"]
+date_ingested: 2026-05-09T00:00:00.000Z
+source_date: 1950-03-09T00:00:00.000Z
+publisher: Federal Bureau of Investigation
+tags:
+  - ufo-files-62hq83894
+  - 1950-rumor-network-intelligence
+  - crashed-saucer-hoax
+  - director-urgent-notification
+  - pre-scully-institutional-vetting
+  - hoax-photograph
+  - primary-source
+entities_mentioned:
+  - George T. Koehler
+  - Silas Newton
+  - Jim Barden
+  - FBI Denver
+  - FBI Albuquerque
+  - University of New Mexico
+  - Donald Keyhoe
+  - Frank Scully
 thread: 1949-50-disinfo
 significance: medium
+caseId: FBI-62HQ-83894/pre-scully-crashed-saucer-rumor-network-march-april-1950
+summary: >-
+  Between March 9 and March 31, 1950, the FBI issued three separate URGENT or
+  priority communications documenting the institutional tracking of the
+  crashed-saucer rumor network that would later become…
+excerpt: >-
+  Between March 9 and March 31, 1950, the FBI issued three separate URGENT or
+  priority communications documenting the institutional tracking of the
+  crashed-saucer rumor network that would later become the source material for
+  Frank Scully's "Behind the Flying Saucers" (published September 1950).
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0054.md,
+  page-0077.md, page-0078.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+  releaseDate: '1950-03-09'
+  officialName: Federal Bureau of Investigation
+  retrievedDate: 'Fri May 08 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1950-03-09'
+threads:
+  - 1949-50-disinfo
+entities:
+  - George T. Koehler
+  - Silas Newton
+  - Jim Barden
+  - FBI Denver
+  - FBI Albuquerque
+  - University of New Mexico
+  - Donald Keyhoe
+  - Frank Scully
+relationships:
+  - target: hoover-scully-communist-investigation-october-1950
+    type: mentions
+    confidence: medium
+    explanation: hoover-scully-communist-investigation-october-1950
+  - target: cabell-afoic-cc-1-multi-agency-protocol-september-1950
+    type: mentions
+    confidence: medium
+    explanation: cabell-afoic-cc-1-multi-agency-protocol-september-1950
+  - target: merchant-wichita-falls-patriotic-civilian-august-1948
+    type: mentions
+    confidence: medium
+    explanation: merchant-wichita-falls-patriotic-civilian-august-1948
 ---
 
 ## Summary

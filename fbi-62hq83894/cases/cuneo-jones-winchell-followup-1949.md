@@ -1,16 +1,92 @@
 ---
-title: "FBI 62-HQ-83894 — Ernest Cuneo / Walter Winchell / 'Jones' Follow-up Correspondence (1949): The Bureau Says Yes This Time"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0003.md, page-0004.md, page-0005.md, page-0007.md, page-0009.md, page-0010.md, page-0011.md, page-0013.md, page-0014.md, page-0015.md, page-0016.md, page-0017.md, page-0019.md, page-0021.md, raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0213.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Ernest Cuneo / Walter Winchell / 'Jones' Follow-up
+  Correspondence (1949): The Bureau Says Yes This Time
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
+date_ingested: 2026-05-08T00:00:00.000Z
 source_date: 1949-07-XX
-publisher: "FBI / U.S. Department of Justice"
-tags: [fbi, 62-hq-83894, cuneo, winchell, jones-letter, los-angeles-office, primary-source, hoover-ladd-direct, prank-letter, bureau-selectivity]
-entities_mentioned: [ernest-cuneo, walter-winchell, j-edgar-hoover, d-m-ladd, peter-cameron-jones, clyde-tolson, r-b-hood-sac-los-angeles]
+publisher: FBI / U.S. Department of Justice
+tags:
+  - fbi
+  - 62-hq-83894
+  - cuneo
+  - winchell
+  - jones-letter
+  - los-angeles-office
+  - primary-source
+  - hoover-ladd-direct
+  - prank-letter
+  - bureau-selectivity
+entities_mentioned:
+  - ernest-cuneo
+  - walter-winchell
+  - j-edgar-hoover
+  - d-m-ladd
+  - peter-cameron-jones
+  - clyde-tolson
+  - r-b-hood-sac-los-angeles
 thread: 1948-49-hardening
 significance: medium
+caseId: FBI-62HQ-83894/cuneo-jones-winchell-followup-1949
+summary: >-
+  In April 1949, the FBI formally declined to interview Walter Winchell about
+  the source of his April 3, 1949 broadcast claiming "flying discs definitely
+  emanated from Russia" (covered in…
+excerpt: >-
+  md)). Three months later, in July 1949, Winchell's longtime liaison Ernest
+  Cuneo telephoned D. M.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0003.md,
+  page-0004.md, page-0005.md, page-0007.md, page-0009.md, page-0010.md,
+  page-0011.md, page-0013.md, page-0014.md, page-0015.md, page-0016.md,
+  page-0017.md, page-0019.md, page-0021.md,
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0213.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: 1949-07-XX
+  officialName: FBI / U.S. Department of Justice
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: 1949-07-XX
+threads:
+  - 1948-49-hardening
+entities:
+  - ernest-cuneo
+  - walter-winchell
+  - j-edgar-hoover
+  - d-m-ladd
+  - peter-cameron-jones
+  - clyde-tolson
+  - r-b-hood-sac-los-angeles
+relationships:
+  - target: project-grudge-vital-installations-1948-1949
+    type: mentions
+    confidence: medium
+    explanation: project-grudge-vital-installations-1948-1949
+  - target: rhodes-phoenix-photographs-1947
+    type: mentions
+    confidence: medium
+    explanation: rhodes-phoenix-photographs-1947
+  - target: oak-ridge-gasser-atomic-propulsion-1947-1949
+    type: mentions
+    confidence: medium
+    explanation: oak-ridge-gasser-atomic-propulsion-1947-1949
+  - target: belmont-twinkle-master-memo-osi-log-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: belmont-twinkle-master-memo-osi-log-1949-1950
+  - target: uap-disclosure
+    type: mentions
+    confidence: medium
+    explanation: UAP disclosure (concept)
 ---
 
 ## Summary

@@ -1,16 +1,130 @@
 ---
-title: "FBI 62-HQ-83894 — The Project Grudge Cluster: Vital Installations, Lincoln La Paz Green Fireballs, Camp Hood–Killeen Base Sightings, the Walter Winchell Affair, and the May 1949 USAF Recovery Denial (December 1948 – May 1949)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0115.md, page-0117.md, page-0120.md, page-0121.md, page-0137.md, page-0141.md, page-0143.md, page-0145.md, page-0147.md, page-0160.md, page-0165.md, page-0171.md, page-0173.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — The Project Grudge Cluster: Vital Installations, Lincoln La
+  Paz Green Fireballs, Camp Hood–Killeen Base Sightings, the Walter Winchell
+  Affair, and the May 1949 USAF Recovery Denial (December 1948 – May 1949)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1949-01-31
-publisher: "FBI / U.S. Department of Justice"
-tags: [fbi, 62-hq-83894, project-grudge, vital-installations, los-alamos, sandia-base, camp-hood, killeen-base, green-fireballs, lincoln-la-paz, walter-winchell, robert-ripley, primary-source, no-recovery]
-entities_mentioned: [lincoln-la-paz, walter-winchell, robert-ripley, j-edgar-hoover, frederick-w-davis, william-e-carpenter, c-d-gasser, madeline-gwynne-merchant, warren-r-franscioni, project-grudge, los-alamos-laboratory, sandia-base, camp-hood, killeen-base, atomic-energy-commission, fourth-army-g-2, osi-usaf]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1949-01-31T00:00:00.000Z
+publisher: FBI / U.S. Department of Justice
+tags:
+  - fbi
+  - 62-hq-83894
+  - project-grudge
+  - vital-installations
+  - los-alamos
+  - sandia-base
+  - camp-hood
+  - killeen-base
+  - green-fireballs
+  - lincoln-la-paz
+  - walter-winchell
+  - robert-ripley
+  - primary-source
+  - no-recovery
+entities_mentioned:
+  - lincoln-la-paz
+  - walter-winchell
+  - robert-ripley
+  - j-edgar-hoover
+  - frederick-w-davis
+  - william-e-carpenter
+  - c-d-gasser
+  - madeline-gwynne-merchant
+  - warren-r-franscioni
+  - project-grudge
+  - los-alamos-laboratory
+  - sandia-base
+  - camp-hood
+  - killeen-base
+  - atomic-energy-commission
+  - fourth-army-g-2
+  - osi-usaf
 thread: 1948-49-hardening
 significance: high
+caseId: FBI-62HQ-83894/project-grudge-vital-installations-1948-1949
+summary: >-
+  Between January 31 and May 26, 1949, the SAC San Antonio Field Office and FBI
+  Headquarters generated a tightly-related document cluster on the new "Vital
+  Installations" caption that effectively…
+excerpt: >-
+  Between January 31 and May 26, 1949, the SAC San Antonio Field Office and FBI
+  Headquarters generated a tightly-related document cluster on the new "Vital
+  Installations" caption that effectively reconstructs the early Project Grudge
+  era from the Bureau side.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0115.md,
+  page-0117.md, page-0120.md, page-0121.md, page-0137.md, page-0141.md,
+  page-0143.md, page-0145.md, page-0147.md, page-0160.md, page-0165.md,
+  page-0171.md, page-0173.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1949-01-31'
+  officialName: FBI / U.S. Department of Justice
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: high
+date: '1949-01-31'
+threads:
+  - 1948-49-hardening
+entities:
+  - lincoln-la-paz
+  - walter-winchell
+  - robert-ripley
+  - j-edgar-hoover
+  - frederick-w-davis
+  - william-e-carpenter
+  - c-d-gasser
+  - madeline-gwynne-merchant
+  - warren-r-franscioni
+  - project-grudge
+  - los-alamos-laboratory
+  - sandia-base
+  - camp-hood
+  - killeen-base
+  - atomic-energy-commission
+  - fourth-army-g-2
+  - osi-usaf
+relationships:
+  - target: oak-ridge-gasser-atomic-propulsion-1947-1949
+    type: mentions
+    confidence: medium
+    explanation: oak-ridge-gasser-atomic-propulsion-1947-1949
+  - target: rhodes-phoenix-photographs-1947
+    type: mentions
+    confidence: medium
+    explanation: rhodes-phoenix-photographs-1947
+  - target: maury-island-1947
+    type: mentions
+    confidence: medium
+    explanation: maury-island-1947
+  - target: muroc-1947-cic-affidavits
+    type: mentions
+    confidence: medium
+    explanation: muroc-1947-cic-affidavits
+  - target: 1947-california-montana-cic
+    type: mentions
+    confidence: medium
+    explanation: 1947-california-montana-cic
+  - target: davidson-brown-crash-mission-report
+    type: mentions
+    confidence: medium
+    explanation: davidson-brown-crash-mission-report
+  - target: philadelphia-1950-soap-suds-disc
+    type: mentions
+    confidence: medium
+    explanation: philadelphia-1950-soap-suds-disc
+  - target: uap-disclosure
+    type: mentions
+    confidence: medium
+    explanation: UAP disclosure (concept)
 ---
 
 ## Summary

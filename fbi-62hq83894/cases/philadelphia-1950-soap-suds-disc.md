@@ -1,16 +1,84 @@
 ---
-title: "FBI 62-HQ-83894 — The Philadelphia 'Soap Suds' Flying Disc, September 26, 1950 (Two FBI Memos)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/006-65_HS1-834228961_62-HQ-83894_Section_6/page-0008.md, page-0018.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — The Philadelphia 'Soap Suds' Flying Disc, September 26, 1950
+  (Two FBI Memos)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1950-09-26
-publisher: "FBI / U.S. Department of Justice"
-tags: [ufo, uap, pursue, fbi, 62-hq-83894, philadelphia, 1950, primary-source, soft-landing, residue]
-entities_mentioned: [pursue-program, aaro, fbi]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1950-09-26T00:00:00.000Z
+publisher: FBI / U.S. Department of Justice
+tags:
+  - ufo
+  - uap
+  - pursue
+  - fbi
+  - 62-hq-83894
+  - philadelphia
+  - 1950
+  - primary-source
+  - soft-landing
+  - residue
+entities_mentioned:
+  - pursue-program
+  - aaro
+  - fbi
 thread: 1949-50-disinfo
 significance: medium
+caseId: FBI-62HQ-83894/philadelphia-1950-soap-suds-disc
+summary: >-
+  Late evening, September 26, 1950, on Vare Boulevard near 26th Street in
+  Philadelphia: two Philadelphia Police Department officers in a scout car saw
+  an object descending slowly through their…
+excerpt: >-
+  Late evening, September 26, 1950, on Vare Boulevard near 26th Street in
+  Philadelphia: two Philadelphia Police Department officers in a scout car saw
+  an object descending slowly through their windshield. They thought it was a
+  parachute. It landed gently in a roadside field — so gently it didn't bend the
+  weeds.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/006-65_HS1-834228961_62-HQ-83894_Section_6/page-0008.md,
+  page-0018.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1950-09-26'
+  officialName: FBI / U.S. Department of Justice
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1950-09-26'
+threads:
+  - 1949-50-disinfo
+entities:
+  - pursue-program
+  - aaro
+  - fbi
+relationships:
+  - target: maury-island-1947
+    type: mentions
+    confidence: medium
+    explanation: maury-island-1947
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
+  - target: department-of-war
+    type: mentions
+    confidence: medium
+    explanation: Department of War
+  - target: uap-disclosure
+    type: mentions
+    confidence: medium
+    explanation: UAP disclosure (concept)
 ---
 
 ## Summary

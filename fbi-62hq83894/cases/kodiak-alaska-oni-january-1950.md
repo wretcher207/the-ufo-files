@@ -1,16 +1,117 @@
 ---
-title: "FBI 62-HQ-83894 — Kodiak Alaska ONI Intelligence Report, January 22-23 1950 (DIC/17ND No. 4-50, Maccabee FOIA 1977)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0146.md, page-0147.md, page-0148.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Kodiak Alaska ONI Intelligence Report, January 22-23 1950
+  (DIC/17ND No. 4-50, Maccabee FOIA 1977)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1950-02-10
-publisher: "Office of Naval Intelligence (ONI) / U.S. Navy / forwarded to FBI via Liaison Channels"
-tags: [fbi, 62hq83894, ufo, uap, kodiak-alaska, oni, navy, multi-witness, radar-visual, lt-smith, lt-barco, bruce-maccabee, foia, primary-source, pursue, release-01]
-entities_mentioned: [kodiak-naval-air-station, patrol-squadron-one, p2v3-patrol-plane, lt-smith, lt-causer, lt-barco, paulson-ad1, morgan-bmc, carver-qm, giskey-alc, uss-tillamock-ata-192, oni, naval-intelligence-service, bruce-maccabee, fbi]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1950-02-10T00:00:00.000Z
+publisher: >-
+  Office of Naval Intelligence (ONI) / U.S. Navy / forwarded to FBI via Liaison
+  Channels
+tags:
+  - fbi
+  - 62hq83894
+  - ufo
+  - uap
+  - kodiak-alaska
+  - oni
+  - navy
+  - multi-witness
+  - radar-visual
+  - lt-smith
+  - lt-barco
+  - bruce-maccabee
+  - foia
+  - primary-source
+  - pursue
+  - release-01
+entities_mentioned:
+  - kodiak-naval-air-station
+  - patrol-squadron-one
+  - p2v3-patrol-plane
+  - lt-smith
+  - lt-causer
+  - lt-barco
+  - paulson-ad1
+  - morgan-bmc
+  - carver-qm
+  - giskey-alc
+  - uss-tillamock-ata-192
+  - oni
+  - naval-intelligence-service
+  - bruce-maccabee
+  - fbi
 thread: 1949-50-disinfo
 significance: medium
+caseId: FBI-62HQ-83894/kodiak-alaska-oni-january-1950
+summary: >-
+  Section 5 pages 146-148 of the FBI 62-HQ-83894 flying-discs case file is a
+  three-page **Office of Naval Intelligence Intelligence Report** (DIC/17ND
+  Serial No.
+excerpt: >-
+  Section 5 pages 146-148 of the FBI 62-HQ-83894 flying-discs case file is a
+  three-page **Office of Naval Intelligence Intelligence Report** (DIC/17ND
+  Serial No. 4-50, dated 10 February 1950) on a multi-witness Navy/radar UAP
+  cluster at Kodiak Naval Air Station, Alaska, January 22-23, 1950. S.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0146.md,
+  page-0147.md, page-0148.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1950-02-10'
+  officialName: >-
+    Office of Naval Intelligence (ONI) / U.S. Navy / forwarded to FBI via
+    Liaison Channels
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1950-02-10'
+threads:
+  - 1949-50-disinfo
+entities:
+  - kodiak-naval-air-station
+  - patrol-squadron-one
+  - p2v3-patrol-plane
+  - lt-smith
+  - lt-causer
+  - lt-barco
+  - paulson-ad1
+  - morgan-bmc
+  - carver-qm
+  - giskey-alc
+  - uss-tillamock-ata-192
+  - oni
+  - naval-intelligence-service
+  - bruce-maccabee
+  - fbi
+relationships:
+  - target: frank-scully-communist-teletype-october-1950
+    type: mentions
+    confidence: medium
+    explanation: frank-scully-communist-teletype-october-1950
+  - target: muroc-1947-cic-affidavits
+    type: mentions
+    confidence: medium
+    explanation: muroc-1947-cic-affidavits
+  - target: belmont-twinkle-master-memo-osi-log-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: belmont-twinkle-master-memo-osi-log-1949-1950
+  - target: oak-ridge-gasser-atomic-propulsion-1947-1949
+    type: mentions
+    confidence: medium
+    explanation: oak-ridge-gasser-atomic-propulsion-1947-1949
+  - target: rhodes-phoenix-photographs-1947
+    type: mentions
+    confidence: medium
+    explanation: rhodes-phoenix-photographs-1947
 ---
 
 ## Summary

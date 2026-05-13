@@ -1,16 +1,112 @@
 ---
-title: "FBI 62-HQ-83894 — Frank Scully URGENT Teletype and the 62→100 File Transfer, October 1950"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/006-65_HS1-834228961_62-HQ-83894_Section_6/page-0014.md, page-0015.md, page-0016.md, page-0017.md, page-0019.md, page-0020.md, page-0021.md, page-0022.md, page-0023.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Frank Scully URGENT Teletype and the 62→100 File Transfer,
+  October 1950
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1950-10-13
-publisher: "FBI / U.S. Department of Justice"
-tags: [fbi, 62hq83894, ufo, uap, frank-scully, behind-the-flying-saucers, aztec, communist-activities, hoover, project-twinkle, civilian-correspondence, primary-source, pursue, release-01]
-entities_mentioned: [j-edgar-hoover, frank-scully, d-m-ladd, a-h-belmont, anthony-mirarchi, project-twinkle, land-air-inc, fbi-los-angeles-office, fbi-philadelphia-office, osi-wright-field, e-l-welton]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1950-10-13T00:00:00.000Z
+publisher: FBI / U.S. Department of Justice
+tags:
+  - fbi
+  - 62hq83894
+  - ufo
+  - uap
+  - frank-scully
+  - behind-the-flying-saucers
+  - aztec
+  - communist-activities
+  - hoover
+  - project-twinkle
+  - civilian-correspondence
+  - primary-source
+  - pursue
+  - release-01
+entities_mentioned:
+  - j-edgar-hoover
+  - frank-scully
+  - d-m-ladd
+  - a-h-belmont
+  - anthony-mirarchi
+  - project-twinkle
+  - land-air-inc
+  - fbi-los-angeles-office
+  - fbi-philadelphia-office
+  - osi-wright-field
+  - e-l-welton
 thread: 1949-50-disinfo
 significance: medium
+caseId: FBI-62HQ-83894/frank-scully-communist-teletype-october-1950
+summary: >-
+  Section 6 pages 14-23 of the FBI 62-HQ-83894 flying-discs case file is a tight
+  October 1950 cluster, the first month of Bureau operation after the September
+  8, 1950 Cabell AFOIC-CC-1 directive (pass…
+excerpt: >-
+  Section 6 pages 14-23 of the FBI 62-HQ-83894 flying-discs case file is a tight
+  October 1950 cluster, the first month of Bureau operation after the September
+  8, 1950 Cabell AFOIC-CC-1 directive (pass 10) and the August 23, 1950 Belmont
+  master memo (pass 11). Three substantive items sit in the cluster: 1.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/006-65_HS1-834228961_62-HQ-83894_Section_6/page-0014.md,
+  page-0015.md, page-0016.md, page-0017.md, page-0019.md, page-0020.md,
+  page-0021.md, page-0022.md, page-0023.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1950-10-13'
+  officialName: FBI / U.S. Department of Justice
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1950-10-13'
+threads:
+  - 1949-50-disinfo
+entities:
+  - j-edgar-hoover
+  - frank-scully
+  - d-m-ladd
+  - a-h-belmont
+  - anthony-mirarchi
+  - project-twinkle
+  - land-air-inc
+  - fbi-los-angeles-office
+  - fbi-philadelphia-office
+  - osi-wright-field
+  - e-l-welton
+relationships:
+  - target: guy-hottel-three-saucers-new-mexico-1950
+    type: mentions
+    confidence: medium
+    explanation: guy-hottel-three-saucers-new-mexico-1950
+  - target: belmont-twinkle-master-memo-osi-log-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: belmont-twinkle-master-memo-osi-log-1949-1950
+  - target: la-paz-seventh-report-cabell-directive-twinkle
+    type: mentions
+    confidence: medium
+    explanation: la-paz-seventh-report-cabell-directive-twinkle
+  - target: philadelphia-1950-soap-suds-disc
+    type: mentions
+    confidence: medium
+    explanation: philadelphia-1950-soap-suds-disc
+  - target: rhodes-phoenix-photographs-1947
+    type: mentions
+    confidence: medium
+    explanation: rhodes-phoenix-photographs-1947
+  - target: cuneo-jones-winchell-followup-1949
+    type: mentions
+    confidence: medium
+    explanation: cuneo-jones-winchell-followup-1949
+  - target: civilian-correspondence-hoover-pattern-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: civilian-correspondence-hoover-pattern-1949-1950
 ---
 
 ## Summary

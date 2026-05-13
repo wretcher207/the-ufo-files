@@ -1,16 +1,111 @@
 ---
-title: "FBI 62-HQ-83894 — Belmont→Ladd Project Twinkle Master Memo (August 23, 1950) and the 17th District OSI Cumulative Sighting Log (1949–1950)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/006-65_HS1-834228961_62-HQ-83894_Section_6/page-0002.md, page-0003.md, page-0004.md, page-0005.md, page-0006.md, page-0050.md, page-0054.md, page-0067.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Belmont→Ladd Project Twinkle Master Memo (August 23, 1950)
+  and the 17th District OSI Cumulative Sighting Log (1949–1950)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1950-08-23
-publisher: "FBI / U.S. Department of Justice"
-tags: [fbi, 62-hq-83894, project-twinkle, belmont-memo, osi-sighting-log, los-alamos, sandia-base, alamogordo, vaughn-nm, killeen-base, primary-source, multi-witness]
-entities_mentioned: [a-h-belmont, d-m-ladd, anthony-o-mirarchi, lincoln-la-paz, j-edgar-hoover, walter-d-jones, land-air-inc, project-twinkle, kirtland-osi, los-alamos-laboratory, sandia-base, alamogordo, vaughn-nm, killeen-base]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1950-08-23T00:00:00.000Z
+publisher: FBI / U.S. Department of Justice
+tags:
+  - fbi
+  - 62-hq-83894
+  - project-twinkle
+  - belmont-memo
+  - osi-sighting-log
+  - los-alamos
+  - sandia-base
+  - alamogordo
+  - vaughn-nm
+  - killeen-base
+  - primary-source
+  - multi-witness
+entities_mentioned:
+  - a-h-belmont
+  - d-m-ladd
+  - anthony-o-mirarchi
+  - lincoln-la-paz
+  - j-edgar-hoover
+  - walter-d-jones
+  - land-air-inc
+  - project-twinkle
+  - kirtland-osi
+  - los-alamos-laboratory
+  - sandia-base
+  - alamogordo
+  - vaughn-nm
+  - killeen-base
 thread: 1949-50-disinfo
 significance: high
+caseId: FBI-62HQ-83894/belmont-twinkle-master-memo-osi-log-1949-1950
+summary: >-
+  This is the FBI master Project Twinkle / New Mexico phenomena memo that pass
+  10
+  ([la-paz-seventh-report-cabell-directive-twinkle](la-paz-seventh-report-cabell-directive-twinkle.md))
+  cited but did not…
+excerpt: >-
+  md)) cited but did not read directly: **A. H. Belmont's August 23, 1950
+  four-page memorandum to D.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/006-65_HS1-834228961_62-HQ-83894_Section_6/page-0002.md,
+  page-0003.md, page-0004.md, page-0005.md, page-0006.md, page-0050.md,
+  page-0054.md, page-0067.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1950-08-23'
+  officialName: FBI / U.S. Department of Justice
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: high
+date: '1950-08-23'
+threads:
+  - 1949-50-disinfo
+entities:
+  - a-h-belmont
+  - d-m-ladd
+  - anthony-o-mirarchi
+  - lincoln-la-paz
+  - j-edgar-hoover
+  - walter-d-jones
+  - land-air-inc
+  - project-twinkle
+  - kirtland-osi
+  - los-alamos-laboratory
+  - sandia-base
+  - alamogordo
+  - vaughn-nm
+  - killeen-base
+relationships:
+  - target: la-paz-seventh-report-cabell-directive-twinkle
+    type: mentions
+    confidence: medium
+    explanation: la-paz-seventh-report-cabell-directive-twinkle
+  - target: project-grudge-vital-installations-1948-1949
+    type: mentions
+    confidence: medium
+    explanation: project-grudge-vital-installations-1948-1949
+  - target: oak-ridge-gasser-atomic-propulsion-1947-1949
+    type: mentions
+    confidence: medium
+    explanation: oak-ridge-gasser-atomic-propulsion-1947-1949
+  - target: rhodes-phoenix-photographs-1947
+    type: mentions
+    confidence: medium
+    explanation: rhodes-phoenix-photographs-1947
+  - target: philadelphia-1950-soap-suds-disc
+    type: mentions
+    confidence: medium
+    explanation: philadelphia-1950-soap-suds-disc
+  - target: uap-disclosure
+    type: mentions
+    confidence: medium
+    explanation: UAP disclosure (concept)
 ---
 
 ## Summary

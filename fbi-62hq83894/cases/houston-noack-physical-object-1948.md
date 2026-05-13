@@ -1,16 +1,151 @@
 ---
-title: "FBI 62-HQ-83894 — Lonnie Noack Physical-Object Examination, 30 Miles East of Lone Pine California, December 1948 (SAC Houston Joint AAF Interview)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0072.md, page-0074.md, page-0076.md, page-0078.md, page-0079.md, page-0080.md, page-0082.md, page-0089.md, page-0090.md, page-0091.md, page-0092.md, page-0095.md, page-0096.md, page-0097.md, page-0098.md, page-0099.md, page-0100.md, page-0101.md, page-0122.md, page-0123.md, page-0124.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Lonnie Noack Physical-Object Examination, 30 Miles East of
+  Lone Pine California, December 1948 (SAC Houston Joint AAF Interview)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1948-12-28
-publisher: "FBI / U.S. Department of Justice"
-tags: [fbi, 62-hq-83894, noack-case, physical-examination, lone-pine, houston-sac, joint-aaf-interview, primary-source, tow-target-resolution, helendale]
-entities_mentioned: [lonnie-edward-noack, fuller-blackwell, robert-b-fleming, christopher-r-bradley, capt-harold-bush, sac-galen-n-willis, sac-r-b-hood, h-b-fletcher, d-m-ladd, howard-fletcher, graham-w-kitchel, edward-olsen, w-nathan-provinse, rose-c-rotsel, henry-t-rice, claude-leroy-wolford, nathan-smith, r-c-person, c-a-toce, robert-broussard, frank-reed, humble-oil-and-refining-company, vasco-electrical-manufacturing-company, ohlson-and-rice-manufacturing-company, wolford-plastics-molding-co, ellington-field-osi, fifth-osi-district-wright-field, fbi-laboratory, eastman-kodak-company, houston-post]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1948-12-28T00:00:00.000Z
+publisher: FBI / U.S. Department of Justice
+tags:
+  - fbi
+  - 62-hq-83894
+  - noack-case
+  - physical-examination
+  - lone-pine
+  - houston-sac
+  - joint-aaf-interview
+  - primary-source
+  - tow-target-resolution
+  - helendale
+entities_mentioned:
+  - lonnie-edward-noack
+  - fuller-blackwell
+  - robert-b-fleming
+  - christopher-r-bradley
+  - capt-harold-bush
+  - sac-galen-n-willis
+  - sac-r-b-hood
+  - h-b-fletcher
+  - d-m-ladd
+  - howard-fletcher
+  - graham-w-kitchel
+  - edward-olsen
+  - w-nathan-provinse
+  - rose-c-rotsel
+  - henry-t-rice
+  - claude-leroy-wolford
+  - nathan-smith
+  - r-c-person
+  - c-a-toce
+  - robert-broussard
+  - frank-reed
+  - humble-oil-and-refining-company
+  - vasco-electrical-manufacturing-company
+  - ohlson-and-rice-manufacturing-company
+  - wolford-plastics-molding-co
+  - ellington-field-osi
+  - fifth-osi-district-wright-field
+  - fbi-laboratory
+  - eastman-kodak-company
+  - houston-post
 thread: 1948-49-hardening
 significance: medium
+caseId: FBI-62HQ-83894/houston-noack-physical-object-1948
+summary: >-
+  On the morning of December 28, 1948, SAC Galen N. Willis of the Houston FBI
+  office telephoned headquarters with a complaint that did not fit the shape of
+  any prior 62-HQ-83894 case mined so far.
+excerpt: >-
+  On the morning of December 28, 1948, SAC Galen N. Willis of the Houston FBI
+  office telephoned headquarters with a complaint that did not fit the shape of
+  any prior 62-HQ-83894 case mined so far.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0072.md,
+  page-0074.md, page-0076.md, page-0078.md, page-0079.md, page-0080.md,
+  page-0082.md, page-0089.md, page-0090.md, page-0091.md, page-0092.md,
+  page-0095.md, page-0096.md, page-0097.md, page-0098.md, page-0099.md,
+  page-0100.md, page-0101.md, page-0122.md, page-0123.md, page-0124.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1948-12-28'
+  officialName: FBI / U.S. Department of Justice
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1948-12-28'
+threads:
+  - 1948-49-hardening
+entities:
+  - lonnie-edward-noack
+  - fuller-blackwell
+  - robert-b-fleming
+  - christopher-r-bradley
+  - capt-harold-bush
+  - sac-galen-n-willis
+  - sac-r-b-hood
+  - h-b-fletcher
+  - d-m-ladd
+  - howard-fletcher
+  - graham-w-kitchel
+  - edward-olsen
+  - w-nathan-provinse
+  - rose-c-rotsel
+  - henry-t-rice
+  - claude-leroy-wolford
+  - nathan-smith
+  - r-c-person
+  - c-a-toce
+  - robert-broussard
+  - frank-reed
+  - humble-oil-and-refining-company
+  - vasco-electrical-manufacturing-company
+  - ohlson-and-rice-manufacturing-company
+  - wolford-plastics-molding-co
+  - ellington-field-osi
+  - fifth-osi-district-wright-field
+  - fbi-laboratory
+  - eastman-kodak-company
+  - houston-post
+relationships:
+  - target: rhodes-phoenix-photographs-1947
+    type: mentions
+    confidence: medium
+    explanation: rhodes-phoenix-photographs-1947
+  - target: oak-ridge-gasser-atomic-propulsion-1947-1949
+    type: mentions
+    confidence: medium
+    explanation: oak-ridge-gasser-atomic-propulsion-1947-1949
+  - target: project-grudge-vital-installations-1948-1949
+    type: mentions
+    confidence: medium
+    explanation: project-grudge-vital-installations-1948-1949
+  - target: la-paz-seventh-report-cabell-directive-twinkle
+    type: mentions
+    confidence: medium
+    explanation: la-paz-seventh-report-cabell-directive-twinkle
+  - target: belmont-twinkle-master-memo-osi-log-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: belmont-twinkle-master-memo-osi-log-1949-1950
+  - target: 1947-california-montana-cic
+    type: mentions
+    confidence: medium
+    explanation: 1947-california-montana-cic
+  - target: davidson-brown-crash-mission-report
+    type: mentions
+    confidence: medium
+    explanation: davidson-brown-crash-mission-report
+  - target: uap-disclosure
+    type: mentions
+    confidence: medium
+    explanation: UAP disclosure (concept)
 ---
 
 ## Summary

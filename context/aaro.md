@@ -1,10 +1,26 @@
 ---
-title: "AARO (All-domain Anomaly Resolution Office)"
+title: AARO (All-domain Anomaly Resolution Office)
 type: agency
 domain: cross-domain
 source_count: 3
-last_updated: 2026-05-08
-tags: [aaro, pentagon, uap, ufo, evidentiary-standards, pursue]
+last_updated: 2026-05-08T00:00:00.000Z
+tags:
+  - aaro
+  - pentagon
+  - uap
+  - ufo
+  - evidentiary-standards
+  - pursue
+caseId: ENTITY/aaro
+summary: >-
+  The Pentagon's All-domain Anomaly Resolution Office. Established under the
+  Department of Defense (now Department of War) to investigate UAP reports
+  across air, sea, space, and underwater domains.
+excerpt: >-
+  The Pentagon's All-domain Anomaly Resolution Office. Established under the
+  Department of Defense (now Department of War) to investigate UAP reports
+  across air, sea, space, and underwater domains.
+nodeType: agency
 ---
 
 ## What It Is

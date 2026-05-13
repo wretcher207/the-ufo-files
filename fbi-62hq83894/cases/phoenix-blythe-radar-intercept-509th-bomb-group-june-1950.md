@@ -1,16 +1,107 @@
 ---
-title: "FBI 62-HQ-83894 — Phoenix-Blythe Radar Intercept and 509th Bomb Group B-29 Chase, June 29-30, 1950"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0170.md, page-0171.md, page-0172.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Phoenix-Blythe Radar Intercept and 509th Bomb Group B-29
+  Chase, June 29-30, 1950
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1950-06-30
-publisher: "FBI Phoenix Field Office / OSI Williams AFB / 509th Bomb Group Roswell NM"
-tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1950, primary-source, phoenix, blythe, radar-intercept, 509th-bomb-group, b-29, roswell, herman-munroe, osi-williams-afb, korean-war-context]
-entities_mentioned: [pursue-program, aaro, fbi]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1950-06-30T00:00:00.000Z
+publisher: FBI Phoenix Field Office / OSI Williams AFB / 509th Bomb Group Roswell NM
+tags:
+  - ufo
+  - uap
+  - pursue
+  - fbi
+  - 62-hq-83894
+  - 1950
+  - primary-source
+  - phoenix
+  - blythe
+  - radar-intercept
+  - 509th-bomb-group
+  - b-29
+  - roswell
+  - herman-munroe
+  - osi-williams-afb
+  - korean-war-context
+entities_mentioned:
+  - pursue-program
+  - aaro
+  - fbi
 thread: 1949-50-disinfo
 significance: medium
+caseId: FBI-62HQ-83894/phoenix-blythe-radar-intercept-509th-bomb-group-june-1950
+summary: >-
+  On the evening of June 29, 1950 — four days after North Korea crossed the 38th
+  parallel and launched what became the Korean War — an unidentified aerial
+  object was observed over Phoenix Arizona by…
+excerpt: >-
+  On the evening of June 29, 1950 — four days after North Korea crossed the 38th
+  parallel and launched what became the Korean War — an unidentified aerial
+  object was observed over Phoenix Arizona by **many citizens including FBI
+  personnel**, then picked up on radar at Williams AFB at 6 PM, then chased for
+  nearly **three hours** by a B-29 from the **509th Bomb Group at Roswell, New
+  Mexico**.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0170.md,
+  page-0171.md, page-0172.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1950-06-30'
+  officialName: FBI Phoenix Field Office / OSI Williams AFB / 509th Bomb Group Roswell NM
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1950-06-30'
+threads:
+  - 1949-50-disinfo
+entities:
+  - pursue-program
+  - aaro
+  - fbi
+relationships:
+  - target: osi-cumulative-sighting-log-full-read-1948-1950
+    type: mentions
+    confidence: medium
+    explanation: osi-cumulative-sighting-log-full-read-1948-1950
+  - target: pervier-tulsa-fbi-agent-corroboration-1950
+    type: mentions
+    confidence: medium
+    explanation: pervier-tulsa-fbi-agent-corroboration-1950
+  - target: belmont-twinkle-master-memo-osi-log-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: belmont-twinkle-master-memo-osi-log-1949-1950
+  - target: la-paz-seventh-report-cabell-directive-twinkle
+    type: mentions
+    confidence: medium
+    explanation: la-paz-seventh-report-cabell-directive-twinkle
+  - target: stuart-adcock-oak-ridge-march-1950
+    type: mentions
+    confidence: medium
+    explanation: stuart-adcock-oak-ridge-march-1950
+  - target: frank-scully-communist-teletype-october-1950
+    type: mentions
+    confidence: medium
+    explanation: frank-scully-communist-teletype-october-1950
+  - target: springer-brown-cic-cluster-pre-maury-island-1947
+    type: mentions
+    confidence: medium
+    explanation: springer-brown-cic-cluster-pre-maury-island-1947
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
 ---
 
 ## Summary

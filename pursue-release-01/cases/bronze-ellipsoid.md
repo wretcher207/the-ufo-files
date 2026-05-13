@@ -1,16 +1,70 @@
 ---
-title: "September 2023 Bronze Ellipsoid — FBI Composite Sketch + 302 Interviews"
-source: "raw/_ingested/2026-05-08-PURSUE-Release-01-Full-Inventory.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/2024-04-30-composite-sketch.pdf"
+title: September 2023 Bronze Ellipsoid — FBI Composite Sketch + 302 Interviews
+origin_url: 'https://www.war.gov/medialink/ufo/release_1/2024-04-30-composite-sketch.pdf'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 2026-05-08
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 2026-05-08T00:00:00.000Z
 case_date: 2023-09
-publisher: "PURSUE / FBI"
-tags: [ufo, uap, fbi, fbi-302, primary-source, bronze-ellipsoid, multi-witness, pursue]
-entities_mentioned: [pursue-program, aaro, fbi]
+publisher: PURSUE / FBI
+tags:
+  - ufo
+  - uap
+  - fbi
+  - fbi-302
+  - primary-source
+  - bronze-ellipsoid
+  - multi-witness
+  - pursue
+entities_mentioned:
+  - pursue-program
+  - aaro
+  - fbi
 thread: pursue-2026
 significance: high
+caseId: PURSUE-01/bronze-ellipsoid
+summary: >-
+  Most evidentially structured single case in PURSUE Release 01. Multi-witness
+  FBI investigation of an apparent ellipsoid bronze metallic object that
+  "materialized out of a bright light in the sky" at…
+excerpt: >-
+  Most evidentially structured single case in PURSUE Release 01. Multi-witness
+  FBI investigation of an apparent ellipsoid bronze metallic object that
+  "materialized out of a bright light in the sky" at a US test site in September
+  2023. Object size: 130-195 feet in length.
+sourcePath: raw/_ingested/2026-05-08-PURSUE-Release-01-Full-Inventory.md
+source:
+  officialUrl: 'https://www.war.gov/medialink/ufo/release_1/2024-04-30-composite-sketch.pdf'
+  releaseDate: '2026-05-08'
+  officialName: PURSUE / FBI
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: high
+date: 2023-09
+threads:
+  - pursue-2026
+entities:
+  - pursue-program
+  - aaro
+  - fbi
+relationships:
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
+  - target: usper-statement
+    type: mentions
+    confidence: medium
+    explanation: USPER Statement
+  - target: orbs-launching-orbs
+    type: mentions
+    confidence: medium
+    explanation: Western US orbs launching orbs
 ---
 
 ## Summary

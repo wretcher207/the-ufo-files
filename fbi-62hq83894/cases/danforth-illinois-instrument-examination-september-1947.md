@@ -1,16 +1,88 @@
 ---
-title: "FBI 62-HQ-83894-122 — Danforth, Illinois Farm Instrument Examination, September 3–23, 1947 (Multi-Agency Artifact Vetting, Operation Mogul Reference, Major Hopkins Air Force Liaison, Hoax Classification Protocol)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/003-65_HS1-834228961_62-HQ-83894_Section_3/page-0162.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf"
-mirror_url: ""
+title: >-
+  FBI 62-HQ-83894-122 — Danforth, Illinois Farm Instrument Examination,
+  September 3–23, 1947 (Multi-Agency Artifact Vetting, Operation Mogul
+  Reference, Major Hopkins Air Force Liaison, Hoax Classification Protocol)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf
+mirror_url: ''
 domain: cross-domain
-date_ingested: 2026-05-09
-source_date: 1947-09-23
-publisher: "Federal Bureau of Investigation / E.G. Fitch, Assistant Director"
-tags: [ufo-files-62hq83894, 1947-artifact-vetting, operation-mogul-reference, multi-agency-coordination, wright-field-authority, major-hopkins, hoax-classification, primary-source]
-entities_mentioned: ["FBI Laboratory Division", "E.G. Fitch", "S.W. Reynolds", "Mrs. Whedon", "Army Engineers", "Major Hopkins", "Lieutenant Colonel George Garrett", "Wright Field", "Operation Mogul", "Mr. Ladd", "Mr. Harbo", "Mr. Baughman"]
+date_ingested: 2026-05-09T00:00:00.000Z
+source_date: 1947-09-23T00:00:00.000Z
+publisher: 'Federal Bureau of Investigation / E.G. Fitch, Assistant Director'
+tags:
+  - ufo-files-62hq83894
+  - 1947-artifact-vetting
+  - operation-mogul-reference
+  - multi-agency-coordination
+  - wright-field-authority
+  - major-hopkins
+  - hoax-classification
+  - primary-source
+entities_mentioned:
+  - FBI Laboratory Division
+  - E.G. Fitch
+  - S.W. Reynolds
+  - Mrs. Whedon
+  - Army Engineers
+  - Major Hopkins
+  - Lieutenant Colonel George Garrett
+  - Wright Field
+  - Operation Mogul
+  - Mr. Ladd
+  - Mr. Harbo
+  - Mr. Baughman
 thread: 1947-origin
 significance: low
+caseId: FBI-62HQ-83894/danforth-illinois-instrument-examination-september-1947
+summary: >-
+  On September 23, 1947, FBI Assistant Director E.G. Fitch issued a memorandum
+  to Mr.
+excerpt: >-
+  G. Fitch issued a memorandum to Mr. Ladd (Assistant Director, FBI Intelligence
+  Division) documenting the examination and institutional classification of an
+  unidentified instrument recovered from a farm near Danforth, Illinois.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/003-65_HS1-834228961_62-HQ-83894_Section_3/page-0162.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf
+  releaseDate: '1947-09-23'
+  officialName: 'Federal Bureau of Investigation / E.G. Fitch, Assistant Director'
+  retrievedDate: 'Fri May 08 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: low
+date: '1947-09-23'
+threads:
+  - 1947-origin
+entities:
+  - FBI Laboratory Division
+  - E.G. Fitch
+  - S.W. Reynolds
+  - Mrs. Whedon
+  - Army Engineers
+  - Major Hopkins
+  - Lieutenant Colonel George Garrett
+  - Wright Field
+  - Operation Mogul
+  - Mr. Ladd
+  - Mr. Harbo
+  - Mr. Baughman
+relationships:
+  - target: stanfield-lapaz-holloman-february-1950
+    type: mentions
+    confidence: medium
+    explanation: stanfield-lapaz-holloman-february-1950
+  - target: pre-scully-crashed-saucer-rumor-network-march-april-1950
+    type: mentions
+    confidence: medium
+    explanation: pre-scully-crashed-saucer-rumor-network-march-april-1950
+  - target: cabell-afoic-cc-1-multi-agency-protocol-september-1950
+    type: mentions
+    confidence: medium
+    explanation: cabell-afoic-cc-1-multi-agency-protocol-september-1950
 ---
 
 ## Summary

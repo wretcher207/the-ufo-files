@@ -1,16 +1,89 @@
 ---
-title: "FBI 62-HQ-83894 — Section 5 SAC Albuquerque Transmittal of OSI 'Summary of Aerial Phenomena in New Mexico, December 1948–May 25, 1950' (July 19, 1950), the Missing-Link Document Cited in the Belmont Master Memo"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0164.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Section 5 SAC Albuquerque Transmittal of OSI 'Summary of
+  Aerial Phenomena in New Mexico, December 1948–May 25, 1950' (July 19, 1950),
+  the Missing-Link Document Cited in the Belmont Master Memo
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1950-07-19
-publisher: "FBI / U.S. Department of Justice"
-tags: [fbi, 62-hq-83894, summary-aerial-phenomena, master-memo-lineage, sac-albuquerque, kirtland-osi, 17th-district-osi, cross-reference-62-85557, primary-source]
-entities_mentioned: [sac-albuquerque, j-edgar-hoover, kirtland-osi, 17th-district-osi, a-h-belmont, d-m-ladd, project-twinkle]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1950-07-19T00:00:00.000Z
+publisher: FBI / U.S. Department of Justice
+tags:
+  - fbi
+  - 62-hq-83894
+  - summary-aerial-phenomena
+  - master-memo-lineage
+  - sac-albuquerque
+  - kirtland-osi
+  - 17th-district-osi
+  - cross-reference-62-85557
+  - primary-source
+entities_mentioned:
+  - sac-albuquerque
+  - j-edgar-hoover
+  - kirtland-osi
+  - 17th-district-osi
+  - a-h-belmont
+  - d-m-ladd
+  - project-twinkle
 thread: 1949-50-disinfo
 significance: medium
+caseId: FBI-62HQ-83894/summary-aerial-phenomena-section-5-1950
+summary: >-
+  This source page documents a single FBI Office Memorandum found at Section 5
+  page 164: **SAC Albuquerque to Director, FBI, dated July 19, 1950, subject
+  "SUMMARY OF AERIAL PHENOMENA IN NEW MEXICO."**…
+excerpt: >-
+  "** Stamped 162-83894-V, received July 21, 1950. md)). " Page 164 is that
+  referenced document — or, more precisely, the FBI Albuquerque transmittal of
+  it.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0164.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1950-07-19'
+  officialName: FBI / U.S. Department of Justice
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1950-07-19'
+threads:
+  - 1949-50-disinfo
+entities:
+  - sac-albuquerque
+  - j-edgar-hoover
+  - kirtland-osi
+  - 17th-district-osi
+  - a-h-belmont
+  - d-m-ladd
+  - project-twinkle
+relationships:
+  - target: belmont-twinkle-master-memo-osi-log-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: belmont-twinkle-master-memo-osi-log-1949-1950
+  - target: osi-cumulative-sighting-log-full-read-1948-1950
+    type: mentions
+    confidence: medium
+    explanation: osi-cumulative-sighting-log-full-read-1948-1950
+  - target: la-paz-seventh-report-cabell-directive-twinkle
+    type: mentions
+    confidence: medium
+    explanation: la-paz-seventh-report-cabell-directive-twinkle
+  - target: project-grudge-vital-installations-1948-1949
+    type: mentions
+    confidence: medium
+    explanation: project-grudge-vital-installations-1948-1949
+  - target: uap-disclosure
+    type: mentions
+    confidence: medium
+    explanation: UAP disclosure (concept)
 ---
 
 ## Summary

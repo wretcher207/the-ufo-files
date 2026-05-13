@@ -1,16 +1,89 @@
 ---
-title: "FBI 62-HQ-83894 — James C. Collins Chesapeake Virginia Abduction Case, January 17-18 1967 (The Earliest In-Archive Primary-Source UAP Abduction Case)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0051.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — James C. Collins Chesapeake Virginia Abduction Case, January
+  17-18 1967 (The Earliest In-Archive Primary-Source UAP Abduction Case)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1967-01-18
-publisher: "FBI / Special Investigative Division (SA A. R. Ware) / Director Hoover senior-distribution"
-tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1967, primary-source, abduction, james-collins, chesapeake-virginia, hoover-era, time-loss, missing-time, humanoid-witnesses, oak-grove-tv]
-entities_mentioned: [pursue-program, aaro, fbi, j-edgar-hoover]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1967-01-18T00:00:00.000Z
+publisher: >-
+  FBI / Special Investigative Division (SA A. R. Ware) / Director Hoover
+  senior-distribution
+tags:
+  - ufo
+  - uap
+  - pursue
+  - fbi
+  - 62-hq-83894
+  - 1967
+  - primary-source
+  - abduction
+  - james-collins
+  - chesapeake-virginia
+  - hoover-era
+  - time-loss
+  - missing-time
+  - humanoid-witnesses
+  - oak-grove-tv
+entities_mentioned:
+  - pursue-program
+  - aaro
+  - fbi
+  - j-edgar-hoover
 thread: 1950s-1973-tail
 significance: medium
+caseId: FBI-62HQ-83894/james-collins-chesapeake-abduction-january-1967
+summary: >-
+  At 4:10 AM on January 18, 1967, **James C. Collins**, a Chesapeake Virginia
+  television-repair-shop owner, telephoned the FBI's night supervisor and
+  reported that during the previous evening (January…
+excerpt: 'At 4:10 AM on January 18, 1967, **James C.'
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0051.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1967-01-18'
+  officialName: >-
+    FBI / Special Investigative Division (SA A. R. Ware) / Director Hoover
+    senior-distribution
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1967-01-18'
+threads:
+  - 1950s-1973-tail
+entities:
+  - pursue-program
+  - aaro
+  - fbi
+  - j-edgar-hoover
+relationships:
+  - target: section-10-1966-1973-civilian-correspondent-cluster-post-blue-book
+    type: mentions
+    confidence: medium
+    explanation: section-10-1966-1973-civilian-correspondent-cluster-post-blue-book
+  - target: civilian-correspondence-hoover-pattern-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: civilian-correspondence-hoover-pattern-1949-1950
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
+  - target: uap-disclosure
+    type: mentions
+    confidence: medium
+    explanation: UAP disclosure (concept)
 ---
 
 ## Summary

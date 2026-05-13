@@ -1,16 +1,134 @@
 ---
-title: "FBI 62-HQ-83894 — Stuart Adcock Unknown Object over Oak Ridge, Tennessee, March 1, 1950 (Vital Facilities / Internal Security)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0057.md, page-0070.md, page-0072.md, page-0080.md, page-0082.md, page-0084.md, page-0086.md, page-0088.md, page-0089.md, page-0091.md, page-0092.md, page-0093.md, page-0094.md, page-0095.md, page-0096.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Stuart Adcock Unknown Object over Oak Ridge, Tennessee,
+  March 1, 1950 (Vital Facilities / Internal Security)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1950-03-01
-publisher: "FBI / U.S. Department of Justice"
-tags: [fbi, 62-hq-83894, adcock-case, oak-ridge, vital-facilities, internal-security, sac-knoxville, primary-source, radar-sighting, third-army, cic, osi, aec-security, dry-run]
-entities_mentioned: [stuart-adcock, c-d-gasser, charlton-c-mcswain, a-h-belmont, j-edgar-hoover, e-l-seagraves, w-m-price, robert-cross, gene-goedjen, g-r-shacklett, charles-white, frank-callaghan, howard-woodside, john-meade, c-a-rolander, francis-r-hammack, oak-ridge-national-laboratory, nepa-project, sac-knoxville, atomic-energy-commission, third-army, fourteenth-air-force, cic-third-army, osi-twenty-fourth-district, naval-reserve-knoxville, smyrna-air-base, wrol]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1950-03-01T00:00:00.000Z
+publisher: FBI / U.S. Department of Justice
+tags:
+  - fbi
+  - 62-hq-83894
+  - adcock-case
+  - oak-ridge
+  - vital-facilities
+  - internal-security
+  - sac-knoxville
+  - primary-source
+  - radar-sighting
+  - third-army
+  - cic
+  - osi
+  - aec-security
+  - dry-run
+entities_mentioned:
+  - stuart-adcock
+  - c-d-gasser
+  - charlton-c-mcswain
+  - a-h-belmont
+  - j-edgar-hoover
+  - e-l-seagraves
+  - w-m-price
+  - robert-cross
+  - gene-goedjen
+  - g-r-shacklett
+  - charles-white
+  - frank-callaghan
+  - howard-woodside
+  - john-meade
+  - c-a-rolander
+  - francis-r-hammack
+  - oak-ridge-national-laboratory
+  - nepa-project
+  - sac-knoxville
+  - atomic-energy-commission
+  - third-army
+  - fourteenth-air-force
+  - cic-third-army
+  - osi-twenty-fourth-district
+  - naval-reserve-knoxville
+  - smyrna-air-base
+  - wrol
 thread: 1949-50-disinfo
 significance: medium
+caseId: FBI-62HQ-83894/stuart-adcock-oak-ridge-march-1950
+summary: >-
+  Between 11:15 P.M. on March 1, 1950 and the morning of March 8, 1950, a
+  Knoxville civilian radio-station owner named **Stuart E.
+excerpt: >-
+  M. on March 1, 1950 and the morning of March 8, 1950, a Knoxville civilian
+  radio-station owner named **Stuart E.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0057.md,
+  page-0070.md, page-0072.md, page-0080.md, page-0082.md, page-0084.md,
+  page-0086.md, page-0088.md, page-0089.md, page-0091.md, page-0092.md,
+  page-0093.md, page-0094.md, page-0095.md, page-0096.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1950-03-01'
+  officialName: FBI / U.S. Department of Justice
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1950-03-01'
+threads:
+  - 1949-50-disinfo
+entities:
+  - stuart-adcock
+  - c-d-gasser
+  - charlton-c-mcswain
+  - a-h-belmont
+  - j-edgar-hoover
+  - e-l-seagraves
+  - w-m-price
+  - robert-cross
+  - gene-goedjen
+  - g-r-shacklett
+  - charles-white
+  - frank-callaghan
+  - howard-woodside
+  - john-meade
+  - c-a-rolander
+  - francis-r-hammack
+  - oak-ridge-national-laboratory
+  - nepa-project
+  - sac-knoxville
+  - atomic-energy-commission
+  - third-army
+  - fourteenth-air-force
+  - cic-third-army
+  - osi-twenty-fourth-district
+  - naval-reserve-knoxville
+  - smyrna-air-base
+  - wrol
+relationships:
+  - target: oak-ridge-gasser-atomic-propulsion-1947-1949
+    type: mentions
+    confidence: medium
+    explanation: oak-ridge-gasser-atomic-propulsion-1947-1949
+  - target: project-grudge-vital-installations-1948-1949
+    type: mentions
+    confidence: medium
+    explanation: project-grudge-vital-installations-1948-1949
+  - target: la-paz-seventh-report-cabell-directive-twinkle
+    type: mentions
+    confidence: medium
+    explanation: la-paz-seventh-report-cabell-directive-twinkle
+  - target: belmont-twinkle-master-memo-osi-log-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: belmont-twinkle-master-memo-osi-log-1949-1950
+  - target: uap-disclosure
+    type: mentions
+    confidence: medium
+    explanation: UAP disclosure (concept)
 ---
 
 ## Summary

@@ -1,16 +1,85 @@
 ---
-title: "FBI 62-HQ-83894 — Air Defense Command Institutional Baseline Policy on Flying Disc Investigations, February 4, 1948 (Dismissal Threshold, Military Investigation Protocol, FBI Coordination)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0037.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf"
-mirror_url: ""
+title: >-
+  FBI 62-HQ-83894 — Air Defense Command Institutional Baseline Policy on Flying
+  Disc Investigations, February 4, 1948 (Dismissal Threshold, Military
+  Investigation Protocol, FBI Coordination)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf
+mirror_url: ''
 domain: cross-domain
-date_ingested: 2026-05-09
-source_date: 1948-02-04
-publisher: "Air Defense Command, Mitchel Air Force Base"
-tags: [ufo-files-62hq83894, 1948-military-policy, institutional-baseline, dismissal-protocol, flying-discs, air-defense-command, primary-source]
-entities_mentioned: ["Air Defense Command", "Mitchel Air Force Base", "First Air Force", "Second Air Force", "Fourth Air Force", "Tenth Air Force", "Eleventh Air Force", "Fourteenth Air Force", "Federal Bureau of Investigation", "Counter Intelligence Corps"]
+date_ingested: 2026-05-09T00:00:00.000Z
+source_date: 1948-02-04T00:00:00.000Z
+publisher: 'Air Defense Command, Mitchel Air Force Base'
+tags:
+  - ufo-files-62hq83894
+  - 1948-military-policy
+  - institutional-baseline
+  - dismissal-protocol
+  - flying-discs
+  - air-defense-command
+  - primary-source
+entities_mentioned:
+  - Air Defense Command
+  - Mitchel Air Force Base
+  - First Air Force
+  - Second Air Force
+  - Fourth Air Force
+  - Tenth Air Force
+  - Eleventh Air Force
+  - Fourteenth Air Force
+  - Federal Bureau of Investigation
+  - Counter Intelligence Corps
 thread: 1948-49-hardening
 significance: medium
+caseId: FBI-62HQ-83894/air-defense-command-institutional-baseline-policy-february-1948
+summary: >-
+  On February 4, 1948, Air Defense Command headquarters (Mitchel AFB, New York)
+  issued a classified policy directive establishing the institutional baseline
+  for how the numbered air forces under its…
+excerpt: >-
+  On February 4, 1948, Air Defense Command headquarters (Mitchel AFB, New York)
+  issued a classified policy directive establishing the institutional baseline
+  for how the numbered air forces under its command would investigate and report
+  flying disc incidents.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0037.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf
+  releaseDate: '1948-02-04'
+  officialName: 'Air Defense Command, Mitchel Air Force Base'
+  retrievedDate: 'Fri May 08 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: Air Force
+classification: Declassified
+confidence: medium
+date: '1948-02-04'
+threads:
+  - 1948-49-hardening
+entities:
+  - Air Defense Command
+  - Mitchel Air Force Base
+  - First Air Force
+  - Second Air Force
+  - Fourth Air Force
+  - Tenth Air Force
+  - Eleventh Air Force
+  - Fourteenth Air Force
+  - Federal Bureau of Investigation
+  - Counter Intelligence Corps
+relationships:
+  - target: jones-winchell-cuneo-1947-1949
+    type: mentions
+    confidence: medium
+    explanation: jones-winchell-cuneo-1947-1949
+  - target: hackensack-new-jersey-august-1947
+    type: mentions
+    confidence: medium
+    explanation: hackensack-new-jersey-august-1947
+  - target: portland-police-department-september-1947
+    type: mentions
+    confidence: medium
+    explanation: portland-police-department-september-1947
 ---
 
 ## Summary

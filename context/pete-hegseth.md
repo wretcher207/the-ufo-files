@@ -1,10 +1,17 @@
 ---
-title: "Pete Hegseth"
+title: Pete Hegseth
 type: person
 domain: cross-domain
 source_count: 5
-last_updated: 2026-05-08
-tags: [hegseth, secretary-of-war, department-of-war, pursue, trump-administration]
+last_updated: 2026-05-08T00:00:00.000Z
+tags:
+  - hegseth
+  - secretary-of-war
+  - department-of-war
+  - pursue
+  - trump-administration
+caseId: ENTITY/pete-hegseth
+nodeType: person
 ---
 
 ## Who He Is

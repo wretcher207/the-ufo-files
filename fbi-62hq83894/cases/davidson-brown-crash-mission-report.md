@@ -1,16 +1,86 @@
 ---
-title: "FBI 62-HQ-83894 — Davidson-Brown B-25 Crash, Final Mission Report (4 August 1947)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/003-65_HS1-834228961_62-HQ-83894_Section_3/page-0010.md, page-0011.md, page-0012.md, page-0013.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Davidson-Brown B-25 Crash, Final Mission Report (4 August
+  1947)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1947-08-04
-publisher: "AAF Air Rescue Service Detachment 8 / 62d AAF Base Unit, McChord Field"
-tags: [ufo, uap, pursue, fbi, 62-hq-83894, maury-island, davidson-brown-crash, 1947, primary-source, aaf-air-rescue]
-entities_mentioned: [pursue-program, aaro, fbi]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1947-08-04T00:00:00.000Z
+publisher: 'AAF Air Rescue Service Detachment 8 / 62d AAF Base Unit, McChord Field'
+tags:
+  - ufo
+  - uap
+  - pursue
+  - fbi
+  - 62-hq-83894
+  - maury-island
+  - davidson-brown-crash
+  - 1947
+  - primary-source
+  - aaf-air-rescue
+entities_mentioned:
+  - pursue-program
+  - aaro
+  - fbi
 thread: 1947-origin
 significance: medium
+caseId: FBI-62HQ-83894/davidson-brown-crash-mission-report
+summary: >-
+  On August 1, 1947, at 02:36 PST, a B-25 numbered #1316 left Tacoma's McChord
+  Field bound for Hamilton Field, California.
+excerpt: >-
+  On August 1, 1947, at 02:36 PST, a B-25 numbered #1316 left Tacoma's McChord
+  Field bound for Hamilton Field, California. Twenty-four minutes later it
+  crashed in the hills 20 miles east of Kelso, Washington, in the vicinity of
+  Goble Creek (46°09'N, 122°43'W). The pilot and co-pilot were killed.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/003-65_HS1-834228961_62-HQ-83894_Section_3/page-0010.md,
+  page-0011.md, page-0012.md, page-0013.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1947-08-04'
+  officialName: 'AAF Air Rescue Service Detachment 8 / 62d AAF Base Unit, McChord Field'
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1947-08-04'
+threads:
+  - 1947-origin
+entities:
+  - pursue-program
+  - aaro
+  - fbi
+relationships:
+  - target: maury-island-1947
+    type: mentions
+    confidence: medium
+    explanation: maury-island-1947
+  - target: philadelphia-1950-soap-suds-disc
+    type: mentions
+    confidence: medium
+    explanation: philadelphia-1950-soap-suds-disc
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
+  - target: department-of-war
+    type: mentions
+    confidence: medium
+    explanation: Department of War
+  - target: uap-disclosure
+    type: mentions
+    confidence: medium
+    explanation: UAP disclosure (concept)
 ---
 
 ## Summary

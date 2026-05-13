@@ -1,16 +1,101 @@
 ---
-title: "FBI 62-HQ-83894 — DeWayne B. Johnson UCLA Journalism Dissertation Submission and the Page 161 Arnold-Case Second-Pass First-Person Narrative, June 1950"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0160.md, page-0161.md, page-0162.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — DeWayne B. Johnson UCLA Journalism Dissertation Submission
+  and the Page 161 Arnold-Case Second-Pass First-Person Narrative, June 1950
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1950-06-02
-publisher: "FBI / J. Edgar Hoover (form reply) / DeWayne B. Johnson (UCLA Graduate Department of Journalism)"
-tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1950, primary-source, dewayne-johnson, ucla, journalism, dissertation, kenneth-arnold, second-pass-narrative, civilian-correspondence, academic-research]
-entities_mentioned: [pursue-program, aaro, fbi]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1950-06-02T00:00:00.000Z
+publisher: >-
+  FBI / J. Edgar Hoover (form reply) / DeWayne B. Johnson (UCLA Graduate
+  Department of Journalism)
+tags:
+  - ufo
+  - uap
+  - pursue
+  - fbi
+  - 62-hq-83894
+  - 1950
+  - primary-source
+  - dewayne-johnson
+  - ucla
+  - journalism
+  - dissertation
+  - kenneth-arnold
+  - second-pass-narrative
+  - civilian-correspondence
+  - academic-research
+entities_mentioned:
+  - pursue-program
+  - aaro
+  - fbi
 thread: 1949-50-disinfo
 significance: medium
+caseId: FBI-62HQ-83894/dewayne-johnson-ucla-dissertation-arnold-second-pass-1950
+summary: >-
+  On June 2, 1950, DeWayne B. Johnson — a graduate student in the **Graduate
+  Department of Journalism at the University of California, Los Angeles** —
+  wrote to FBI Director J.
+excerpt: >-
+  On June 2, 1950, DeWayne B. Johnson — a graduate student in the **Graduate
+  Department of Journalism at the University of California, Los Angeles** —
+  wrote to FBI Director J. " His letter (Section 5 page 160) is the **earliest
+  documented academic UAP-research outreach to FBI in the entire 62-HQ-83894
+  archive**.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0160.md,
+  page-0161.md, page-0162.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1950-06-02'
+  officialName: >-
+    FBI / J. Edgar Hoover (form reply) / DeWayne B. Johnson (UCLA Graduate
+    Department of Journalism)
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1950-06-02'
+threads:
+  - 1949-50-disinfo
+entities:
+  - pursue-program
+  - aaro
+  - fbi
+relationships:
+  - target: springer-brown-cic-cluster-pre-maury-island-1947
+    type: mentions
+    confidence: medium
+    explanation: springer-brown-cic-cluster-pre-maury-island-1947
+  - target: civilian-correspondence-hoover-pattern-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: civilian-correspondence-hoover-pattern-1949-1950
+  - target: section-2-1947-multi-case-extension-and-wenyon-pre-roswell
+    type: mentions
+    confidence: medium
+    explanation: section-2-1947-multi-case-extension-and-wenyon-pre-roswell
+  - target: guy-hottel-three-saucers-new-mexico-1950
+    type: mentions
+    confidence: medium
+    explanation: guy-hottel-three-saucers-new-mexico-1950
+  - target: frank-scully-communist-teletype-october-1950
+    type: mentions
+    confidence: medium
+    explanation: frank-scully-communist-teletype-october-1950
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
 ---
 
 ## Summary

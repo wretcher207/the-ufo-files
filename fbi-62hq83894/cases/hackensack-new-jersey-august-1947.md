@@ -1,16 +1,82 @@
 ---
-title: "FBI 62-HQ-83894 — Hackensack New Jersey Flying Disc Multi-Witness Institutional Case, August 3, 1947 (Army Soldier, Civilian Observers, Military/Civilian Coordination, Discrepancy Analysis)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0004.md, page-0006.md, page-0007.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf"
-mirror_url: ""
+title: >-
+  FBI 62-HQ-83894 — Hackensack New Jersey Flying Disc Multi-Witness
+  Institutional Case, August 3, 1947 (Army Soldier, Civilian Observers,
+  Military/Civilian Coordination, Discrepancy Analysis)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+mirror_url: ''
 domain: cross-domain
-date_ingested: 2026-05-09
-source_date: 1947-08-03
-publisher: "FBI (SAC Newark)"
-tags: [ufo-files-62hq83894, 1947-post-roswell, military-civilian-coordination, multi-observer, government-witness, new-jersey-hackensack, discrepancy-analysis, systematic-interview, primary-source]
-entities_mentioned: ["Charles Caselia Jr.", "William A. Truex", "Joyce McFarland", "Winfield S. Booth", "James Perone", "Arthur F. Williams", "T. Howard Waldron", "Fort Dix", "Hackensack Police Department", "FBI Newark", "Federal Bureau of Investigation"]
+date_ingested: 2026-05-09T00:00:00.000Z
+source_date: 1947-08-03T00:00:00.000Z
+publisher: FBI (SAC Newark)
+tags:
+  - ufo-files-62hq83894
+  - 1947-post-roswell
+  - military-civilian-coordination
+  - multi-observer
+  - government-witness
+  - new-jersey-hackensack
+  - discrepancy-analysis
+  - systematic-interview
+  - primary-source
+entities_mentioned:
+  - Charles Caselia Jr.
+  - William A. Truex
+  - Joyce McFarland
+  - Winfield S. Booth
+  - James Perone
+  - Arthur F. Williams
+  - T. Howard Waldron
+  - Fort Dix
+  - Hackensack Police Department
+  - FBI Newark
+  - Federal Bureau of Investigation
 thread: 1947-origin
 significance: low
+caseId: FBI-62HQ-83894/hackensack-new-jersey-august-1947
+summary: >-
+  On August 3, 1947, at approximately 7:30–7:45 PM, an unidentified flying disc
+  was observed over Hackensack, New Jersey by a multi-witness group: Charles
+  Caselia Jr. (civilian), Private William A.
+excerpt: >-
+  On August 3, 1947, at approximately 7:30–7:45 PM, an unidentified flying disc
+  was observed over Hackensack, New Jersey by a multi-witness group: Charles
+  Caselia Jr. (civilian), Private William A. Truex (Army soldier stationed at
+  Fort Dix), and Joyce McFarland (Truex's girlfriend).
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0004.md,
+  page-0006.md, page-0007.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+  releaseDate: '1947-08-03'
+  officialName: FBI (SAC Newark)
+  retrievedDate: 'Fri May 08 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: low
+date: '1947-08-03'
+threads:
+  - 1947-origin
+entities:
+  - Charles Caselia Jr.
+  - William A. Truex
+  - Joyce McFarland
+  - Winfield S. Booth
+  - James Perone
+  - Arthur F. Williams
+  - T. Howard Waldron
+  - Fort Dix
+  - Hackensack Police Department
+  - FBI Newark
+  - Federal Bureau of Investigation
+relationships:
+  - target: portland-police-department-september-1947
+    type: mentions
+    confidence: medium
+    explanation: portland-police-department-september-1947
 ---
 
 ## Summary

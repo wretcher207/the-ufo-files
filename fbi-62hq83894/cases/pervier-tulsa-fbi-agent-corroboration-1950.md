@@ -1,16 +1,89 @@
 ---
-title: "FBI 62-HQ-83894 — Mrs. Florence B. Pervier (Tulsa Oklahoma) and FBI Lt. Patrol-Duty Corroboration of UAP Overhead-Noise Observations, 1942–1950"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0059.md, page-0060.md, page-0061.md, page-0062.md, page-0063.md, page-0064.md, page-0065.md, page-0066.md, page-0067.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Mrs. Florence B. Pervier (Tulsa Oklahoma) and FBI Lt.
+  Patrol-Duty Corroboration of UAP Overhead-Noise Observations, 1942–1950
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1950-02-28
-publisher: "FBI / U.S. Department of Justice"
-tags: [fbi, 62-hq-83894, pervier-case, tulsa, fbi-agent-corroboration, civilian-witness, soviet-attribution-theory, primary-source]
-entities_mentioned: [florence-b-pervier, j-edgar-hoover, sac-tulsa, fbi-tulsa-field-office, corps-of-engineers, war-department, woodward-tornado-1947, general-george-c-marshall, president-fdr, martin-dies]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1950-02-28T00:00:00.000Z
+publisher: FBI / U.S. Department of Justice
+tags:
+  - fbi
+  - 62-hq-83894
+  - pervier-case
+  - tulsa
+  - fbi-agent-corroboration
+  - civilian-witness
+  - soviet-attribution-theory
+  - primary-source
+entities_mentioned:
+  - florence-b-pervier
+  - j-edgar-hoover
+  - sac-tulsa
+  - fbi-tulsa-field-office
+  - corps-of-engineers
+  - war-department
+  - woodward-tornado-1947
+  - general-george-c-marshall
+  - president-fdr
+  - martin-dies
 thread: 1949-50-disinfo
 significance: medium
+caseId: FBI-62HQ-83894/pervier-tulsa-fbi-agent-corroboration-1950
+summary: >-
+  This cluster is centered on a four-page handwritten letter dated February 28,
+  1950 from Mrs. Florence B. Pervier of 1039 N. College, Tulsa, Oklahoma, to J.
+excerpt: >-
+  This cluster is centered on a four-page handwritten letter dated February 28,
+  1950 from Mrs. Florence B. Pervier of 1039 N.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0059.md,
+  page-0060.md, page-0061.md, page-0062.md, page-0063.md, page-0064.md,
+  page-0065.md, page-0066.md, page-0067.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1950-02-28'
+  officialName: FBI / U.S. Department of Justice
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1950-02-28'
+threads:
+  - 1949-50-disinfo
+entities:
+  - florence-b-pervier
+  - j-edgar-hoover
+  - sac-tulsa
+  - fbi-tulsa-field-office
+  - corps-of-engineers
+  - war-department
+  - woodward-tornado-1947
+  - general-george-c-marshall
+  - president-fdr
+  - martin-dies
+relationships:
+  - target: cuneo-jones-winchell-followup-1949
+    type: mentions
+    confidence: medium
+    explanation: cuneo-jones-winchell-followup-1949
+  - target: project-grudge-vital-installations-1948-1949
+    type: mentions
+    confidence: medium
+    explanation: project-grudge-vital-installations-1948-1949
+  - target: oak-ridge-gasser-atomic-propulsion-1947-1949
+    type: mentions
+    confidence: medium
+    explanation: oak-ridge-gasser-atomic-propulsion-1947-1949
+  - target: uap-disclosure
+    type: mentions
+    confidence: medium
+    explanation: UAP disclosure (concept)
 ---
 
 ## Summary

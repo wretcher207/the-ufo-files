@@ -1,16 +1,69 @@
 ---
-title: "FBI 62-HQ-83894 — A. Courtney Parker Rix Ledges Lebanon New Hampshire Dual-Object Sighting, September 17, 1947 (Superintendent of Schools, Hoover-Level Acknowledgment, Professional Witness)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0098.md, page-0099.md, page-0100.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf"
-mirror_url: ""
+title: >-
+  FBI 62-HQ-83894 — A. Courtney Parker Rix Ledges Lebanon New Hampshire
+  Dual-Object Sighting, September 17, 1947 (Superintendent of Schools,
+  Hoover-Level Acknowledgment, Professional Witness)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+mirror_url: ''
 domain: cross-domain
-date_ingested: 2026-05-09
-source_date: 1947-09-17
-publisher: "FBI (Director, SAC Albany)"
-tags: [ufo-files-62hq83894, 1947-post-roswell, hoover-acknowledgment, professional-witness, superintendent, vermont-new-hampshire, dual-object, primary-source]
-entities_mentioned: ["A. Courtney Parker", "Federal Bureau of Investigation", "J. Edgar Hoover", "Superintendent of Schools", "Rix Ledges", "Lebanon New Hampshire", "South Royalton Vermont", "Albany FBI Office"]
+date_ingested: 2026-05-09T00:00:00.000Z
+source_date: 1947-09-17T00:00:00.000Z
+publisher: 'FBI (Director, SAC Albany)'
+tags:
+  - ufo-files-62hq83894
+  - 1947-post-roswell
+  - hoover-acknowledgment
+  - professional-witness
+  - superintendent
+  - vermont-new-hampshire
+  - dual-object
+  - primary-source
+entities_mentioned:
+  - A. Courtney Parker
+  - Federal Bureau of Investigation
+  - J. Edgar Hoover
+  - Superintendent of Schools
+  - Rix Ledges
+  - Lebanon New Hampshire
+  - South Royalton Vermont
+  - Albany FBI Office
 thread: 1947-origin
 significance: low
+caseId: FBI-62HQ-83894/parker-rix-ledges-lebanon-september-1947
+summary: >-
+  On September 17, 1947, at 3:40 PM, A. Courtney Parker, Superintendent of
+  Schools for the Orange-Windsor District (Vermont), observed two objects in
+  daylight from Rix Ledges north of Lebanon, New…
+excerpt: >-
+  On September 17, 1947, at 3:40 PM, A. Courtney Parker, Superintendent of
+  Schools for the Orange-Windsor District (Vermont), observed two objects in
+  daylight from Rix Ledges north of Lebanon, New Hampshire.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0098.md,
+  page-0099.md, page-0100.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+  releaseDate: '1947-09-17'
+  officialName: 'FBI (Director, SAC Albany)'
+  retrievedDate: 'Fri May 08 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: low
+date: '1947-09-17'
+threads:
+  - 1947-origin
+entities:
+  - A. Courtney Parker
+  - Federal Bureau of Investigation
+  - J. Edgar Hoover
+  - Superintendent of Schools
+  - Rix Ledges
+  - Lebanon New Hampshire
+  - South Royalton Vermont
+  - Albany FBI Office
 ---
 
 ## Summary

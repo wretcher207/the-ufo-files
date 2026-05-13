@@ -1,16 +1,92 @@
 ---
-title: "FBI 62-HQ-83894 — Two Civilian-Witness CIC Investigations, Summer 1947 (Switzer/Cedar Ravine Road full investigative arc; Madden/Canyon Ferry-York)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/003-65_HS1-834228961_62-HQ-83894_Section_3/page-0073.md, page-0074.md, page-0075.md, page-0076.md, page-0079.md, page-0080.md, page-0081.md, page-0082.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Two Civilian-Witness CIC Investigations, Summer 1947
+  (Switzer/Cedar Ravine Road full investigative arc; Madden/Canyon Ferry-York)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1947-08-20
-publisher: "Counter Intelligence Corps (4AF CIC), Hamilton Field"
-tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1947, primary-source, cic-investigation, switzer, madden, placerville, canyon-ferry-montana]
-entities_mentioned: [pursue-program, aaro, fbi]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1947-08-20T00:00:00.000Z
+publisher: 'Counter Intelligence Corps (4AF CIC), Hamilton Field'
+tags:
+  - ufo
+  - uap
+  - pursue
+  - fbi
+  - 62-hq-83894
+  - 1947
+  - primary-source
+  - cic-investigation
+  - switzer
+  - madden
+  - placerville
+  - canyon-ferry-montana
+entities_mentioned:
+  - pursue-program
+  - aaro
+  - fbi
 thread: 1947-origin
 significance: low
+caseId: FBI-62HQ-83894/1947-california-montana-cic
+summary: >-
+  Immediately following the Muroc Army Air Field affidavit cluster
+  ([muroc-1947-cic-affidavits](muroc-1947-cic-affidavits.md)), Section 3 of FBI
+  62-HQ-83894 carries two **civilian-witness 4AF CIC…
+excerpt: >-
+  md)), Section 3 of FBI 62-HQ-83894 carries two **civilian-witness 4AF CIC
+  investigations** from the same August 1947 paper trail: 1.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/003-65_HS1-834228961_62-HQ-83894_Section_3/page-0073.md,
+  page-0074.md, page-0075.md, page-0076.md, page-0079.md, page-0080.md,
+  page-0081.md, page-0082.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1947-08-20'
+  officialName: 'Counter Intelligence Corps (4AF CIC), Hamilton Field'
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: low
+date: '1947-08-20'
+threads:
+  - 1947-origin
+entities:
+  - pursue-program
+  - aaro
+  - fbi
+relationships:
+  - target: muroc-1947-cic-affidavits
+    type: mentions
+    confidence: medium
+    explanation: muroc-1947-cic-affidavits
+  - target: maury-island-1947
+    type: mentions
+    confidence: medium
+    explanation: maury-island-1947
+  - target: davidson-brown-crash-mission-report
+    type: mentions
+    confidence: medium
+    explanation: davidson-brown-crash-mission-report
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
+  - target: department-of-war
+    type: mentions
+    confidence: medium
+    explanation: Department of War
+  - target: uap-disclosure
+    type: mentions
+    confidence: medium
+    explanation: UAP disclosure (concept)
 ---
 
 ## Summary

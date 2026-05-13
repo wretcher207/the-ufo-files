@@ -1,16 +1,120 @@
 ---
-title: "FBI 62-HQ-83894 — Section 2 1947 Multi-Case Extension: Twin Falls Hedstrom, Bethel Alaska Peck/Daly, Lake Mead Armstrong, Myrtle Creek Hatfield/Ellison, McLeod-Hale AAF Policy Statement, and Forrest Wenyon Pre-Roswell Sightings"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0052.md, page-0177.md, page-0178.md, page-0179.md, page-0180.md, page-0181.md, page-0189.md, page-0190.md, page-0192.md, page-0193.md, page-0194.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Section 2 1947 Multi-Case Extension: Twin Falls Hedstrom,
+  Bethel Alaska Peck/Daly, Lake Mead Armstrong, Myrtle Creek Hatfield/Ellison,
+  McLeod-Hale AAF Policy Statement, and Forrest Wenyon Pre-Roswell Sightings
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1947-09-04
-publisher: "FBI San Francisco / Butte / Portland / Baltimore Field Offices and 4AF CIC Hamilton Field"
-tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1947, 1946, primary-source, twin-falls, hedstrom, bethel-alaska, peck, daly, lake-mead, armstrong, myrtle-creek, hatfield, ellison, wenyon, pre-roswell, mcleod-seattle-times, general-hale, bureau-bulletin-42]
-entities_mentioned: [pursue-program, aaro, fbi]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1947-09-04T00:00:00.000Z
+publisher: >-
+  FBI San Francisco / Butte / Portland / Baltimore Field Offices and 4AF CIC
+  Hamilton Field
+tags:
+  - ufo
+  - uap
+  - pursue
+  - fbi
+  - 62-hq-83894
+  - 1947
+  - 1946
+  - primary-source
+  - twin-falls
+  - hedstrom
+  - bethel-alaska
+  - peck
+  - daly
+  - lake-mead
+  - armstrong
+  - myrtle-creek
+  - hatfield
+  - ellison
+  - wenyon
+  - pre-roswell
+  - mcleod-seattle-times
+  - general-hale
+  - bureau-bulletin-42
+entities_mentioned:
+  - pursue-program
+  - aaro
+  - fbi
 thread: 1947-origin
 significance: medium
+caseId: FBI-62HQ-83894/section-2-1947-multi-case-extension-and-wenyon-pre-roswell
+summary: >-
+  Section 2 of FBI 62-HQ-83894 contains six standalone 1947 cases (and one
+  September-1946 pre-Roswell case) that sit outside the Springer-Brown 4AF CIC
+  Hamilton Field cluster…
+excerpt: >-
+  md)) and are individually substantive enough to merit primary-source
+  preservation. Three of them close open threads from pass 23.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0052.md,
+  page-0177.md, page-0178.md, page-0179.md, page-0180.md, page-0181.md,
+  page-0189.md, page-0190.md, page-0192.md, page-0193.md, page-0194.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1947-09-04'
+  officialName: >-
+    FBI San Francisco / Butte / Portland / Baltimore Field Offices and 4AF CIC
+    Hamilton Field
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1947-09-04'
+threads:
+  - 1947-origin
+entities:
+  - pursue-program
+  - aaro
+  - fbi
+relationships:
+  - target: springer-brown-cic-cluster-pre-maury-island-1947
+    type: mentions
+    confidence: medium
+    explanation: springer-brown-cic-cluster-pre-maury-island-1947
+  - target: maury-island-1947
+    type: mentions
+    confidence: medium
+    explanation: maury-island-1947
+  - target: davidson-brown-crash-mission-report
+    type: mentions
+    confidence: medium
+    explanation: davidson-brown-crash-mission-report
+  - target: muroc-1947-cic-affidavits
+    type: mentions
+    confidence: medium
+    explanation: muroc-1947-cic-affidavits
+  - target: 1947-california-montana-cic
+    type: mentions
+    confidence: medium
+    explanation: 1947-california-montana-cic
+  - target: rhodes-phoenix-photographs-1947
+    type: mentions
+    confidence: medium
+    explanation: rhodes-phoenix-photographs-1947
+  - target: frank-scully-communist-teletype-october-1950
+    type: mentions
+    confidence: medium
+    explanation: frank-scully-communist-teletype-october-1950
+  - target: kodiak-alaska-oni-january-1950
+    type: mentions
+    confidence: medium
+    explanation: kodiak-alaska-oni-january-1950
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
 ---
 
 ## Summary

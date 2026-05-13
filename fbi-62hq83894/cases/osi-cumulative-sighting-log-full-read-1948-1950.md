@@ -1,16 +1,108 @@
 ---
-title: "FBI 62-HQ-83894 — 17th District OSI Cumulative Sighting Log of Unknown Aerial Phenomena, December 1948 – May 1950 (Full Read, Sightings 1–204)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/006-65_HS1-834228961_62-HQ-83894_Section_6/page-0033.md, page-0034.md, page-0036.md, page-0040.md, page-0041.md, page-0042.md, page-0043.md, page-0044.md, page-0045.md, page-0046.md, page-0050.md, page-0052.md, page-0053.md, page-0054.md, page-0055.md, page-0056.md, page-0057.md, page-0058.md, page-0059.md, page-0060.md, page-0061.md, page-0064.md, page-0066.md, page-0067.md, page-0068.md, page-0070.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — 17th District OSI Cumulative Sighting Log of Unknown Aerial
+  Phenomena, December 1948 – May 1950 (Full Read, Sightings 1–204)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1950-05-25
-publisher: "FBI / U.S. Department of Justice"
-tags: [fbi, 62-hq-83894, osi-sighting-log, kirtland-osi, los-alamos, sandia-base, killeen-base, vaughn-nm, holloman, tucson, roswell, evaluation-codes, primary-source, structured-data]
-entities_mentioned: [doyle-rees, lincoln-la-paz, kirtland-air-force-base, los-alamos-laboratory, sandia-base, holloman-air-force-base, killeen-base, camp-hood, vaughn-nm, alamogordo, white-sands]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1950-05-25T00:00:00.000Z
+publisher: FBI / U.S. Department of Justice
+tags:
+  - fbi
+  - 62-hq-83894
+  - osi-sighting-log
+  - kirtland-osi
+  - los-alamos
+  - sandia-base
+  - killeen-base
+  - vaughn-nm
+  - holloman
+  - tucson
+  - roswell
+  - evaluation-codes
+  - primary-source
+  - structured-data
+entities_mentioned:
+  - doyle-rees
+  - lincoln-la-paz
+  - kirtland-air-force-base
+  - los-alamos-laboratory
+  - sandia-base
+  - holloman-air-force-base
+  - killeen-base
+  - camp-hood
+  - vaughn-nm
+  - alamogordo
+  - white-sands
 thread: 1949-50-disinfo
 significance: medium
+caseId: FBI-62HQ-83894/osi-cumulative-sighting-log-full-read-1948-1950
+summary: >-
+  This is the full read of the **17th District OSI Cumulative Sighting Log of
+  Unknown Aerial Phenomena** that pass 11…
+excerpt: >-
+  md)) sampled through four slice pages. The log is the structured-table
+  backbone behind A. H.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/006-65_HS1-834228961_62-HQ-83894_Section_6/page-0033.md,
+  page-0034.md, page-0036.md, page-0040.md, page-0041.md, page-0042.md,
+  page-0043.md, page-0044.md, page-0045.md, page-0046.md, page-0050.md,
+  page-0052.md, page-0053.md, page-0054.md, page-0055.md, page-0056.md,
+  page-0057.md, page-0058.md, page-0059.md, page-0060.md, page-0061.md,
+  page-0064.md, page-0066.md, page-0067.md, page-0068.md, page-0070.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1950-05-25'
+  officialName: FBI / U.S. Department of Justice
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1950-05-25'
+threads:
+  - 1949-50-disinfo
+entities:
+  - doyle-rees
+  - lincoln-la-paz
+  - kirtland-air-force-base
+  - los-alamos-laboratory
+  - sandia-base
+  - holloman-air-force-base
+  - killeen-base
+  - camp-hood
+  - vaughn-nm
+  - alamogordo
+  - white-sands
+relationships:
+  - target: belmont-twinkle-master-memo-osi-log-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: belmont-twinkle-master-memo-osi-log-1949-1950
+  - target: la-paz-seventh-report-cabell-directive-twinkle
+    type: mentions
+    confidence: medium
+    explanation: la-paz-seventh-report-cabell-directive-twinkle
+  - target: project-grudge-vital-installations-1948-1949
+    type: mentions
+    confidence: medium
+    explanation: project-grudge-vital-installations-1948-1949
+  - target: stuart-adcock-oak-ridge-march-1950
+    type: mentions
+    confidence: medium
+    explanation: stuart-adcock-oak-ridge-march-1950
+  - target: rhodes-phoenix-photographs-1947
+    type: mentions
+    confidence: medium
+    explanation: rhodes-phoenix-photographs-1947
+  - target: uap-disclosure
+    type: mentions
+    confidence: medium
+    explanation: UAP disclosure (concept)
 ---
 
 ## Summary

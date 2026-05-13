@@ -1,16 +1,113 @@
 ---
-title: "FBI 62-HQ-83894 — Two Mid-1950 Civilian-Witness Cases: Alf E. Hixenbaugh Photographs and Robert R. Petrone Informant Tip"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0187.md, page-0188.md, page-0189.md, page-0190.md, page-0191.md, page-0192.md, page-0193.md, page-0194.md, page-0196.md, page-0197.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Two Mid-1950 Civilian-Witness Cases: Alf E. Hixenbaugh
+  Photographs and Robert R. Petrone Informant Tip
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
+date_ingested: 2026-05-08T00:00:00.000Z
 source_date: 1950-07-XX
-publisher: "FBI / U.S. Department of Justice"
-tags: [fbi, 62-hq-83894, hixenbaugh-photographs, petrone-informant, mid-1950, civilian-witness, primary-source, hoax-allegation, photographic-evidence, informant-tip]
-entities_mentioned: [alf-e-hixenbaugh, robert-steinau, william-davis, robert-r-petrone, albert-holmberg, j-edgar-hoover, walter-winchell, sac-louisville, sac-chicago, godman-field, wright-patterson-field, louisville-times, courier-journal, midwest-times, osi]
+publisher: FBI / U.S. Department of Justice
+tags:
+  - fbi
+  - 62-hq-83894
+  - hixenbaugh-photographs
+  - petrone-informant
+  - mid-1950
+  - civilian-witness
+  - primary-source
+  - hoax-allegation
+  - photographic-evidence
+  - informant-tip
+entities_mentioned:
+  - alf-e-hixenbaugh
+  - robert-steinau
+  - william-davis
+  - robert-r-petrone
+  - albert-holmberg
+  - j-edgar-hoover
+  - walter-winchell
+  - sac-louisville
+  - sac-chicago
+  - godman-field
+  - wright-patterson-field
+  - louisville-times
+  - courier-journal
+  - midwest-times
+  - osi
 thread: 1949-50-disinfo
 significance: medium
+caseId: FBI-62HQ-83894/hixenbaugh-photographs-petrone-informant-1950
+summary: >-
+  By mid-1950 the Bureau was no longer dealing with one or two civilian-witness
+  UAP cases per quarter.
+excerpt: >-
+  By mid-1950 the Bureau was no longer dealing with one or two civilian-witness
+  UAP cases per quarter.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0187.md,
+  page-0188.md, page-0189.md, page-0190.md, page-0191.md, page-0192.md,
+  page-0193.md, page-0194.md, page-0196.md, page-0197.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: 1950-07-XX
+  officialName: FBI / U.S. Department of Justice
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: 1950-07-XX
+threads:
+  - 1949-50-disinfo
+entities:
+  - alf-e-hixenbaugh
+  - robert-steinau
+  - william-davis
+  - robert-r-petrone
+  - albert-holmberg
+  - j-edgar-hoover
+  - walter-winchell
+  - sac-louisville
+  - sac-chicago
+  - godman-field
+  - wright-patterson-field
+  - louisville-times
+  - courier-journal
+  - midwest-times
+  - osi
+relationships:
+  - target: rhodes-phoenix-photographs-1947
+    type: mentions
+    confidence: medium
+    explanation: rhodes-phoenix-photographs-1947
+  - target: cuneo-jones-winchell-followup-1949
+    type: mentions
+    confidence: medium
+    explanation: cuneo-jones-winchell-followup-1949
+  - target: civilian-correspondence-hoover-pattern-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: civilian-correspondence-hoover-pattern-1949-1950
+  - target: belmont-twinkle-master-memo-osi-log-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: belmont-twinkle-master-memo-osi-log-1949-1950
+  - target: osi-cumulative-sighting-log-full-read-1948-1950
+    type: mentions
+    confidence: medium
+    explanation: osi-cumulative-sighting-log-full-read-1948-1950
+  - target: houston-noack-physical-object-1948
+    type: mentions
+    confidence: medium
+    explanation: houston-noack-physical-object-1948
+  - target: uap-disclosure
+    type: mentions
+    confidence: medium
+    explanation: UAP disclosure (concept)
 ---
 
 ## Summary

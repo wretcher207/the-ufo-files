@@ -1,16 +1,71 @@
 ---
-title: "Western US 'Orbs Launching Orbs' Event Slides (2023)"
-source: "raw/_ingested/2026-05-08-PURSUE-Release-01-Full-Inventory.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/western_us_event_slides_5.08.2026.pdf"
+title: Western US 'Orbs Launching Orbs' Event Slides (2023)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/western_us_event_slides_5.08.2026.pdf
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 2026-05-08
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 2026-05-08T00:00:00.000Z
 case_date: 2023
-publisher: "PURSUE / AARO"
-tags: [ufo, uap, orbs, federal-officers, western-us, primary-source, aaro-compelling, pursue]
-entities_mentioned: [pursue-program, aaro, fbi]
+publisher: PURSUE / AARO
+tags:
+  - ufo
+  - uap
+  - orbs
+  - federal-officers
+  - western-us
+  - primary-source
+  - aaro-compelling
+  - pursue
+entities_mentioned:
+  - pursue-program
+  - aaro
+  - fbi
 thread: pursue-2026
 significance: high
+caseId: PURSUE-01/orbs-launching-orbs
+summary: >-
+  Multi-state, multi-witness 2023 event in the western US. Seven federal law
+  enforcement officers across two days observed orange "orbs" in the sky
+  launching smaller red "orbs" in groups of two to…
+excerpt: >-
+  Multi-state, multi-witness 2023 event in the western US. Seven federal law
+  enforcement officers across two days observed orange "orbs" in the sky
+  launching smaller red "orbs" in groups of two to four.
+sourcePath: raw/_ingested/2026-05-08-PURSUE-Release-01-Full-Inventory.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/western_us_event_slides_5.08.2026.pdf
+  releaseDate: '2026-05-08'
+  officialName: PURSUE / AARO
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: AARO
+classification: Declassified
+confidence: high
+date: '2023'
+threads:
+  - pursue-2026
+entities:
+  - pursue-program
+  - aaro
+  - fbi
+relationships:
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
+  - target: bronze-ellipsoid
+    type: mentions
+    confidence: medium
+    explanation: Bronze Ellipsoid (Sept 2023)
+  - target: usper-statement
+    type: mentions
+    confidence: medium
+    explanation: USPER Statement
 ---
 
 ## Summary

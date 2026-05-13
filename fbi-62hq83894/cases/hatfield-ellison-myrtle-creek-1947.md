@@ -1,16 +1,91 @@
 ---
-title: "FBI 62-HQ-83894 — Ray Virgil Hatfield & Noble Ellison Myrtle Creek Oregon Sighting, August 6, 1947"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0052.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Ray Virgil Hatfield & Noble Ellison Myrtle Creek Oregon
+  Sighting, August 6, 1947
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-09
-source_date: 1947-08-06
-publisher: "Federal Bureau of Investigation / Portland SAC"
-tags: [fbi, 62hq83894, 1947, oregon, sighting, credentialed-pilot, military-witness, two-witness, aircraft-pursuit, computed-speed, primary-source]
-entities_mentioned: [ray-virgil-hatfield, noble-ellison, tri-city-airport-myrtle-creek, united-states-navy, naval-air-corps]
+date_ingested: 2026-05-09T00:00:00.000Z
+source_date: 1947-08-06T00:00:00.000Z
+publisher: Federal Bureau of Investigation / Portland SAC
+tags:
+  - fbi
+  - 62hq83894
+  - 1947
+  - oregon
+  - sighting
+  - credentialed-pilot
+  - military-witness
+  - two-witness
+  - aircraft-pursuit
+  - computed-speed
+  - primary-source
+entities_mentioned:
+  - ray-virgil-hatfield
+  - noble-ellison
+  - tri-city-airport-myrtle-creek
+  - united-states-navy
+  - naval-air-corps
 thread: 1947-origin
 significance: medium
+caseId: FBI-62HQ-83894/hatfield-ellison-myrtle-creek-1947
+summary: >-
+  FBI Portland SAC memo (August 23, 1947; FBI serial 62-83894-65) documenting a
+  two-witness daytime aerial sighting at Myrtle Creek, Oregon on August 6, 1947
+  involving Ray Virgil Hatfield (credentialed…
+excerpt: >-
+  FBI Portland SAC memo (August 23, 1947; FBI serial 62-83894-65) documenting a
+  two-witness daytime aerial sighting at Myrtle Creek, Oregon on August 6, 1947
+  involving Ray Virgil Hatfield (credentialed Naval Air Corps pilot, operator of
+  Tri City Airport) and Noble Ellison (student pilot).
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0052.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1947-08-06'
+  officialName: Federal Bureau of Investigation / Portland SAC
+  retrievedDate: 'Fri May 08 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1947-08-06'
+threads:
+  - 1947-origin
+entities:
+  - ray-virgil-hatfield
+  - noble-ellison
+  - tri-city-airport-myrtle-creek
+  - united-states-navy
+  - naval-air-corps
+relationships:
+  - target: kenneth-arnold-cascade-1947
+    type: mentions
+    confidence: medium
+    explanation: kenneth-arnold-cascade-1947
+  - target: springer-brown-cic-cluster-pre-maury-island-1947
+    type: mentions
+    confidence: medium
+    explanation: springer-brown-cic-cluster-pre-maury-island-1947
+  - target: 1947-california-montana-cic
+    type: mentions
+    confidence: medium
+    explanation: 1947-california-montana-cic
+  - target: muroc-1947-cic-affidavits
+    type: mentions
+    confidence: medium
+    explanation: muroc-1947-cic-affidavits
+  - target: phoenix-blythe-radar-intercept-509th-bomb-group-june-1950
+    type: mentions
+    confidence: medium
+    explanation: phoenix-blythe-radar-intercept-509th-bomb-group-june-1950
+  - target: portland-police-department-september-1947
+    type: mentions
+    confidence: medium
+    explanation: portland-police-department-september-1947
 ---
 
 ## Summary

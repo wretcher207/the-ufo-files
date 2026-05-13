@@ -1,10 +1,18 @@
 ---
-title: "Neil deGrasse Tyson"
+title: Neil deGrasse Tyson
 type: person
 domain: cross-domain
 source_count: 1
-last_updated: 2026-05-08
-tags: [tyson, astrophysicist, skepticism, uap, ufo, evidentiary-standards]
+last_updated: 2026-05-08T00:00:00.000Z
+tags:
+  - tyson
+  - astrophysicist
+  - skepticism
+  - uap
+  - ufo
+  - evidentiary-standards
+caseId: ENTITY/neil-degrasse-tyson
+nodeType: person
 ---
 
 ## Who He Is

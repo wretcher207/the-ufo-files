@@ -1,16 +1,125 @@
 ---
-title: "FBI 62-HQ-83894 — D-3 Briefing and the Halfery 'Mister X' Photograph Case, May 1950 (Bureau-Internal Analytical Position on UAPs and Crashed-Saucer Rumors)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0149.md, page-0153.md, page-0154.md, page-0155.md, page-0156.md, page-0157.md, page-0158.md, page-0159.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — D-3 Briefing and the Halfery 'Mister X' Photograph Case, May
+  1950 (Bureau-Internal Analytical Position on UAPs and Crashed-Saucer Rumors)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1950-05-19
-publisher: "FBI / U.S. Department of Justice (D-3 Briefing); U.S. Army Intelligence Branch, New Orleans Port of Embarkation (Halfery report)"
-tags: [fbi, 62hq83894, ufo, uap, d3-briefing, mr-stites, michael-halfery, mister-x, hoax-photograph, hottel-memo, aztec, crashed-saucer, rickenbacker, ezekiel, sweden-1946, mass-hysteria, primary-source, pursue, release-01]
-entities_mentioned: [d3-briefing, mr-stites, g-2, michael-halfery, john-r-esposito, major-merle-l-mennie, col-bordon, osi, new-orleans-port-of-embarkation, eddie-rickenbacker, peenemunde, dago-island, marktkirche-wiesbaden, translag-usa, fbi]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1950-05-19T00:00:00.000Z
+publisher: >-
+  FBI / U.S. Department of Justice (D-3 Briefing); U.S. Army Intelligence
+  Branch, New Orleans Port of Embarkation (Halfery report)
+tags:
+  - fbi
+  - 62hq83894
+  - ufo
+  - uap
+  - d3-briefing
+  - mr-stites
+  - michael-halfery
+  - mister-x
+  - hoax-photograph
+  - hottel-memo
+  - aztec
+  - crashed-saucer
+  - rickenbacker
+  - ezekiel
+  - sweden-1946
+  - mass-hysteria
+  - primary-source
+  - pursue
+  - release-01
+entities_mentioned:
+  - d3-briefing
+  - mr-stites
+  - g-2
+  - michael-halfery
+  - john-r-esposito
+  - major-merle-l-mennie
+  - col-bordon
+  - osi
+  - new-orleans-port-of-embarkation
+  - eddie-rickenbacker
+  - peenemunde
+  - dago-island
+  - marktkirche-wiesbaden
+  - translag-usa
+  - fbi
 thread: 1949-50-disinfo
 significance: medium
+caseId: FBI-62HQ-83894/d3-briefing-halfery-mister-x-may-1950
+summary: >-
+  Section 5 pages 149, 153-159 of the FBI 62-HQ-83894 flying-discs case file is
+  a tightly co-located **May 1950 cluster** that contains two independently
+  load-bearing items separated only by a routing…
+excerpt: >-
+  Section 5 pages 149, 153-159 of the FBI 62-HQ-83894 flying-discs case file is
+  a tightly co-located **May 1950 cluster** that contains two independently
+  load-bearing items separated only by a routing slip: 1. **The D-3 Briefing of
+  May 19, 1950 by Mr.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0149.md,
+  page-0153.md, page-0154.md, page-0155.md, page-0156.md, page-0157.md,
+  page-0158.md, page-0159.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1950-05-19'
+  officialName: >-
+    FBI / U.S. Department of Justice (D-3 Briefing); U.S. Army Intelligence
+    Branch, New Orleans Port of Embarkation (Halfery report)
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1950-05-19'
+threads:
+  - 1949-50-disinfo
+entities:
+  - d3-briefing
+  - mr-stites
+  - g-2
+  - michael-halfery
+  - john-r-esposito
+  - major-merle-l-mennie
+  - col-bordon
+  - osi
+  - new-orleans-port-of-embarkation
+  - eddie-rickenbacker
+  - peenemunde
+  - dago-island
+  - marktkirche-wiesbaden
+  - translag-usa
+  - fbi
+relationships:
+  - target: guy-hottel-three-saucers-new-mexico-1950
+    type: mentions
+    confidence: medium
+    explanation: guy-hottel-three-saucers-new-mexico-1950
+  - target: belmont-twinkle-master-memo-osi-log-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: belmont-twinkle-master-memo-osi-log-1949-1950
+  - target: oak-ridge-gasser-atomic-propulsion-1947-1949
+    type: mentions
+    confidence: medium
+    explanation: oak-ridge-gasser-atomic-propulsion-1947-1949
+  - target: frank-scully-communist-teletype-october-1950
+    type: mentions
+    confidence: medium
+    explanation: frank-scully-communist-teletype-october-1950
+  - target: civilian-correspondence-hoover-pattern-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: civilian-correspondence-hoover-pattern-1949-1950
+  - target: rhodes-phoenix-photographs-1947
+    type: mentions
+    confidence: medium
+    explanation: rhodes-phoenix-photographs-1947
 ---
 
 ## Summary

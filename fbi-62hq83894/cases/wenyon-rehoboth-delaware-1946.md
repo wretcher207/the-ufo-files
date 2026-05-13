@@ -1,16 +1,70 @@
 ---
-title: "FBI 62-HQ-83894 — Horace P. Wenyon Rehoboth Beach Delaware Sightings, September 1946—June 1947 (Professional Pilot, Pre-Roswell, FBI Dismissal and Eastern Airlines/CAA Routing)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0192.md, page-0193.md, page-0194.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf"
-mirror_url: ""
+title: >-
+  FBI 62-HQ-83894 — Horace P. Wenyon Rehoboth Beach Delaware Sightings,
+  September 1946—June 1947 (Professional Pilot, Pre-Roswell, FBI Dismissal and
+  Eastern Airlines/CAA Routing)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+mirror_url: ''
 domain: cross-domain
-date_ingested: 2026-05-09
+date_ingested: 2026-05-09T00:00:00.000Z
 source_date: 1946-09 / 1947-06
-publisher: "FBI (SAC Baltimore, Director)"
-tags: [ufo-files-62hq83894, pre-roswell-uap, delaware, pilot-report, eastern-airlines, memorial-day-crash, fbi-dismissal, 1946, primary-source]
-entities_mentioned: ["Horace P. Wenyon", "Federal Bureau of Investigation", "Eastern Airlines", "Civil Aeronautic Authority", "Wilmington Delaware", "Rehoboth Beach Delaware", "Port Deposit Maryland", "Wilmington Morning News"]
+publisher: 'FBI (SAC Baltimore, Director)'
+tags:
+  - ufo-files-62hq83894
+  - pre-roswell-uap
+  - delaware
+  - pilot-report
+  - eastern-airlines
+  - memorial-day-crash
+  - fbi-dismissal
+  - 1946
+  - primary-source
+entities_mentioned:
+  - Horace P. Wenyon
+  - Federal Bureau of Investigation
+  - Eastern Airlines
+  - Civil Aeronautic Authority
+  - Wilmington Delaware
+  - Rehoboth Beach Delaware
+  - Port Deposit Maryland
+  - Wilmington Morning News
 thread: 1947-origin
 significance: medium
+caseId: FBI-62HQ-83894/wenyon-rehoboth-delaware-1946
+summary: >-
+  A 30-year veteran aircraft pilot, Horace P. Wenyon of Rehoboth Beach,
+  Delaware, reported two separate sightings of high-speed projectile-like
+  objects in September 1946 and June 1947.
+excerpt: >-
+  A 30-year veteran aircraft pilot, Horace P. Wenyon of Rehoboth Beach,
+  Delaware, reported two separate sightings of high-speed projectile-like
+  objects in September 1946 and June 1947.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0192.md,
+  page-0193.md, page-0194.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+  releaseDate: 1946-09 / 1947-06
+  officialName: 'FBI (SAC Baltimore, Director)'
+  retrievedDate: 'Fri May 08 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: 1946-09 / 1947-06
+threads:
+  - 1947-origin
+entities:
+  - Horace P. Wenyon
+  - Federal Bureau of Investigation
+  - Eastern Airlines
+  - Civil Aeronautic Authority
+  - Wilmington Delaware
+  - Rehoboth Beach Delaware
+  - Port Deposit Maryland
+  - Wilmington Morning News
 ---
 
 ## Summary

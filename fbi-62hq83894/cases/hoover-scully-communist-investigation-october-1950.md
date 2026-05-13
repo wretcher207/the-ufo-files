@@ -1,16 +1,76 @@
 ---
-title: "FBI 62-HQ-83894-253 — Hoover URGENT Teletype: Frank Scully Author Investigation, Communist Activities Vetting, October 13–31, 1950 (Director Personal Engagement, Security-Frame Interpretation, Rapid Reclassification)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/006-65_HS1-834228961_62-HQ-83894_Section_6/page-0022.md, page-0023.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf"
-mirror_url: ""
+title: >-
+  FBI 62-HQ-83894-253 — Hoover URGENT Teletype: Frank Scully Author
+  Investigation, Communist Activities Vetting, October 13–31, 1950 (Director
+  Personal Engagement, Security-Frame Interpretation, Rapid Reclassification)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf
+mirror_url: ''
 domain: cross-domain
-date_ingested: 2026-05-09
-source_date: 1950-10-13
-publisher: "Federal Bureau of Investigation / FBI Director J. Edgar Hoover"
-tags: [ufo-files-62hq83894, 1950-hoover-personal-engagement, flying-saucer-literature, counterintelligence-frame, communist-vetting, director-directive, primary-source]
-entities_mentioned: ["J. Edgar Hoover", "Frank Scully", "SAC Los Angeles", "FBI Communications Section", "FBI Senior Officials"]
+date_ingested: 2026-05-09T00:00:00.000Z
+source_date: 1950-10-13T00:00:00.000Z
+publisher: Federal Bureau of Investigation / FBI Director J. Edgar Hoover
+tags:
+  - ufo-files-62hq83894
+  - 1950-hoover-personal-engagement
+  - flying-saucer-literature
+  - counterintelligence-frame
+  - communist-vetting
+  - director-directive
+  - primary-source
+entities_mentioned:
+  - J. Edgar Hoover
+  - Frank Scully
+  - SAC Los Angeles
+  - FBI Communications Section
+  - FBI Senior Officials
 thread: 1949-50-disinfo
 significance: high
+caseId: FBI-62HQ-83894/hoover-scully-communist-investigation-october-1950
+summary: >-
+  On October 13, 1950, FBI Director J. Edgar Hoover issued an URGENT teletype to
+  the SAC Los Angeles personally directing "discreet determination" of whether
+  Frank Scully, author of the book "Behind…
+excerpt: 'On October 13, 1950, FBI Director J.'
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/006-65_HS1-834228961_62-HQ-83894_Section_6/page-0022.md,
+  page-0023.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf
+  releaseDate: '1950-10-13'
+  officialName: Federal Bureau of Investigation / FBI Director J. Edgar Hoover
+  retrievedDate: 'Fri May 08 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: high
+date: '1950-10-13'
+threads:
+  - 1949-50-disinfo
+entities:
+  - J. Edgar Hoover
+  - Frank Scully
+  - SAC Los Angeles
+  - FBI Communications Section
+  - FBI Senior Officials
+relationships:
+  - target: cabell-afoic-cc-1-multi-agency-protocol-september-1950
+    type: mentions
+    confidence: medium
+    explanation: cabell-afoic-cc-1-multi-agency-protocol-september-1950
+  - target: stanfield-lapaz-holloman-february-1950
+    type: mentions
+    confidence: medium
+    explanation: stanfield-lapaz-holloman-february-1950
+  - target: merchant-wichita-falls-patriotic-civilian-august-1948
+    type: mentions
+    confidence: medium
+    explanation: merchant-wichita-falls-patriotic-civilian-august-1948
+  - target: air-defense-command-institutional-baseline-policy-february-1948
+    type: mentions
+    confidence: medium
+    explanation: air-defense-command-institutional-baseline-policy-february-1948
 ---
 
 ## Summary

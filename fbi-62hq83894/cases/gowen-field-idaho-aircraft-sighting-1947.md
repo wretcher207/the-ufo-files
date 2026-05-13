@@ -1,16 +1,92 @@
 ---
-title: "FBI 62-HQ-83894 — David N. Johnson Gowen Field Idaho Aerial Sighting and Sworn Statement, July 6–12, 1947 (Idaho Daily Statesman Aviation Editor, 8mm Film, CIC Credibility Assessment, Brown-Davidson Joint Field Operation Confirmed)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0170.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf"
-mirror_url: ""
+title: >-
+  FBI 62-HQ-83894 — David N. Johnson Gowen Field Idaho Aerial Sighting and Sworn
+  Statement, July 6–12, 1947 (Idaho Daily Statesman Aviation Editor, 8mm Film,
+  CIC Credibility Assessment, Brown-Davidson Joint Field Operation Confirmed)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+mirror_url: ''
 domain: cross-domain
-date_ingested: 2026-05-09
-source_date: 1947-07-12
-publisher: "Federal Bureau of Investigation / U.S. Army Air Forces 4th Air Force CIC"
-tags: [ufo-files-62hq83894, 1947-idaho-sighting, david-johnson, gowen-field, aerial-sighting, 8mm-film, cic-interview, sworn-statement, frank-brown, davidson, primary-source]
-entities_mentioned: ["David N. Johnson", "James L. Brown", "Frank M. Brown", "Captain William L. Davidson", "Communicator Albertson", "Geo. L. Flaherty", "Kenneth Arnold", "S/A Frank M. Brown CIC 4th AF", "James L. Brown Idaho Daily Statesman"]
+date_ingested: 2026-05-09T00:00:00.000Z
+source_date: 1947-07-12T00:00:00.000Z
+publisher: Federal Bureau of Investigation / U.S. Army Air Forces 4th Air Force CIC
+tags:
+  - ufo-files-62hq83894
+  - 1947-idaho-sighting
+  - david-johnson
+  - gowen-field
+  - aerial-sighting
+  - 8mm-film
+  - cic-interview
+  - sworn-statement
+  - frank-brown
+  - davidson
+  - primary-source
+entities_mentioned:
+  - David N. Johnson
+  - James L. Brown
+  - Frank M. Brown
+  - Captain William L. Davidson
+  - Communicator Albertson
+  - Geo. L. Flaherty
+  - Kenneth Arnold
+  - S/A Frank M. Brown CIC 4th AF
+  - James L. Brown Idaho Daily Statesman
 thread: 1947-origin
 significance: low
+caseId: FBI-62HQ-83894/gowen-field-idaho-aircraft-sighting-1947
+summary: >-
+  Pages 168–171 of Section 2 contain the complete primary-source documentation
+  of aviation editor David N.
+excerpt: >-
+  Pages 168–171 of Section 2 contain the complete primary-source documentation
+  of aviation editor David N.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0170.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+  releaseDate: '1947-07-12'
+  officialName: Federal Bureau of Investigation / U.S. Army Air Forces 4th Air Force CIC
+  retrievedDate: 'Fri May 08 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: low
+date: '1947-07-12'
+threads:
+  - 1947-origin
+entities:
+  - David N. Johnson
+  - James L. Brown
+  - Frank M. Brown
+  - Captain William L. Davidson
+  - Communicator Albertson
+  - Geo. L. Flaherty
+  - Kenneth Arnold
+  - S/A Frank M. Brown CIC 4th AF
+  - James L. Brown Idaho Daily Statesman
+relationships:
+  - target: springer-brown-cic-cluster-pre-maury-island-1947
+    type: mentions
+    confidence: medium
+    explanation: springer-brown-cic-cluster-pre-maury-island-1947
+  - target: davidson-brown-crash-mission-report
+    type: mentions
+    confidence: medium
+    explanation: davidson-brown-crash-mission-report
+  - target: maury-island-1947
+    type: mentions
+    confidence: medium
+    explanation: maury-island-1947
+  - target: muroc-1947-cic-affidavits
+    type: mentions
+    confidence: medium
+    explanation: muroc-1947-cic-affidavits
+  - target: section-2-1947-multi-case-extension-and-wenyon-pre-roswell
+    type: mentions
+    confidence: medium
+    explanation: section-2-1947-multi-case-extension-and-wenyon-pre-roswell
 ---
 
 ## Summary

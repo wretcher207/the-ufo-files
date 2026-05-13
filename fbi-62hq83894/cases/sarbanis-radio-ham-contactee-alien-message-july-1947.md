@@ -1,16 +1,90 @@
 ---
-title: "FBI 62-HQ-83894 — Mrs. A. G. Sarbanis 'Radio Ham' Coded Alien Message Newspaper Case, July-September 1947"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0154.md, page-0155.md, page-0156.md, page-0157.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Mrs. A. G. Sarbanis 'Radio Ham' Coded Alien Message
+  Newspaper Case, July-September 1947
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-10
+date_ingested: 2026-05-10T00:00:00.000Z
 source_date: 1947-07-10 to 1947-09-17
-publisher: "Federal Bureau of Investigation / New York Office"
-tags: [fbi, 62hq83894, 1947, contactee, alien-message, coded-message, newsday, long-island, radio-ham, hoax-assessment, primary-source]
-entities_mentioned: [mrs-a-g-sarbanis, jack-altschul, newsday-newspaper, radio-ham-anonymous, stephen-m-schuster, edward-scheidt, william-a-johnson, w-v-cleveland, j-p-coyne, fcc-amateur-radio]
+publisher: Federal Bureau of Investigation / New York Office
+tags:
+  - fbi
+  - 62hq83894
+  - 1947
+  - contactee
+  - alien-message
+  - coded-message
+  - newsday
+  - long-island
+  - radio-ham
+  - hoax-assessment
+  - primary-source
+entities_mentioned:
+  - mrs-a-g-sarbanis
+  - jack-altschul
+  - newsday-newspaper
+  - radio-ham-anonymous
+  - stephen-m-schuster
+  - edward-scheidt
+  - william-a-johnson
+  - w-v-cleveland
+  - j-p-coyne
+  - fcc-amateur-radio
 thread: 1947-origin
 significance: high
+caseId: FBI-62HQ-83894/sarbanis-radio-ham-contactee-alien-message-july-1947
+summary: >-
+  FBI case file documenting Mrs. A. G. Sarbanis (Long Island, New York) who
+  reported a coded alien message that appeared in the "County Irritant" feature
+  of the *Newsday* newspaper on July 12, 1947.
+excerpt: FBI case file documenting Mrs. A. G.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0154.md,
+  page-0155.md, page-0156.md, page-0157.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: 1947-07-10 to 1947-09-17
+  officialName: Federal Bureau of Investigation / New York Office
+  retrievedDate: 'Sat May 09 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: high
+date: 1947-07-10 to 1947-09-17
+threads:
+  - 1947-origin
+entities:
+  - mrs-a-g-sarbanis
+  - jack-altschul
+  - newsday-newspaper
+  - radio-ham-anonymous
+  - stephen-m-schuster
+  - edward-scheidt
+  - william-a-johnson
+  - w-v-cleveland
+  - j-p-coyne
+  - fcc-amateur-radio
+relationships:
+  - target: government-secret-experiment-theory-august-1947
+    type: mentions
+    confidence: medium
+    explanation: government-secret-experiment-theory-august-1947
+  - target: kenneth-arnold-cascade-1947
+    type: mentions
+    confidence: medium
+    explanation: kenneth-arnold-cascade-1947
+  - target: portland-police-department-september-1947
+    type: mentions
+    confidence: medium
+    explanation: portland-police-department-september-1947
+  - target: civilian-correspondence-hoover-pattern-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: civilian-correspondence-hoover-pattern-1949-1950
 ---
 
 ## Summary

@@ -1,16 +1,115 @@
 ---
-title: "FBI 62-HQ-83894 — Kenneth Arnold Sighting Narrative, Cascade Mountains June 24, 1947 (First-Person Account, Exhibit A, Nine-Object Formation, Corroborating Witnesses Named, Yakima-Pendleton Chain)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0164.md, page-0165.md, page-0166.md, page-0167.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Kenneth Arnold Sighting Narrative, Cascade Mountains June
+  24, 1947 (First-Person Account, Exhibit A, Nine-Object Formation,
+  Corroborating Witnesses Named, Yakima-Pendleton Chain)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-09
-source_date: 1947-06-24
-publisher: "Counter Intelligence Corps (4AF CIC), Hamilton Field — Kenneth Arnold (Exhibit A, first-person typed narrative)"
-tags: [ufo-files-62hq83894, kenneth-arnold, 1947, mt-rainier, cascade-mountains, sighting-narrative, primary-source, pre-roswell, nine-objects, formation-flight, exhibit-a, cic-investigation]
-entities_mentioned: ["Kenneth Arnold", "Frank M. Brown", "4AF CIC", "Hamilton Field", "Mt. Rainier", "Mt. Adams", "Yakima Airport", "Pendleton Oregon", "Al Baxter", "Sonny Robinson", "Captain E. J. Smith", "United Air Lines", "Central Air Service", "Chehalis Washington"]
+date_ingested: 2026-05-09T00:00:00.000Z
+source_date: 1947-06-24T00:00:00.000Z
+publisher: >-
+  Counter Intelligence Corps (4AF CIC), Hamilton Field — Kenneth Arnold (Exhibit
+  A, first-person typed narrative)
+tags:
+  - ufo-files-62hq83894
+  - kenneth-arnold
+  - 1947
+  - mt-rainier
+  - cascade-mountains
+  - sighting-narrative
+  - primary-source
+  - pre-roswell
+  - nine-objects
+  - formation-flight
+  - exhibit-a
+  - cic-investigation
+entities_mentioned:
+  - Kenneth Arnold
+  - Frank M. Brown
+  - 4AF CIC
+  - Hamilton Field
+  - Mt. Rainier
+  - Mt. Adams
+  - Yakima Airport
+  - Pendleton Oregon
+  - Al Baxter
+  - Sonny Robinson
+  - Captain E. J. Smith
+  - United Air Lines
+  - Central Air Service
+  - Chehalis Washington
 thread: 1947-origin
 significance: medium
+caseId: FBI-62HQ-83894/kenneth-arnold-sighting-narrative-cascade-june-1947
+summary: >-
+  Classified CONFIDENTIAL COPY, filed as Exhibit A to CIC case 4AF-1208-I (FBI
+  serial 62-83894-95), Section 2 pages 164-167.
+excerpt: >-
+  Classified CONFIDENTIAL COPY, filed as Exhibit A to CIC case 4AF-1208-I (FBI
+  serial 62-83894-95), Section 2 pages 164-167.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0164.md,
+  page-0165.md, page-0166.md, page-0167.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1947-06-24'
+  officialName: >-
+    Counter Intelligence Corps (4AF CIC), Hamilton Field — Kenneth Arnold
+    (Exhibit A, first-person typed narrative)
+  retrievedDate: 'Fri May 08 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: >-
+  Counter Intelligence Corps (4AF CIC), Hamilton Field — Kenneth Arnold (Exhibit
+  A, first-person typed narrative)
+classification: Declassified
+confidence: medium
+date: '1947-06-24'
+threads:
+  - 1947-origin
+entities:
+  - Kenneth Arnold
+  - Frank M. Brown
+  - 4AF CIC
+  - Hamilton Field
+  - Mt. Rainier
+  - Mt. Adams
+  - Yakima Airport
+  - Pendleton Oregon
+  - Al Baxter
+  - Sonny Robinson
+  - Captain E. J. Smith
+  - United Air Lines
+  - Central Air Service
+  - Chehalis Washington
+relationships:
+  - target: kenneth-arnold-biographical-statement-1947
+    type: mentions
+    confidence: medium
+    explanation: kenneth-arnold-biographical-statement-1947
+  - target: springer-brown-cic-cluster-pre-maury-island-1947
+    type: mentions
+    confidence: medium
+    explanation: springer-brown-cic-cluster-pre-maury-island-1947
+  - target: maury-island-1947
+    type: mentions
+    confidence: medium
+    explanation: maury-island-1947
+  - target: dewayne-johnson-ucla-dissertation-arnold-second-pass-1950
+    type: mentions
+    confidence: medium
+    explanation: dewayne-johnson-ucla-dissertation-arnold-second-pass-1950
+  - target: wenyon-rehoboth-delaware-1946
+    type: mentions
+    confidence: medium
+    explanation: wenyon-rehoboth-delaware-1946
+  - target: section-2-1947-multi-case-extension-and-wenyon-pre-roswell
+    type: mentions
+    confidence: medium
+    explanation: section-2-1947-multi-case-extension-and-wenyon-pre-roswell
 ---
 
 ## Summary

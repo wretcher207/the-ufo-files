@@ -1,16 +1,92 @@
 ---
-title: "FBI 62-HQ-83894 — Government Secret Experiment Hypothesis: Fitch-Reynolds-Garrett Inter-Agency Discussion, August 19, 1947"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0126.md, page-0129.md, page-0130.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Government Secret Experiment Hypothesis:
+  Fitch-Reynolds-Garrett Inter-Agency Discussion, August 19, 1947
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-10
-source_date: 1947-08-19
-publisher: "Federal Bureau of Investigation / Liaison Section & War Department Intelligence Division"
-tags: [fbi, 62hq83894, 1947, government-experiment-hypothesis, inter-agency-coordination, air-force-intelligence, war-department, institutional-analysis, primary-source]
-entities_mentioned: [samuel-w-reynolds, lieutenant-colonel-garrett, mr-carroll, colonel-l-r-forney, general-chamberlin, d-m-ladd, e-g-fitch, air-force-intelligence, war-department-intelligence]
+date_ingested: 2026-05-10T00:00:00.000Z
+source_date: 1947-08-19T00:00:00.000Z
+publisher: >-
+  Federal Bureau of Investigation / Liaison Section & War Department
+  Intelligence Division
+tags:
+  - fbi
+  - 62hq83894
+  - 1947
+  - government-experiment-hypothesis
+  - inter-agency-coordination
+  - air-force-intelligence
+  - war-department
+  - institutional-analysis
+  - primary-source
+entities_mentioned:
+  - samuel-w-reynolds
+  - lieutenant-colonel-garrett
+  - mr-carroll
+  - colonel-l-r-forney
+  - general-chamberlin
+  - d-m-ladd
+  - e-g-fitch
+  - air-force-intelligence
+  - war-department-intelligence
 thread: 1947-origin
 significance: high
+caseId: FBI-62HQ-83894/government-secret-experiment-theory-august-1947
+summary: >-
+  FBI internal memorandum dated August 19, 1947 (FBI serial 62-83894-86)
+  documenting a high-level inter-agency discussion between FBI Liaison Section
+  and Air Force Intelligence leadership regarding the…
+excerpt: >-
+  S. Government experiments conducted by the Army or Navy. The discussion
+  involves Special Agent S.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0126.md,
+  page-0129.md, page-0130.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1947-08-19'
+  officialName: >-
+    Federal Bureau of Investigation / Liaison Section & War Department
+    Intelligence Division
+  retrievedDate: 'Sat May 09 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: high
+date: '1947-08-19'
+threads:
+  - 1947-origin
+entities:
+  - samuel-w-reynolds
+  - lieutenant-colonel-garrett
+  - mr-carroll
+  - colonel-l-r-forney
+  - general-chamberlin
+  - d-m-ladd
+  - e-g-fitch
+  - air-force-intelligence
+  - war-department-intelligence
+relationships:
+  - target: kenneth-arnold-cascade-1947
+    type: mentions
+    confidence: medium
+    explanation: kenneth-arnold-cascade-1947
+  - target: hatfield-ellison-myrtle-creek-1947
+    type: mentions
+    confidence: medium
+    explanation: hatfield-ellison-myrtle-creek-1947
+  - target: project-grudge-vital-installations-1948-1949
+    type: mentions
+    confidence: medium
+    explanation: project-grudge-vital-installations-1948-1949
+  - target: la-paz-seventh-report-cabell-directive-twinkle
+    type: mentions
+    confidence: medium
+    explanation: la-paz-seventh-report-cabell-directive-twinkle
 ---
 
 ## Summary

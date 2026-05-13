@@ -1,16 +1,145 @@
 ---
-title: "FBI 62-HQ-83894 — Lincoln La Paz Anomalous Luminous Phenomena Seventh Report (May 23, 1950), the Cabell USAF Reporting Directive (Sept 8, 1950), Project Twinkle, and the Datil Stanfield Photograph"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/006-65_HS1-834228961_62-HQ-83894_Section_6/page-0010.md, page-0011.md, page-0012.md, page-0013.md, page-0024.md, page-0025.md, page-0026.md, page-0027.md, page-0028.md, page-0029.md, page-0030.md, page-0031.md, page-0033.md, page-0034.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Lincoln La Paz Anomalous Luminous Phenomena Seventh Report
+  (May 23, 1950), the Cabell USAF Reporting Directive (Sept 8, 1950), Project
+  Twinkle, and the Datil Stanfield Photograph
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1950-05-23
-publisher: "FBI / U.S. Department of Justice"
-tags: [fbi, 62-hq-83894, la-paz-seventh-report, project-twinkle, cabell-directive, kaplan, von-karman, teller, fred-whipple, peter-millman, wyckoff, datil-stanfield-photograph, kirtland-osi, primary-source]
-entities_mentioned: [lincoln-la-paz, doyle-rees, c-p-cabell, joseph-f-carroll, anthony-o-mirarchi, joseph-kaplan, theodore-von-karman, edward-teller, p-h-wyckoff, fred-whipple, peter-m-millman, l-a-manning, william-crozier, lertis-e-stanfield, j-edgar-hoover, project-twinkle, kirtland-air-force-base, holloman-air-force-base, sandia-base, los-alamos-laboratory, institute-of-meteoritics, dominion-observatory, harvard-college-observatory]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1950-05-23T00:00:00.000Z
+publisher: FBI / U.S. Department of Justice
+tags:
+  - fbi
+  - 62-hq-83894
+  - la-paz-seventh-report
+  - project-twinkle
+  - cabell-directive
+  - kaplan
+  - von-karman
+  - teller
+  - fred-whipple
+  - peter-millman
+  - wyckoff
+  - datil-stanfield-photograph
+  - kirtland-osi
+  - primary-source
+entities_mentioned:
+  - lincoln-la-paz
+  - doyle-rees
+  - c-p-cabell
+  - joseph-f-carroll
+  - anthony-o-mirarchi
+  - joseph-kaplan
+  - theodore-von-karman
+  - edward-teller
+  - p-h-wyckoff
+  - fred-whipple
+  - peter-m-millman
+  - l-a-manning
+  - william-crozier
+  - lertis-e-stanfield
+  - j-edgar-hoover
+  - project-twinkle
+  - kirtland-air-force-base
+  - holloman-air-force-base
+  - sandia-base
+  - los-alamos-laboratory
+  - institute-of-meteoritics
+  - dominion-observatory
+  - harvard-college-observatory
 thread: 1949-50-disinfo
 significance: medium
+caseId: FBI-62HQ-83894/la-paz-seventh-report-cabell-directive-twinkle
+summary: >-
+  Section 6 of 62-HQ-83894 contains the most substantive scientific document in
+  the entire archive read so far: **Dr.
+excerpt: >-
+  Section 6 of 62-HQ-83894 contains the most substantive scientific document in
+  the entire archive read so far: **Dr. Lincoln La Paz's "Anomalous Luminous
+  Phenomena (Seventh Report)"** of May 23, 1950, written from the University of
+  New Mexico Institute of Meteoritics to Lt.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/006-65_HS1-834228961_62-HQ-83894_Section_6/page-0010.md,
+  page-0011.md, page-0012.md, page-0013.md, page-0024.md, page-0025.md,
+  page-0026.md, page-0027.md, page-0028.md, page-0029.md, page-0030.md,
+  page-0031.md, page-0033.md, page-0034.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1950-05-23'
+  officialName: FBI / U.S. Department of Justice
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1950-05-23'
+threads:
+  - 1949-50-disinfo
+entities:
+  - lincoln-la-paz
+  - doyle-rees
+  - c-p-cabell
+  - joseph-f-carroll
+  - anthony-o-mirarchi
+  - joseph-kaplan
+  - theodore-von-karman
+  - edward-teller
+  - p-h-wyckoff
+  - fred-whipple
+  - peter-m-millman
+  - l-a-manning
+  - william-crozier
+  - lertis-e-stanfield
+  - j-edgar-hoover
+  - project-twinkle
+  - kirtland-air-force-base
+  - holloman-air-force-base
+  - sandia-base
+  - los-alamos-laboratory
+  - institute-of-meteoritics
+  - dominion-observatory
+  - harvard-college-observatory
+relationships:
+  - target: project-grudge-vital-installations-1948-1949
+    type: mentions
+    confidence: medium
+    explanation: project-grudge-vital-installations-1948-1949
+  - target: oak-ridge-gasser-atomic-propulsion-1947-1949
+    type: mentions
+    confidence: medium
+    explanation: oak-ridge-gasser-atomic-propulsion-1947-1949
+  - target: rhodes-phoenix-photographs-1947
+    type: mentions
+    confidence: medium
+    explanation: rhodes-phoenix-photographs-1947
+  - target: maury-island-1947
+    type: mentions
+    confidence: medium
+    explanation: maury-island-1947
+  - target: muroc-1947-cic-affidavits
+    type: mentions
+    confidence: medium
+    explanation: muroc-1947-cic-affidavits
+  - target: 1947-california-montana-cic
+    type: mentions
+    confidence: medium
+    explanation: 1947-california-montana-cic
+  - target: davidson-brown-crash-mission-report
+    type: mentions
+    confidence: medium
+    explanation: davidson-brown-crash-mission-report
+  - target: philadelphia-1950-soap-suds-disc
+    type: mentions
+    confidence: medium
+    explanation: philadelphia-1950-soap-suds-disc
+  - target: uap-disclosure
+    type: mentions
+    confidence: medium
+    explanation: UAP disclosure (concept)
 ---
 
 ## Summary

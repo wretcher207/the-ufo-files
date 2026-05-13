@@ -1,16 +1,77 @@
 ---
-title: "FBI 62-HQ-83894 — Portland Oregon Police Department Multi-Witness Cluster, September 11, 1947 (Chief of Police Leon V. Jenkins, Government Witnesses, Citywide Coordination, Newspaper Corroboration)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0002.md, page-0004.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf"
-mirror_url: ""
+title: >-
+  FBI 62-HQ-83894 — Portland Oregon Police Department Multi-Witness Cluster,
+  September 11, 1947 (Chief of Police Leon V. Jenkins, Government Witnesses,
+  Citywide Coordination, Newspaper Corroboration)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf
+mirror_url: ''
 domain: cross-domain
-date_ingested: 2026-05-09
-source_date: 1947-09-11
-publisher: "FBI (SAC Portland)"
-tags: [ufo-files-62hq83894, 1947-post-roswell, government-witnesses, police-chief, multi-observer, citywide-dispatch, newspaper-corroboration, oregon-portland, primary-source]
-entities_mentioned: ["Leon V. Jenkins", "H.S. Raney", "Robert D. Adair", "J. R. Caldwell", "Robert W. Shaylor", "Donald W. Cowling", "Portland Police Department", "Portland Oregon", "Federal Bureau of Investigation", "The Oregonian", "SAC Portland"]
+date_ingested: 2026-05-09T00:00:00.000Z
+source_date: 1947-09-11T00:00:00.000Z
+publisher: FBI (SAC Portland)
+tags:
+  - ufo-files-62hq83894
+  - 1947-post-roswell
+  - government-witnesses
+  - police-chief
+  - multi-observer
+  - citywide-dispatch
+  - newspaper-corroboration
+  - oregon-portland
+  - primary-source
+entities_mentioned:
+  - Leon V. Jenkins
+  - H.S. Raney
+  - Robert D. Adair
+  - J. R. Caldwell
+  - Robert W. Shaylor
+  - Donald W. Cowling
+  - Portland Police Department
+  - Portland Oregon
+  - Federal Bureau of Investigation
+  - The Oregonian
+  - SAC Portland
 thread: 1947-origin
 significance: low
+caseId: FBI-62HQ-83894/portland-police-department-september-1947
+summary: >-
+  On September 11, 1947, at approximately 5:21–5:30 PM, the Portland, Oregon
+  Police Department received multiple reports of an unidentified object in
+  flight over the city.
+excerpt: >-
+  On September 11, 1947, at approximately 5:21–5:30 PM, the Portland, Oregon
+  Police Department received multiple reports of an unidentified object in
+  flight over the city. The first report came from officers in District 18
+  (Robert D. Adair and J.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0002.md,
+  page-0004.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf
+  releaseDate: '1947-09-11'
+  officialName: FBI (SAC Portland)
+  retrievedDate: 'Fri May 08 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: low
+date: '1947-09-11'
+threads:
+  - 1947-origin
+entities:
+  - Leon V. Jenkins
+  - H.S. Raney
+  - Robert D. Adair
+  - J. R. Caldwell
+  - Robert W. Shaylor
+  - Donald W. Cowling
+  - Portland Police Department
+  - Portland Oregon
+  - Federal Bureau of Investigation
+  - The Oregonian
+  - SAC Portland
 ---
 
 ## Summary

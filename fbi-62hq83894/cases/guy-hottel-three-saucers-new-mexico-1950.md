@@ -1,16 +1,94 @@
 ---
-title: "FBI 62-HQ-83894 — The Guy Hottel 'Three Saucers Recovered in New Mexico' Memo, March 22, 1950 (FBI Serial 162-83894-209)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0068.md, page-0067.md, page-0069.md, page-0070.md, page-0071.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — The Guy Hottel 'Three Saucers Recovered in New Mexico' Memo,
+  March 22, 1950 (FBI Serial 162-83894-209)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1950-03-22
-publisher: "FBI / U.S. Department of Justice"
-tags: [fbi, 62-hq-83894, hottel-memo, three-saucers, new-mexico, fbi-vault, popular-culture, sa-kurtzman, primary-source]
-entities_mentioned: [guy-hottel, r-h-kurtzman, karl-howe, j-edgar-hoover, washington-field-office, metropolitan-police-department, sex-squad]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1950-03-22T00:00:00.000Z
+publisher: FBI / U.S. Department of Justice
+tags:
+  - fbi
+  - 62-hq-83894
+  - hottel-memo
+  - three-saucers
+  - new-mexico
+  - fbi-vault
+  - popular-culture
+  - sa-kurtzman
+  - primary-source
+entities_mentioned:
+  - guy-hottel
+  - r-h-kurtzman
+  - karl-howe
+  - j-edgar-hoover
+  - washington-field-office
+  - metropolitan-police-department
+  - sex-squad
 thread: 1949-50-disinfo
 significance: high
+caseId: FBI-62HQ-83894/guy-hottel-three-saucers-new-mexico-1950
+summary: >-
+  The Guy Hottel memo of March 22, 1950 is the single most-downloaded document
+  on the FBI Vault, frequently cited in popular UFO culture as proof "the FBI
+  confirmed alien bodies recovered in New…
+excerpt: >-
+  " It now appears in primary OCR'd form in 62-HQ-83894 Section 5 page 68, FBI
+  serial 162-83894-209, stamped received March 23, 1950. The actual document
+  context, read in the file as released by PURSUE on 2026-05-08, is the opposite
+  of the popular reading.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0068.md,
+  page-0067.md, page-0069.md, page-0070.md, page-0071.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1950-03-22'
+  officialName: FBI / U.S. Department of Justice
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: high
+date: '1950-03-22'
+threads:
+  - 1949-50-disinfo
+entities:
+  - guy-hottel
+  - r-h-kurtzman
+  - karl-howe
+  - j-edgar-hoover
+  - washington-field-office
+  - metropolitan-police-department
+  - sex-squad
+relationships:
+  - target: stuart-adcock-oak-ridge-march-1950
+    type: mentions
+    confidence: medium
+    explanation: stuart-adcock-oak-ridge-march-1950
+  - target: pervier-tulsa-fbi-agent-corroboration-1950
+    type: mentions
+    confidence: medium
+    explanation: pervier-tulsa-fbi-agent-corroboration-1950
+  - target: cuneo-jones-winchell-followup-1949
+    type: mentions
+    confidence: medium
+    explanation: cuneo-jones-winchell-followup-1949
+  - target: civilian-correspondence-hoover-pattern-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: civilian-correspondence-hoover-pattern-1949-1950
+  - target: belmont-twinkle-master-memo-osi-log-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: belmont-twinkle-master-memo-osi-log-1949-1950
+  - target: uap-disclosure
+    type: mentions
+    confidence: medium
+    explanation: UAP disclosure (concept)
 ---
 
 ## Summary

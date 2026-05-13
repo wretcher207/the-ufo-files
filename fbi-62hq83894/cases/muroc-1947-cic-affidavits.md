@@ -1,16 +1,98 @@
 ---
-title: "FBI 62-HQ-83894 — Muroc Army Air Field CIC Affidavits, July 7–8, 1947 (Gilkey, Shoop, McHenry, Ruvolo, Scott, Robinson, Wise, Stapp)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/003-65_HS1-834228961_62-HQ-83894_Section_3/page-0063.md, page-0064.md, page-0065.md, page-0066.md, page-0067.md, page-0068.md, page-0069.md, page-0070.md, page-0071.md, page-0072.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Muroc Army Air Field CIC Affidavits, July 7–8, 1947 (Gilkey,
+  Shoop, McHenry, Ruvolo, Scott, Robinson, Wise, Stapp)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1947-07-08
-publisher: "Counter Intelligence Corps (CIC), Muroc Army Air Field / 4144th AAFBU"
-tags: [ufo, uap, pursue, fbi, 62-hq-83894, muroc, edwards-afb, 1947, primary-source, john-paul-stapp, cic-affidavits, roswell-era]
-entities_mentioned: [pursue-program, aaro, fbi]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1947-07-08T00:00:00.000Z
+publisher: 'Counter Intelligence Corps (CIC), Muroc Army Air Field / 4144th AAFBU'
+tags:
+  - ufo
+  - uap
+  - pursue
+  - fbi
+  - 62-hq-83894
+  - muroc
+  - edwards-afb
+  - 1947
+  - primary-source
+  - john-paul-stapp
+  - cic-affidavits
+  - roswell-era
+entities_mentioned:
+  - pursue-program
+  - aaro
+  - fbi
 thread: 1947-origin
 significance: medium
+caseId: FBI-62HQ-83894/muroc-1947-cic-affidavits
+summary: >-
+  Buried inside FBI 62-HQ-83894 Section 3 (pages 63–72) is a cluster of **nine
+  sworn CIC affidavits from Muroc Army Air Field (now Edwards AFB)**, covering
+  UAP observations on **July 7 and July 8,…
+excerpt: >-
+  Buried inside FBI 62-HQ-83894 Section 3 (pages 63–72) is a cluster of **nine
+  sworn CIC affidavits from Muroc Army Air Field (now Edwards AFB)**, covering
+  UAP observations on **July 7 and July 8, 1947** — the same week as the Roswell
+  event, two weeks after Kenneth Arnold's June 24 sighting.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/003-65_HS1-834228961_62-HQ-83894_Section_3/page-0063.md,
+  page-0064.md, page-0065.md, page-0066.md, page-0067.md, page-0068.md,
+  page-0069.md, page-0070.md, page-0071.md, page-0072.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1947-07-08'
+  officialName: 'Counter Intelligence Corps (CIC), Muroc Army Air Field / 4144th AAFBU'
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1947-07-08'
+threads:
+  - 1947-origin
+entities:
+  - pursue-program
+  - aaro
+  - fbi
+relationships:
+  - target: maury-island-1947
+    type: mentions
+    confidence: medium
+    explanation: maury-island-1947
+  - target: davidson-brown-crash-mission-report
+    type: mentions
+    confidence: medium
+    explanation: davidson-brown-crash-mission-report
+  - target: philadelphia-1950-soap-suds-disc
+    type: mentions
+    confidence: medium
+    explanation: philadelphia-1950-soap-suds-disc
+  - target: 1947-california-montana-cic
+    type: mentions
+    confidence: medium
+    explanation: 1947-california-montana-cic
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
+  - target: department-of-war
+    type: mentions
+    confidence: medium
+    explanation: Department of War
+  - target: uap-disclosure
+    type: mentions
+    confidence: medium
+    explanation: UAP disclosure (concept)
 ---
 
 ## Summary

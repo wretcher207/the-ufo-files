@@ -1,3 +1,10 @@
+---
+caseId: FBI-62HQ-83894/fitch-ladd-institutional-memo-flying-discs-august-1947
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+---
 ## [2026-05-09] ingest | 62-HQ-83894 case mining — pass 35 cases 13-14: FBI Institutional Memo and Gowen Field Aircraft Sighting (Section 2, August 1947)
 
 ### Source pages created (2)

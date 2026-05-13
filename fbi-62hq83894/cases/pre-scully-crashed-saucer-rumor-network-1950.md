@@ -1,16 +1,112 @@
 ---
-title: "FBI 62-HQ-83894 — The Pre-Scully Crashed-Saucer Rumor Network in 1950 Bureau Primary Sources: Wyandotte Echo / Rudy Fick / Coulter (January) + Silas Newton / George Koehler / Mojave Disc (March) + Jim Barden Trick-Photograph (March)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0044.md, page-0045.md, page-0076.md, page-0077.md, page-0078.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — The Pre-Scully Crashed-Saucer Rumor Network in 1950 Bureau
+  Primary Sources: Wyandotte Echo / Rudy Fick / Coulter (January) + Silas Newton
+  / George Koehler / Mojave Disc (March) + Jim Barden Trick-Photograph (March)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1950-01-16
-publisher: "USAF OSI District 13 (Offutt AFB) / FBI New Orleans / FBI Albuquerque"
-tags: [ufo, uap, pursue, fbi, 62-hq-83894, 1950, primary-source, pre-scully, crashed-saucer, rudy-fick, coulter, silas-newton, george-koehler, frank-scully-source, wyandotte-echo, mojave-disc, jim-barden, trick-photograph, secret-priority, osi]
-entities_mentioned: [pursue-program, aaro, fbi, frank-scully, silas-newton, donald-keyhoe]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1950-01-16T00:00:00.000Z
+publisher: USAF OSI District 13 (Offutt AFB) / FBI New Orleans / FBI Albuquerque
+tags:
+  - ufo
+  - uap
+  - pursue
+  - fbi
+  - 62-hq-83894
+  - 1950
+  - primary-source
+  - pre-scully
+  - crashed-saucer
+  - rudy-fick
+  - coulter
+  - silas-newton
+  - george-koehler
+  - frank-scully-source
+  - wyandotte-echo
+  - mojave-disc
+  - jim-barden
+  - trick-photograph
+  - secret-priority
+  - osi
+entities_mentioned:
+  - pursue-program
+  - aaro
+  - fbi
+  - frank-scully
+  - silas-newton
+  - donald-keyhoe
 thread: 1949-50-disinfo
 significance: medium
+caseId: FBI-62HQ-83894/pre-scully-crashed-saucer-rumor-network-1950
+summary: >-
+  Three cases filed in Section 5 of FBI 62-HQ-83894 between January 16 and March
+  31, 1950 document the **upstream Bureau-and-OSI primary-source record of the
+  crashed-saucer rumor network that Frank…
+excerpt: >-
+  Three cases filed in Section 5 of FBI 62-HQ-83894 between January 16 and March
+  31, 1950 document the **upstream Bureau-and-OSI primary-source record of the
+  crashed-saucer rumor network that Frank Scully would commercialize in his
+  September 1950 book *Behind the Flying Saucers* (Henry Holt)**.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0044.md,
+  page-0045.md, page-0076.md, page-0077.md, page-0078.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1950-01-16'
+  officialName: USAF OSI District 13 (Offutt AFB) / FBI New Orleans / FBI Albuquerque
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1950-01-16'
+threads:
+  - 1949-50-disinfo
+entities:
+  - pursue-program
+  - aaro
+  - fbi
+  - frank-scully
+  - silas-newton
+  - donald-keyhoe
+relationships:
+  - target: guy-hottel-three-saucers-new-mexico-1950
+    type: mentions
+    confidence: medium
+    explanation: guy-hottel-three-saucers-new-mexico-1950
+  - target: frank-scully-communist-teletype-october-1950
+    type: mentions
+    confidence: medium
+    explanation: frank-scully-communist-teletype-october-1950
+  - target: d3-briefing-halfery-mister-x-may-1950
+    type: mentions
+    confidence: medium
+    explanation: d3-briefing-halfery-mister-x-may-1950
+  - target: hixenbaugh-photographs-petrone-informant-1950
+    type: mentions
+    confidence: medium
+    explanation: hixenbaugh-photographs-petrone-informant-1950
+  - target: civilian-correspondence-hoover-pattern-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: civilian-correspondence-hoover-pattern-1949-1950
+  - target: dewayne-johnson-ucla-dissertation-arnold-second-pass-1950
+    type: mentions
+    confidence: medium
+    explanation: dewayne-johnson-ucla-dissertation-arnold-second-pass-1950
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
 ---
 
 ## Summary

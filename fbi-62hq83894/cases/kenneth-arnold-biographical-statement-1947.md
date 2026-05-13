@@ -1,16 +1,109 @@
 ---
-title: "FBI 62-HQ-83894 — Kenneth Arnold Biographical Statement, 1947 (SOME LIFE DATA ON KENNETH ARNOLD — Eagle Scout, Olympic Diving Trials, Fire Control Engineer, 1,000-Hour Mountain Pilot)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0163.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Kenneth Arnold Biographical Statement, 1947 (SOME LIFE DATA
+  ON KENNETH ARNOLD — Eagle Scout, Olympic Diving Trials, Fire Control Engineer,
+  1,000-Hour Mountain Pilot)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-09
-source_date: 1947-07-12
-publisher: "Counter Intelligence Corps (4AF CIC), Hamilton Field — Kenneth Arnold (first-person typed statement)"
-tags: [ufo-files-62hq83894, kenneth-arnold, 1947, biographical, pilot-credibility, cic-investigation, primary-source, eagle-scout, callair, fire-control-engineer, pre-roswell]
-entities_mentioned: ["Kenneth Arnold", "Frank M. Brown", "4AF CIC", "Hamilton Field", "Great Western Fire Control Supply", "Red Comet Inc.", "University of Minnesota", "Earl T. Vance", "Ed Leach", "Roland C. Arnold", "Burton K. Wheeler", "Bernie Bierman", "Glenn L. Jarrett", "Neils Thorpe"]
+date_ingested: 2026-05-09T00:00:00.000Z
+source_date: 1947-07-12T00:00:00.000Z
+publisher: >-
+  Counter Intelligence Corps (4AF CIC), Hamilton Field — Kenneth Arnold
+  (first-person typed statement)
+tags:
+  - ufo-files-62hq83894
+  - kenneth-arnold
+  - 1947
+  - biographical
+  - pilot-credibility
+  - cic-investigation
+  - primary-source
+  - eagle-scout
+  - callair
+  - fire-control-engineer
+  - pre-roswell
+entities_mentioned:
+  - Kenneth Arnold
+  - Frank M. Brown
+  - 4AF CIC
+  - Hamilton Field
+  - Great Western Fire Control Supply
+  - Red Comet Inc.
+  - University of Minnesota
+  - Earl T. Vance
+  - Ed Leach
+  - Roland C. Arnold
+  - Burton K. Wheeler
+  - Bernie Bierman
+  - Glenn L. Jarrett
+  - Neils Thorpe
 thread: 1947-origin
 significance: medium
+caseId: FBI-62HQ-83894/kenneth-arnold-biographical-statement-1947
+summary: >-
+  Classified CONFIDENTIAL COPY, filed as Enclosure to CIC case 4AF-1208-I (FBI
+  serial 62-83894-95), Section 2 page 163.
+excerpt: >-
+  Classified CONFIDENTIAL COPY, filed as Enclosure to CIC case 4AF-1208-I (FBI
+  serial 62-83894-95), Section 2 page 163. A first-person typed autobiographical
+  statement by Kenneth Arnold, titled "SOME LIFE DATA ON KENNETH ARNOLD,"
+  submitted to 4AF CIC Special Agent Frank M.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0163.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1947-07-12'
+  officialName: >-
+    Counter Intelligence Corps (4AF CIC), Hamilton Field — Kenneth Arnold
+    (first-person typed statement)
+  retrievedDate: 'Fri May 08 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: State Department
+classification: Declassified
+confidence: medium
+date: '1947-07-12'
+threads:
+  - 1947-origin
+entities:
+  - Kenneth Arnold
+  - Frank M. Brown
+  - 4AF CIC
+  - Hamilton Field
+  - Great Western Fire Control Supply
+  - Red Comet Inc.
+  - University of Minnesota
+  - Earl T. Vance
+  - Ed Leach
+  - Roland C. Arnold
+  - Burton K. Wheeler
+  - Bernie Bierman
+  - Glenn L. Jarrett
+  - Neils Thorpe
+relationships:
+  - target: springer-brown-cic-cluster-pre-maury-island-1947
+    type: mentions
+    confidence: medium
+    explanation: springer-brown-cic-cluster-pre-maury-island-1947
+  - target: kenneth-arnold-sighting-narrative-cascade-june-1947
+    type: mentions
+    confidence: medium
+    explanation: kenneth-arnold-sighting-narrative-cascade-june-1947
+  - target: maury-island-1947
+    type: mentions
+    confidence: medium
+    explanation: maury-island-1947
+  - target: dewayne-johnson-ucla-dissertation-arnold-second-pass-1950
+    type: mentions
+    confidence: medium
+    explanation: dewayne-johnson-ucla-dissertation-arnold-second-pass-1950
+  - target: wenyon-rehoboth-delaware-1946
+    type: mentions
+    confidence: medium
+    explanation: wenyon-rehoboth-delaware-1946
 ---
 
 ## Summary

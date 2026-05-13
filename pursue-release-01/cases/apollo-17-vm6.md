@@ -1,16 +1,62 @@
 ---
-title: "NASA-UAP-VM6 — Apollo 17 Triangular Formation Photo (Dec 1972)"
-source: "raw/_ingested/2026-05-08-PURSUE-Release-01-Full-Inventory.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm6-apollo-17-1972.jpg"
+title: NASA-UAP-VM6 — Apollo 17 Triangular Formation Photo (Dec 1972)
+origin_url: 'https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm6-apollo-17-1972.jpg'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 2026-05-08
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 2026-05-08T00:00:00.000Z
 case_date: 1972-12
-publisher: "PURSUE / Department of War / NASA"
-tags: [ufo, uap, apollo-17, nasa, primary-source, smoking-gun, lunar-surface, pursue]
-entities_mentioned: [pursue-program, aaro, department-of-war]
+publisher: PURSUE / Department of War / NASA
+tags:
+  - ufo
+  - uap
+  - apollo-17
+  - nasa
+  - primary-source
+  - smoking-gun
+  - lunar-surface
+  - pursue
+entities_mentioned:
+  - pursue-program
+  - aaro
+  - department-of-war
 thread: pursue-2026
 significance: high
+caseId: PURSUE-01/apollo-17-vm6
+summary: >-
+  The closest thing to a smoking gun in PURSUE Release 01. Single archival photo
+  from the Apollo 17 lunar surface (December 1972) showing three dots in a
+  triangular formation in the lower right…
+excerpt: >-
+  The closest thing to a smoking gun in PURSUE Release 01. Single archival photo
+  from the Apollo 17 lunar surface (December 1972) showing three dots in a
+  triangular formation in the lower right quadrant of the lunar sky, visible
+  upon magnification.
+sourcePath: raw/_ingested/2026-05-08-PURSUE-Release-01-Full-Inventory.md
+source:
+  officialUrl: 'https://www.war.gov/medialink/ufo/release_1/nasa-uap-vm6-apollo-17-1972.jpg'
+  releaseDate: '2026-05-08'
+  officialName: PURSUE / Department of War / NASA
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: PURSUE
+classification: Declassified
+confidence: high
+date: 1972-12
+threads:
+  - pursue-2026
+entities:
+  - pursue-program
+  - aaro
+  - department-of-war
+relationships:
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
 ---
 
 ## Summary

@@ -1,9 +1,26 @@
 ---
-title: "UAP Disclosure"
+title: UAP Disclosure
 domain: cross-domain
 source_count: 7
-last_updated: 2026-05-08
-tags: [uap, ufo, disclosure, declassification, evidentiary-standards, government-transparency]
+last_updated: 2026-05-08T00:00:00.000Z
+tags:
+  - uap
+  - ufo
+  - disclosure
+  - declassification
+  - evidentiary-standards
+  - government-transparency
+caseId: ENTITY/uap-disclosure
+summary: >-
+  The multi-decade public-policy effort to declassify and release government
+  records on Unidentified Anomalous Phenomena (UAP), formerly Unidentified
+  Flying Objects (UFOs).
+excerpt: >-
+  The multi-decade public-policy effort to declassify and release government
+  records on Unidentified Anomalous Phenomena (UAP), formerly Unidentified
+  Flying Objects (UFOs). The May 8, 2026 PURSUE tranche is the latest, largest,
+  and most coordinated installment.
+nodeType: person
 ---
 
 ## What It Is

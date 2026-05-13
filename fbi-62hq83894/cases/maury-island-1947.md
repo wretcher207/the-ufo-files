@@ -1,16 +1,81 @@
 ---
-title: "FBI 62-HQ-83894 — The Maury Island Incident as Documented Inside the Bureau (July–August 1947)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0142.md, page-0146.md; raw/_ingested/.../003-65_HS1-834228961_62-HQ-83894_Section_3/page-0031.md; raw/_ingested/.../002-65_HS1-834228961_62-HQ-83894_Section_2/page-0050.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — The Maury Island Incident as Documented Inside the Bureau
+  (July–August 1947)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1947-08-12
-publisher: "FBI / U.S. Department of Justice"
-tags: [ufo, uap, pursue, fbi, 62-hq-83894, maury-island, kenneth-arnold, 1947, primary-source, hoax]
-entities_mentioned: [pursue-program, aaro, fbi]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1947-08-12T00:00:00.000Z
+publisher: FBI / U.S. Department of Justice
+tags:
+  - ufo
+  - uap
+  - pursue
+  - fbi
+  - 62-hq-83894
+  - maury-island
+  - kenneth-arnold
+  - 1947
+  - primary-source
+  - hoax
+entities_mentioned:
+  - pursue-program
+  - aaro
+  - fbi
 thread: 1947-origin
 significance: high
+caseId: FBI-62HQ-83894/maury-island-1947
+summary: >-
+  The PURSUE Release 01 publication of FBI file 62-HQ-83894 (Sections 2–6 and
+  10) makes the Bureau's own contemporaneous July–August 1947 paper trail on the
+  **Maury Island incident** publicly…
+excerpt: >-
+  The PURSUE Release 01 publication of FBI file 62-HQ-83894 (Sections 2–6 and
+  10) makes the Bureau's own contemporaneous July–August 1947 paper trail on the
+  **Maury Island incident** publicly machine-readable for the first time. The
+  case has been written about for seventy years from second-hand sources.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0142.md,
+  page-0146.md;
+  raw/_ingested/.../003-65_HS1-834228961_62-HQ-83894_Section_3/page-0031.md;
+  raw/_ingested/.../002-65_HS1-834228961_62-HQ-83894_Section_2/page-0050.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1947-08-12'
+  officialName: FBI / U.S. Department of Justice
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: high
+date: '1947-08-12'
+threads:
+  - 1947-origin
+entities:
+  - pursue-program
+  - aaro
+  - fbi
+relationships:
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
+  - target: department-of-war
+    type: mentions
+    confidence: medium
+    explanation: Department of War
+  - target: uap-disclosure
+    type: mentions
+    confidence: medium
+    explanation: UAP disclosure (concept)
 ---
 
 ## Summary

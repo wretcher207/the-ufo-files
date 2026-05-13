@@ -1,16 +1,72 @@
 ---
-title: "USPER Statement — Super-Hot Orb, Helicopter Pursuit, US Military Facility (Late 2025)"
-source: "raw/_ingested/2026-05-08-PURSUE-Release-01-Full-Inventory.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/usper-statement-redacted.pdf"
+title: >-
+  USPER Statement — Super-Hot Orb, Helicopter Pursuit, US Military Facility
+  (Late 2025)
+origin_url: 'https://www.war.gov/medialink/ufo/release_1/usper-statement-redacted.pdf'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 2026-05-08
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 2026-05-08T00:00:00.000Z
 case_date: 2025-late
-publisher: "PURSUE / FBI"
-tags: [ufo, uap, fbi-302, usper, intelligence-official, primary-source, helicopter-pursuit, orb, pursue]
-entities_mentioned: [pursue-program, aaro, fbi]
+publisher: PURSUE / FBI
+tags:
+  - ufo
+  - uap
+  - fbi-302
+  - usper
+  - intelligence-official
+  - primary-source
+  - helicopter-pursuit
+  - orb
+  - pursue
+entities_mentioned:
+  - pursue-program
+  - aaro
+  - fbi
 thread: pursue-2026
 significance: high
+caseId: PURSUE-01/usper-statement
+summary: >-
+  FBI 302 interview with a senior US intelligence official ("USPER") describing
+  a first-hand UAP encounter at a US military facility in late 2025.
+excerpt: >-
+  FBI 302 interview with a senior US intelligence official ("USPER") describing
+  a first-hand UAP encounter at a US military facility in late 2025. The most
+  consequential single-witness item in PURSUE Release 01 by witness rank,
+  behavior described, and durational complexity. Almost no breakout coverage.
+sourcePath: raw/_ingested/2026-05-08-PURSUE-Release-01-Full-Inventory.md
+source:
+  officialUrl: 'https://www.war.gov/medialink/ufo/release_1/usper-statement-redacted.pdf'
+  releaseDate: '2026-05-08'
+  officialName: PURSUE / FBI
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: high
+date: 2025-late
+threads:
+  - pursue-2026
+entities:
+  - pursue-program
+  - aaro
+  - fbi
+relationships:
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
+  - target: bronze-ellipsoid
+    type: mentions
+    confidence: medium
+    explanation: Bronze Ellipsoid (Sept 2023)
+  - target: orbs-launching-orbs
+    type: mentions
+    confidence: medium
+    explanation: Western US orbs launching orbs
 ---
 
 ## Summary

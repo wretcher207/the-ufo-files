@@ -1,16 +1,102 @@
 ---
-title: "FBI 62-HQ-83894-94 — Mrs. A. Sarbanis 'Radio Ham' Newsday Coded Message Witness Follow-Up: FBI Laboratory Decoding, New York Field Investigation, FCC Amateur Radio Records, City Editor Editorial Judgment as Disposition Authority, September 17, 1947"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0157.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf"
-mirror_url: ""
+title: >-
+  FBI 62-HQ-83894-94 — Mrs. A. Sarbanis 'Radio Ham' Newsday Coded Message
+  Witness Follow-Up: FBI Laboratory Decoding, New York Field Investigation, FCC
+  Amateur Radio Records, City Editor Editorial Judgment as Disposition
+  Authority, September 17, 1947
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+mirror_url: ''
 domain: cross-domain
-date_ingested: 2026-05-09
-source_date: 1947-09-17
-publisher: "Federal Bureau of Investigation / W. V. Cleveland, to J. P. Coyne"
-tags: [ufo-files-62hq83894, 1947-coded-message, fbi-laboratory, informant-follow-up, newsday-long-island, radio-ham, fcc-amateur-records, martian-authorship-claim, editorial-judgment-as-disposition, primary-source]
-entities_mentioned: ["Mrs. A. Sarbanis", "W. V. Cleveland", "J. P. Coyne", "Radio Ham", "Newsday", "FBI Laboratory", "New York FBI Office", "FCC", "Federal Communications Commission", "Federal Bureau of Investigation", "Mr. Tolson", "Mr. E. A. Tamm", "Mr. Ladd", "Mr. Nichols"]
+date_ingested: 2026-05-09T00:00:00.000Z
+source_date: 1947-09-17T00:00:00.000Z
+publisher: 'Federal Bureau of Investigation / W. V. Cleveland, to J. P. Coyne'
+tags:
+  - ufo-files-62hq83894
+  - 1947-coded-message
+  - fbi-laboratory
+  - informant-follow-up
+  - newsday-long-island
+  - radio-ham
+  - fcc-amateur-records
+  - martian-authorship-claim
+  - editorial-judgment-as-disposition
+  - primary-source
+entities_mentioned:
+  - Mrs. A. Sarbanis
+  - W. V. Cleveland
+  - J. P. Coyne
+  - Radio Ham
+  - Newsday
+  - FBI Laboratory
+  - New York FBI Office
+  - FCC
+  - Federal Communications Commission
+  - Federal Bureau of Investigation
+  - Mr. Tolson
+  - Mr. E. A. Tamm
+  - Mr. Ladd
+  - Mr. Nichols
 thread: 1947-origin
 significance: low
+caseId: FBI-62HQ-83894/fbi-investigative-follow-up-witness-1947
+summary: >-
+  On September 17, 1947, FBI Headquarters official W. V. Cleveland submitted an
+  internal memorandum to Mr. J. P.
+excerpt: >-
+  On September 17, 1947, FBI Headquarters official W. V. Cleveland submitted an
+  internal memorandum to Mr.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0157.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+  releaseDate: '1947-09-17'
+  officialName: 'Federal Bureau of Investigation / W. V. Cleveland, to J. P. Coyne'
+  retrievedDate: 'Fri May 08 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: low
+date: '1947-09-17'
+threads:
+  - 1947-origin
+entities:
+  - Mrs. A. Sarbanis
+  - W. V. Cleveland
+  - J. P. Coyne
+  - Radio Ham
+  - Newsday
+  - FBI Laboratory
+  - New York FBI Office
+  - FCC
+  - Federal Communications Commission
+  - Federal Bureau of Investigation
+  - Mr. Tolson
+  - Mr. E. A. Tamm
+  - Mr. Ladd
+  - Mr. Nichols
+relationships:
+  - target: fbi-investigative-memo-case-follow-up-1947
+    type: mentions
+    confidence: medium
+    explanation: fbi-investigative-memo-case-follow-up-1947
+  - target: civilian-correspondence-hoover-pattern-1949-1950
+    type: mentions
+    confidence: medium
+    explanation: civilian-correspondence-hoover-pattern-1949-1950
+  - target: danforth-illinois-instrument-examination-september-1947
+    type: mentions
+    confidence: medium
+    explanation: danforth-illinois-instrument-examination-september-1947
+  - target: parker-rix-ledges-lebanon-september-1947
+    type: mentions
+    confidence: medium
+    explanation: parker-rix-ledges-lebanon-september-1947
+  - target: oak-ridge-gasser-atomic-propulsion-1947-1949
+    type: mentions
+    confidence: medium
+    explanation: oak-ridge-gasser-atomic-propulsion-1947-1949
 ---
 
 ## Summary

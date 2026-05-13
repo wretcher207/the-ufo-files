@@ -1,16 +1,93 @@
 ---
-title: "FBI 62-HQ-83894 — Kenneth Arnold Cascade Mountain Sighting, June 24, 1947 (FBI/4AF Investigative Interview + Original Narrative)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0159.md, page-0161.md, page-0162.md, page-0163.md, page-0164.md, page-0165.md, page-0166.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Kenneth Arnold Cascade Mountain Sighting, June 24, 1947
+  (FBI/4AF Investigative Interview + Original Narrative)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-09
-source_date: 1947-06-24
-publisher: "Federal Bureau of Investigation / Fourth Air Force Intelligence"
-tags: [fbi, 62hq83894, kenneth-arnold, 1947, cascade-mountains, washington, pilot-witness, sighting, primary-source, original-narrative]
-entities_mentioned: [kenneth-arnold, frank-m-brown-cic, donald-l-springer-4af, mt-rainier, mt-adams, yakima-wa, pendleton-or, sonny-robinson-aaf, capt-smith-united-airlines]
+date_ingested: 2026-05-09T00:00:00.000Z
+source_date: 1947-06-24T00:00:00.000Z
+publisher: Federal Bureau of Investigation / Fourth Air Force Intelligence
+tags:
+  - fbi
+  - 62hq83894
+  - kenneth-arnold
+  - 1947
+  - cascade-mountains
+  - washington
+  - pilot-witness
+  - sighting
+  - primary-source
+  - original-narrative
+entities_mentioned:
+  - kenneth-arnold
+  - frank-m-brown-cic
+  - donald-l-springer-4af
+  - mt-rainier
+  - mt-adams
+  - yakima-wa
+  - pendleton-or
+  - sonny-robinson-aaf
+  - capt-smith-united-airlines
 thread: 1947-origin
 significance: high
+caseId: FBI-62HQ-83894/kenneth-arnold-cascade-1947
+summary: >-
+  FBI/4AF investigative file documenting the Kenneth Arnold sighting of June 24,
+  1947, over the Cascade Mountain Range of Washington State.
+excerpt: >-
+  FBI/4AF investigative file documenting the Kenneth Arnold sighting of June 24,
+  1947, over the Cascade Mountain Range of Washington State. This is the
+  original-source interview and Arnold's own written narrative account of
+  observing nine peculiar objects in formation. CIC Special Agent Frank M.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0159.md,
+  page-0161.md, page-0162.md, page-0163.md, page-0164.md, page-0165.md,
+  page-0166.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1947-06-24'
+  officialName: Federal Bureau of Investigation / Fourth Air Force Intelligence
+  retrievedDate: 'Fri May 08 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: high
+date: '1947-06-24'
+threads:
+  - 1947-origin
+entities:
+  - kenneth-arnold
+  - frank-m-brown-cic
+  - donald-l-springer-4af
+  - mt-rainier
+  - mt-adams
+  - yakima-wa
+  - pendleton-or
+  - sonny-robinson-aaf
+  - capt-smith-united-airlines
+witnesses:
+  - Arnold on July
+relationships:
+  - target: hatfield-ellison-myrtle-creek-1947
+    type: mentions
+    confidence: medium
+    explanation: hatfield-ellison-myrtle-creek-1947
+  - target: peyerl-1944-german-aircraft
+    type: mentions
+    confidence: medium
+    explanation: peyerl-1944-german-aircraft
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
 ---
 
 ## Summary

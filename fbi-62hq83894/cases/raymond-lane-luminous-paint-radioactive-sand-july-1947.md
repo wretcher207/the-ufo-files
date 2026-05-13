@@ -1,16 +1,81 @@
 ---
-title: "FBI 62-HQ-83894 — Raymond Edward Lane Luminous Paint & Radioactive Sand Incident, July 1947"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0008.md, page-0013.md, page-0014.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Raymond Edward Lane Luminous Paint & Radioactive Sand
+  Incident, July 1947
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-10
+date_ingested: 2026-05-10T00:00:00.000Z
 source_date: 1947-07-09 to 1947-08-08
-publisher: "Federal Bureau of Investigation / Detroit Office"
-tags: [fbi, 62hq83894, 1947, physical-evidence, radioactivity, dow-chemical, michigan, hoax-assessment, credibility-analysis, primary-source]
-entities_mentioned: [raymond-edward-lane, laura-lane, dow-chemical-company, selfridge-field, los-alamos-project, midland-michigan]
+publisher: Federal Bureau of Investigation / Detroit Office
+tags:
+  - fbi
+  - 62hq83894
+  - 1947
+  - physical-evidence
+  - radioactivity
+  - dow-chemical
+  - michigan
+  - hoax-assessment
+  - credibility-analysis
+  - primary-source
+entities_mentioned:
+  - raymond-edward-lane
+  - laura-lane
+  - dow-chemical-company
+  - selfridge-field
+  - los-alamos-project
+  - midland-michigan
 thread: 1947-origin
 significance: medium
+caseId: FBI-62HQ-83894/raymond-lane-luminous-paint-radioactive-sand-july-1947
+summary: >-
+  FBI case file documenting a July 9, 1947 incident involving Raymond Edward
+  Lane (Dow Chemical Company employee since 1922) and his wife Laura, who
+  reported witnessing a "ball of white" burning…
+excerpt: >-
+  FBI case file documenting a July 9, 1947 incident involving Raymond Edward
+  Lane (Dow Chemical Company employee since 1922) and his wife Laura, who
+  reported witnessing a "ball of white" burning approximately one foot above the
+  ground in a field near Midland, Michigan.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0008.md,
+  page-0013.md, page-0014.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: 1947-07-09 to 1947-08-08
+  officialName: Federal Bureau of Investigation / Detroit Office
+  retrievedDate: 'Sat May 09 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: 1947-07-09 to 1947-08-08
+threads:
+  - 1947-origin
+entities:
+  - raymond-edward-lane
+  - laura-lane
+  - dow-chemical-company
+  - selfridge-field
+  - los-alamos-project
+  - midland-michigan
+relationships:
+  - target: government-secret-experiment-theory-august-1947
+    type: mentions
+    confidence: medium
+    explanation: government-secret-experiment-theory-august-1947
+  - target: oak-ridge-gasser-atomic-propulsion-1947-1949
+    type: mentions
+    confidence: medium
+    explanation: oak-ridge-gasser-atomic-propulsion-1947-1949
+  - target: project-grudge-vital-installations-1948-1949
+    type: mentions
+    confidence: medium
+    explanation: project-grudge-vital-installations-1948-1949
 ---
 
 ## Summary

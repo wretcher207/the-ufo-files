@@ -1,16 +1,112 @@
 ---
-title: "FBI 62-HQ-83894 — Oak Ridge Flying Saucers, Gasser Atomic-Propulsion Interview, AEC Photograph-Suppression Operation, and the Bureau Policy Reversal of March 1949"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0084.md, page-0086.md, page-0087.md, page-0088.md, page-0103.md, page-0105.md, page-0109.md, page-0110.md, page-0111.md, page-0112.md, page-0113.md, page-0118.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Oak Ridge Flying Saucers, Gasser Atomic-Propulsion
+  Interview, AEC Photograph-Suppression Operation, and the Bureau Policy
+  Reversal of March 1949
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1949-01-10
-publisher: "FBI / U.S. Department of Justice"
-tags: [fbi, 62-hq-83894, oak-ridge, atomic-propulsion, gasser-interview, presley-photographs, aec-suppression, project-grudge-precursor, soviet-attribution, wright-field, primary-source]
-entities_mentioned: [c-d-gasser, g-j-rathman, w-r-presley, c-c-mcswain, d-m-ladd, h-b-fletcher, j-edgar-hoover, atomic-energy-commission, nepa-project, wright-patterson-afb, air-materiel-command, oak-ridge-national-laboratory]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1949-01-10T00:00:00.000Z
+publisher: FBI / U.S. Department of Justice
+tags:
+  - fbi
+  - 62-hq-83894
+  - oak-ridge
+  - atomic-propulsion
+  - gasser-interview
+  - presley-photographs
+  - aec-suppression
+  - project-grudge-precursor
+  - soviet-attribution
+  - wright-field
+  - primary-source
+entities_mentioned:
+  - c-d-gasser
+  - g-j-rathman
+  - w-r-presley
+  - c-c-mcswain
+  - d-m-ladd
+  - h-b-fletcher
+  - j-edgar-hoover
+  - atomic-energy-commission
+  - nepa-project
+  - wright-patterson-afb
+  - air-materiel-command
+  - oak-ridge-national-laboratory
 thread: 1948-49-hardening
 significance: high
+caseId: FBI-62HQ-83894/oak-ridge-gasser-atomic-propulsion-1947-1949
+summary: >-
+  Between July 1947 and March 1949, the Atomic Energy Commission, the U.S. Air
+  Force Air Materiel Command, and the FBI executed an investigation of two
+  photographs purportedly showing a "flying saucer"…
+excerpt: >-
+  S. Air Force Air Materiel Command, and the FBI executed an investigation of
+  two photographs purportedly showing a "flying saucer" over Oak Ridge,
+  Tennessee — taken by W. R.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0084.md,
+  page-0086.md, page-0087.md, page-0088.md, page-0103.md, page-0105.md,
+  page-0109.md, page-0110.md, page-0111.md, page-0112.md, page-0113.md,
+  page-0118.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_4.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1949-01-10'
+  officialName: FBI / U.S. Department of Justice
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: high
+date: '1949-01-10'
+threads:
+  - 1948-49-hardening
+entities:
+  - c-d-gasser
+  - g-j-rathman
+  - w-r-presley
+  - c-c-mcswain
+  - d-m-ladd
+  - h-b-fletcher
+  - j-edgar-hoover
+  - atomic-energy-commission
+  - nepa-project
+  - wright-patterson-afb
+  - air-materiel-command
+  - oak-ridge-national-laboratory
+relationships:
+  - target: maury-island-1947
+    type: mentions
+    confidence: medium
+    explanation: maury-island-1947
+  - target: muroc-1947-cic-affidavits
+    type: mentions
+    confidence: medium
+    explanation: muroc-1947-cic-affidavits
+  - target: 1947-california-montana-cic
+    type: mentions
+    confidence: medium
+    explanation: 1947-california-montana-cic
+  - target: davidson-brown-crash-mission-report
+    type: mentions
+    confidence: medium
+    explanation: davidson-brown-crash-mission-report
+  - target: philadelphia-1950-soap-suds-disc
+    type: mentions
+    confidence: medium
+    explanation: philadelphia-1950-soap-suds-disc
+  - target: rhodes-phoenix-photographs-1947
+    type: mentions
+    confidence: medium
+    explanation: rhodes-phoenix-photographs-1947
+  - target: uap-disclosure
+    type: mentions
+    confidence: medium
+    explanation: UAP disclosure (concept)
 ---
 
 ## Summary

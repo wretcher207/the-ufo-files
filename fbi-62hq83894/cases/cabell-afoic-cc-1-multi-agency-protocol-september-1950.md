@@ -1,16 +1,87 @@
 ---
-title: "FBI 62-HQ-83894 — Major General C. P. Cabell AFOIC-CC-1 'Reporting of Information on Unconventional Aircraft' Multi-Agency Protocol Directive, September 8, 1950 (Institutional Formalization, Multi-Agency Coordination, Reporting Requirements Standardization)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/006-65_HS1-834228961_62-HQ-83894_Section_6/page-0010.md, page-0011.md, page-0012.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf"
-mirror_url: ""
+title: >-
+  FBI 62-HQ-83894 — Major General C. P. Cabell AFOIC-CC-1 'Reporting of
+  Information on Unconventional Aircraft' Multi-Agency Protocol Directive,
+  September 8, 1950 (Institutional Formalization, Multi-Agency Coordination,
+  Reporting Requirements Standardization)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf
+mirror_url: ''
 domain: cross-domain
-date_ingested: 2026-05-09
-source_date: 1950-09-08
-publisher: "Director of Intelligence, Air Force / Major General C. P. Cabell / Federal Bureau of Investigation"
-tags: [ufo-files-62hq83894, 1950-multi-agency-protocol, institutional-formalization, reporting-standardization, air-force-directive, fbi-coordination, primary-source]
-entities_mentioned: ["Major General C. P. Cabell", "Air Force Intelligence", "FBI Director", "US Army G-2", "Naval Intelligence", "US Coast Guard Intelligence", "State Department", "CIA", "Air Materiel Command", "Major Air Commands"]
+date_ingested: 2026-05-09T00:00:00.000Z
+source_date: 1950-09-08T00:00:00.000Z
+publisher: >-
+  Director of Intelligence, Air Force / Major General C. P. Cabell / Federal
+  Bureau of Investigation
+tags:
+  - ufo-files-62hq83894
+  - 1950-multi-agency-protocol
+  - institutional-formalization
+  - reporting-standardization
+  - air-force-directive
+  - fbi-coordination
+  - primary-source
+entities_mentioned:
+  - Major General C. P. Cabell
+  - Air Force Intelligence
+  - FBI Director
+  - US Army G-2
+  - Naval Intelligence
+  - US Coast Guard Intelligence
+  - State Department
+  - CIA
+  - Air Materiel Command
+  - Major Air Commands
 thread: 1949-50-disinfo
 significance: high
+caseId: FBI-62HQ-83894/cabell-afoic-cc-1-multi-agency-protocol-september-1950
+summary: >-
+  On September 8, 1950, Major General C. P. Cabell, Director of Intelligence of
+  the Air Force, issued AFOIC-CC-1 directive "Reporting of Information on
+  Unconventional Aircraft" establishing the first…
+excerpt: 'On September 8, 1950, Major General C. P. S.'
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/006-65_HS1-834228961_62-HQ-83894_Section_6/page-0010.md,
+  page-0011.md, page-0012.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf
+  releaseDate: '1950-09-08'
+  officialName: >-
+    Director of Intelligence, Air Force / Major General C. P. Cabell / Federal
+    Bureau of Investigation
+  retrievedDate: 'Fri May 08 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: high
+date: '1950-09-08'
+threads:
+  - 1949-50-disinfo
+entities:
+  - Major General C. P. Cabell
+  - Air Force Intelligence
+  - FBI Director
+  - US Army G-2
+  - Naval Intelligence
+  - US Coast Guard Intelligence
+  - State Department
+  - CIA
+  - Air Materiel Command
+  - Major Air Commands
+relationships:
+  - target: air-defense-command-institutional-baseline-policy-february-1948
+    type: mentions
+    confidence: medium
+    explanation: air-defense-command-institutional-baseline-policy-february-1948
+  - target: stanfield-lapaz-holloman-february-1950
+    type: mentions
+    confidence: medium
+    explanation: stanfield-lapaz-holloman-february-1950
+  - target: merchant-wichita-falls-patriotic-civilian-august-1948
+    type: mentions
+    confidence: medium
+    explanation: merchant-wichita-falls-patriotic-civilian-august-1948
 ---
 
 ## Summary

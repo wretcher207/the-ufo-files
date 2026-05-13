@@ -1,16 +1,87 @@
 ---
-title: "FBI 62-HQ-83894 — Cpl Lertis E. Stanfield / Dr. Lincoln LaPaz Holloman AFB Photograph, February 24-25, 1950 (Military Witness, Expert Scientific Analysis, Conventional Elimination, Project Twinkle Precursor)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/006-65_HS1-834228961_62-HQ-83894_Section_6/page-0033.md, page-0031.md, page-0027.md, page-0026.md, page-0004.md, page-0002.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf"
-mirror_url: ""
+title: >-
+  FBI 62-HQ-83894 — Cpl Lertis E. Stanfield / Dr. Lincoln LaPaz Holloman AFB
+  Photograph, February 24-25, 1950 (Military Witness, Expert Scientific
+  Analysis, Conventional Elimination, Project Twinkle Precursor)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf
+mirror_url: ''
 domain: cross-domain
-date_ingested: 2026-05-09
-source_date: 1950-02-24
-publisher: "17th District OSI, Holloman Air Force Base / Institute of Meteoritics, University of New Mexico / FBI"
-tags: [ufo-files-62hq83894, 1950-new-mexico, military-witness, expert-analysis, photograph, scientific-elimination, project-twinkle, green-fireballs, primary-source]
-entities_mentioned: ["Cpl Lertis E. Stanfield", "Dr. Lincoln LaPaz", "Lt. Colonel Doyle Rees", "17th District OSI", "Holloman Air Force Base", "Institute of Meteoritics", "University of New Mexico", "Land-Air Incorporated", "Federal Bureau of Investigation", "Air Materiel Command", "Sandia Base"]
+date_ingested: 2026-05-09T00:00:00.000Z
+source_date: 1950-02-24T00:00:00.000Z
+publisher: >-
+  17th District OSI, Holloman Air Force Base / Institute of Meteoritics,
+  University of New Mexico / FBI
+tags:
+  - ufo-files-62hq83894
+  - 1950-new-mexico
+  - military-witness
+  - expert-analysis
+  - photograph
+  - scientific-elimination
+  - project-twinkle
+  - green-fireballs
+  - primary-source
+entities_mentioned:
+  - Cpl Lertis E. Stanfield
+  - Dr. Lincoln LaPaz
+  - Lt. Colonel Doyle Rees
+  - 17th District OSI
+  - Holloman Air Force Base
+  - Institute of Meteoritics
+  - University of New Mexico
+  - Land-Air Incorporated
+  - Federal Bureau of Investigation
+  - Air Materiel Command
+  - Sandia Base
 thread: 1949-50-disinfo
 significance: medium
+caseId: FBI-62HQ-83894/stanfield-lapaz-holloman-february-1950
+summary: >-
+  On February 24-25, 1950, Corporal Lertis E. Stanfield of Holloman Air Force
+  Base photographed an unknown aerial phenomenon near Datil, New Mexico. Dr.
+excerpt: >-
+  On February 24-25, 1950, Corporal Lertis E. Stanfield of Holloman Air Force
+  Base photographed an unknown aerial phenomenon near Datil, New Mexico. Dr.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/006-65_HS1-834228961_62-HQ-83894_Section_6/page-0033.md,
+  page-0031.md, page-0027.md, page-0026.md, page-0004.md, page-0002.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf
+  releaseDate: '1950-02-24'
+  officialName: >-
+    17th District OSI, Holloman Air Force Base / Institute of Meteoritics,
+    University of New Mexico / FBI
+  retrievedDate: 'Fri May 08 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1950-02-24'
+threads:
+  - 1949-50-disinfo
+entities:
+  - Cpl Lertis E. Stanfield
+  - Dr. Lincoln LaPaz
+  - Lt. Colonel Doyle Rees
+  - 17th District OSI
+  - Holloman Air Force Base
+  - Institute of Meteoritics
+  - University of New Mexico
+  - Land-Air Incorporated
+  - Federal Bureau of Investigation
+  - Air Materiel Command
+  - Sandia Base
+relationships:
+  - target: air-defense-command-institutional-baseline-policy-february-1948
+    type: mentions
+    confidence: medium
+    explanation: air-defense-command-institutional-baseline-policy-february-1948
+  - target: jones-winchell-cuneo-1947-1949
+    type: mentions
+    confidence: medium
+    explanation: jones-winchell-cuneo-1947-1949
 ---
 
 ## Summary

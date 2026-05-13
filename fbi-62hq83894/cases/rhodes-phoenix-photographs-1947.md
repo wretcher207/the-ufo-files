@@ -1,16 +1,106 @@
 ---
-title: "FBI 62-HQ-83894 — William Albert Rhodes Phoenix Photographs, July 1947 and the 1947–1950 Recovery Dispute"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0066.md, page-0115.md, page-0116.md, page-0117.md, page-0118.md, page-0119.md, raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0207.md, page-0209.md, page-0210.md, page-0211.md, page-0212.md, page-0213.md, raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0119.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — William Albert Rhodes Phoenix Photographs, July 1947 and the
+  1947–1950 Recovery Dispute
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-08
-source_date: 1947-07-07
-publisher: "FBI / U.S. Department of Justice"
-tags: [fbi, 62-hq-83894, rhodes-photographs, phoenix-1947, primary-source, hoover-teletype, identity-concealment, jurisdictional-dispute, aaf-a2, osi]
-entities_mentioned: [william-albert-rhodes, j-bailey-brower, george-fugate-jr, donald-springer, harry-kimball, heber-m-clegg, j-edgar-hoover, d-m-ladd, lynn-c-aldrich, walter-winchell, ernest-cuneo, true-magazine]
+date_ingested: 2026-05-08T00:00:00.000Z
+source_date: 1947-07-07T00:00:00.000Z
+publisher: FBI / U.S. Department of Justice
+tags:
+  - fbi
+  - 62-hq-83894
+  - rhodes-photographs
+  - phoenix-1947
+  - primary-source
+  - hoover-teletype
+  - identity-concealment
+  - jurisdictional-dispute
+  - aaf-a2
+  - osi
+entities_mentioned:
+  - william-albert-rhodes
+  - j-bailey-brower
+  - george-fugate-jr
+  - donald-springer
+  - harry-kimball
+  - heber-m-clegg
+  - j-edgar-hoover
+  - d-m-ladd
+  - lynn-c-aldrich
+  - walter-winchell
+  - ernest-cuneo
+  - true-magazine
 thread: 1947-origin
 significance: medium
+caseId: FBI-62HQ-83894/rhodes-phoenix-photographs-1947
+summary: >-
+  William Albert Rhodes is one of the most-cited witnesses of the early
+  flying-disc era because he produced the first widely-circulated photographs of
+  an unconventional aerial object — a pair of…
+excerpt: >-
+  m. on **July 7, 1947**, the day of the Phoenix storm and forty-eight hours
+  after the Roswell Army Air Field "captured a flying disc" press release.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0066.md,
+  page-0115.md, page-0116.md, page-0117.md, page-0118.md, page-0119.md,
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0207.md,
+  page-0209.md, page-0210.md, page-0211.md, page-0212.md, page-0213.md,
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0119.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1947-07-07'
+  officialName: FBI / U.S. Department of Justice
+  retrievedDate: 'Thu May 07 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1947-07-07'
+threads:
+  - 1947-origin
+entities:
+  - william-albert-rhodes
+  - j-bailey-brower
+  - george-fugate-jr
+  - donald-springer
+  - harry-kimball
+  - heber-m-clegg
+  - j-edgar-hoover
+  - d-m-ladd
+  - lynn-c-aldrich
+  - walter-winchell
+  - ernest-cuneo
+  - true-magazine
+relationships:
+  - target: maury-island-1947
+    type: mentions
+    confidence: medium
+    explanation: maury-island-1947
+  - target: muroc-1947-cic-affidavits
+    type: mentions
+    confidence: medium
+    explanation: muroc-1947-cic-affidavits
+  - target: 1947-california-montana-cic
+    type: mentions
+    confidence: medium
+    explanation: 1947-california-montana-cic
+  - target: davidson-brown-crash-mission-report
+    type: mentions
+    confidence: medium
+    explanation: davidson-brown-crash-mission-report
+  - target: philadelphia-1950-soap-suds-disc
+    type: mentions
+    confidence: medium
+    explanation: philadelphia-1950-soap-suds-disc
+  - target: uap-disclosure
+    type: mentions
+    confidence: medium
+    explanation: UAP disclosure (concept)
 ---
 
 ## Summary

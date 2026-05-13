@@ -1,16 +1,109 @@
 ---
-title: "FBI 62-HQ-83894 — Army Intelligence Branch NOPE Multi-Agency Document Chain for Halfery UAP Photographs, May 1950 (CID to Intelligence Branch Chain of Custody, Pre-FBI Civilian UAP Material Handling, NOPE Case-Tracking System T4-15-0)"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0150.md, page-0151.md, page-0152.md, page-0153.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Army Intelligence Branch NOPE Multi-Agency Document Chain
+  for Halfery UAP Photographs, May 1950 (CID to Intelligence Branch Chain of
+  Custody, Pre-FBI Civilian UAP Material Handling, NOPE Case-Tracking System
+  T4-15-0)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-09
-source_date: 1950-05-23
-publisher: "U.S. Army Intelligence Branch, New Orleans Port of Embarkation (NOPE) / 117th CIC Detachment Field Office"
-tags: [ufo-files-62hq83894, 1950-army-coordination, multi-agency-chain-of-custody, intelligence-branch, nope, cid-cic, halfery, photograph-handling-protocol, case-tracking-system, primary-source, pursue, release-01]
-entities_mentioned: ["Louis Rebillia Jr.", "Agent John F. Quinn", "John R. Espesite", "Michael Halfery", "117th CIC Detachment", "NOPE CID", "Intelligence Branch NOPE", "New Orleans Port of Embarkation", "Major Merle L. Mennie"]
+date_ingested: 2026-05-09T00:00:00.000Z
+source_date: 1950-05-23T00:00:00.000Z
+publisher: >-
+  U.S. Army Intelligence Branch, New Orleans Port of Embarkation (NOPE) / 117th
+  CIC Detachment Field Office
+tags:
+  - ufo-files-62hq83894
+  - 1950-army-coordination
+  - multi-agency-chain-of-custody
+  - intelligence-branch
+  - nope
+  - cid-cic
+  - halfery
+  - photograph-handling-protocol
+  - case-tracking-system
+  - primary-source
+  - pursue
+  - release-01
+entities_mentioned:
+  - Louis Rebillia Jr.
+  - Agent John F. Quinn
+  - John R. Espesite
+  - Michael Halfery
+  - 117th CIC Detachment
+  - NOPE CID
+  - Intelligence Branch NOPE
+  - New Orleans Port of Embarkation
+  - Major Merle L. Mennie
 thread: 1949-50-disinfo
 significance: medium
+caseId: FBI-62HQ-83894/intelligence-branch-multi-agency-coordination-1950
+summary: >-
+  Pages 150-153 of FBI 62-HQ-83894 Section 5 constitute the Army-internal
+  coordination layer of the Halfery UAP photograph case — the document chain
+  that processed civilian-submitted UAP material…
+excerpt: >-
+  Pages 150-153 of FBI 62-HQ-83894 Section 5 constitute the Army-internal
+  coordination layer of the Halfery UAP photograph case — the document chain
+  that processed civilian-submitted UAP material through Army channels before
+  the FBI received it.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0150.md,
+  page-0151.md, page-0152.md, page-0153.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_5.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1950-05-23'
+  officialName: >-
+    U.S. Army Intelligence Branch, New Orleans Port of Embarkation (NOPE) /
+    117th CIC Detachment Field Office
+  retrievedDate: 'Fri May 08 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: >-
+  U.S. Army Intelligence Branch, New Orleans Port of Embarkation (NOPE) / 117th
+  CIC Detachment Field Office
+classification: Declassified
+confidence: medium
+date: '1950-05-23'
+threads:
+  - 1949-50-disinfo
+entities:
+  - Louis Rebillia Jr.
+  - Agent John F. Quinn
+  - John R. Espesite
+  - Michael Halfery
+  - 117th CIC Detachment
+  - NOPE CID
+  - Intelligence Branch NOPE
+  - New Orleans Port of Embarkation
+  - Major Merle L. Mennie
+relationships:
+  - target: d3-briefing-halfery-mister-x-may-1950
+    type: mentions
+    confidence: medium
+    explanation: d3-briefing-halfery-mister-x-may-1950
+  - target: cabell-afoic-cc-1-multi-agency-protocol-september-1950
+    type: mentions
+    confidence: medium
+    explanation: cabell-afoic-cc-1-multi-agency-protocol-september-1950
+  - target: danforth-illinois-instrument-examination-september-1947
+    type: mentions
+    confidence: medium
+    explanation: danforth-illinois-instrument-examination-september-1947
+  - target: houston-noack-physical-object-1948
+    type: mentions
+    confidence: medium
+    explanation: houston-noack-physical-object-1948
+  - target: guy-hottel-three-saucers-new-mexico-1950
+    type: mentions
+    confidence: medium
+    explanation: guy-hottel-three-saucers-new-mexico-1950
+  - target: air-defense-command-institutional-baseline-policy-february-1948
+    type: mentions
+    confidence: medium
+    explanation: air-defense-command-institutional-baseline-policy-february-1948
 ---
 
 ## Summary

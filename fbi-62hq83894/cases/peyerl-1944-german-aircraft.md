@@ -1,16 +1,82 @@
 ---
-title: "FBI 62-HQ-83894 — Paul L. Peyerl 1944 German WWII Saucer-Shaped Aircraft, June 1967 Miami Office Report"
-source: "raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0065.md"
-origin_url: "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf"
-mirror_url: "https://github.com/DenisSergeevitch/UFO-USA"
+title: >-
+  FBI 62-HQ-83894 — Paul L. Peyerl 1944 German WWII Saucer-Shaped Aircraft, June
+  1967 Miami Office Report
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf
+mirror_url: 'https://github.com/DenisSergeevitch/UFO-USA'
 domain: cross-domain
-date_ingested: 2026-05-09
-source_date: 1967-06-08
-publisher: "Federal Bureau of Investigation / Miami Office"
-tags: [fbi, 62hq83894, wwii, german-aircraft, test-pilot, 1944, luftwaffe, austria, saucer-shaped, photographic-evidence, primary-source]
-entities_mentioned: [paul-l-peyerl, kuehr, luftwaffe, black-forest-austria, miami-fbi-office]
+date_ingested: 2026-05-09T00:00:00.000Z
+source_date: 1967-06-08T00:00:00.000Z
+publisher: Federal Bureau of Investigation / Miami Office
+tags:
+  - fbi
+  - 62hq83894
+  - wwii
+  - german-aircraft
+  - test-pilot
+  - 1944
+  - luftwaffe
+  - austria
+  - saucer-shaped
+  - photographic-evidence
+  - primary-source
+entities_mentioned:
+  - paul-l-peyerl
+  - kuehr
+  - luftwaffe
+  - black-forest-austria
+  - miami-fbi-office
 thread: 1947-origin
 significance: medium
+caseId: FBI-62HQ-83894/peyerl-1944-german-aircraft
+summary: >-
+  FBI Miami Office report (June 8, 1967; FBI serial 62-0-11328) documenting the
+  statement of PAUL L.
+excerpt: >-
+  FBI Miami Office report (June 8, 1967; FBI serial 62-0-11328) documenting the
+  statement of PAUL L. PEYERL, a German Luftwaffe test pilot who claims to have
+  photographed a saucer-shaped aircraft during a secret test program in the
+  Black Forest of Austria in November 1944.
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0065.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf
+  officialMirror: 'https://github.com/DenisSergeevitch/UFO-USA'
+  releaseDate: '1967-06-08'
+  officialName: Federal Bureau of Investigation / Miami Office
+  retrievedDate: 'Fri May 08 2026 20:00:00 GMT-0400 (Eastern Daylight Time)'
+nodeType: document
+agency: FBI
+classification: Declassified
+confidence: medium
+date: '1967-06-08'
+threads:
+  - 1947-origin
+entities:
+  - paul-l-peyerl
+  - kuehr
+  - luftwaffe
+  - black-forest-austria
+  - miami-fbi-office
+relationships:
+  - target: davidson-brown-crash-mission-report
+    type: mentions
+    confidence: medium
+    explanation: davidson-brown-crash-mission-report
+  - target: section-10-1966-1973-civilian-correspondent-cluster-post-blue-book
+    type: mentions
+    confidence: medium
+    explanation: section-10-1966-1973-civilian-correspondent-cluster-post-blue-book
+  - target: aaro
+    type: mentions
+    confidence: medium
+    explanation: AARO
+  - target: pursue-program
+    type: mentions
+    confidence: medium
+    explanation: PURSUE program
 ---
 
 ## Summary
