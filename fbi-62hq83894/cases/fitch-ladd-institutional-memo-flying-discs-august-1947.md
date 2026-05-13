@@ -1,4 +1,38 @@
 ---
+title: >-
+  FBI 62-HQ-83894, Coyne-to-Ladd Institutional Memo and Ladd-to-Director Brief,
+  August 1-8, 1947 (Bureau Leadership Internal Debate on Flying-Disc
+  Investigation Mandate, Bird-Dog Framing, Japanese-Balloon Precedent, Bulletin
+  #42 Action)
+origin_url: >-
+  https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+mirror_url: ''
+domain: cross-domain
+date_ingested: 2026-05-09T00:00:00.000Z
+source_date: 1947-08-08T00:00:00.000Z
+publisher: 'FBI (Director, D.M. Ladd, J.P. Coyne)'
+tags:
+  - ufo-files-62hq83894
+  - 1947-post-roswell
+  - institutional-memo
+  - bureau-leadership
+  - bird-dog-framing
+  - japanese-balloon-precedent
+  - bulletin-42
+  - primary-source
+entities_mentioned:
+  - J.P. Coyne
+  - D.M. Ladd
+  - J. Edgar Hoover
+  - Reynolds
+  - Garrett
+  - Schulgen
+  - LeMay
+  - Federal Bureau of Investigation
+  - Air Force Intelligence
+  - U.S. Army
+thread: 1947-origin
+significance: medium
 caseId: FBI-62HQ-83894/fitch-ladd-institutional-memo-flying-discs-august-1947
 nodeType: document
 agency: FBI
@@ -6,6 +40,15 @@ classification: Declassified
 confidence: medium
 witnesses:
   - David N. Johnson
+sourcePath: >-
+  raw/_ingested/ufo-files-2026-05-08/pursue-release-01/converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0130.md,
+  page-0131.md, page-0132.md
+source:
+  officialUrl: >-
+    https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf
+  releaseDate: '1947-08-08'
+  officialName: 'FBI (Director, D.M. Ladd, J.P. Coyne)'
+  retrievedDate: '2026-05-09'
 summary: >-
   FBI senior leadership memo from August 1947 debates the Bureau's role in
   flying-disc investigations, introducing the 'bird-dog for the Army' framing
@@ -13,10 +56,73 @@ summary: >-
 excerpt: >-
   J.P. Coyne's August 8 memo introduces the 'bird-dog for the Army'
   institutional framing: FBI conducts investigations, Army takes credit and
-  command — same pattern as WWII Japanese-balloon response. Ladd's August 1
-  brief reports Air Force Intel refuses to share information (highly classified)
-  and concludes no Federal Government concern warranting FBI investigation.
+  command, same pattern as WWII Japanese-balloon response. Ladd's August 1 brief
+  reports Air Force Intel refuses to share information (highly classified) and
+  concludes no Federal Government concern warranting FBI investigation.
 date: 1947-08
+threads:
+  - 1947-origin
+entities:
+  - J.P. Coyne
+  - D.M. Ladd
+  - J. Edgar Hoover
+  - Reynolds
+  - Garrett
+  - Schulgen
+  - LeMay
+  - Federal Bureau of Investigation
+  - Air Force Intelligence
+  - U.S. Army
+relationships:
+  - target: FBI-62HQ-83894/jones-winchell-cuneo-1947-1949
+    type: mentions
+    confidence: medium
+    explanation: 'Shared entities: j. edgar hoover, federal bureau of investigation'
+  - target: FBI-62HQ-83894/parker-rix-ledges-lebanon-september-1947
+    type: mentions
+    confidence: medium
+    explanation: 'Shared entities: j. edgar hoover, federal bureau of investigation'
+  - target: FBI-62HQ-83894/hackensack-new-jersey-august-1947
+    type: mentions
+    confidence: medium
+    explanation: 'Shared entities: federal bureau of investigation'
+  - target: FBI-62HQ-83894/fbi-investigative-follow-up-witness-1947
+    type: mentions
+    confidence: medium
+    explanation: 'Shared entities: federal bureau of investigation'
+  - target: FBI-62HQ-83894/portland-police-department-september-1947
+    type: mentions
+    confidence: medium
+    explanation: 'Shared entities: federal bureau of investigation'
+  - target: FBI-62HQ-83894/wenyon-rehoboth-delaware-1946
+    type: mentions
+    confidence: medium
+    explanation: 'Shared entities: federal bureau of investigation'
+  - target: >-
+      FBI-62HQ-83894/air-defense-command-institutional-baseline-policy-february-1948
+    type: mentions
+    confidence: medium
+    explanation: 'Shared entities: federal bureau of investigation'
+  - target: FBI-62HQ-83894/cabell-afoic-cc-1-multi-agency-protocol-september-1950
+    type: mentions
+    confidence: medium
+    explanation: 'Shared entities: air force intelligence'
+  - target: FBI-62HQ-83894/fbi-intelligence-coordination-ufo-protocol-1950
+    type: mentions
+    confidence: medium
+    explanation: 'Shared entities: j. edgar hoover'
+  - target: FBI-62HQ-83894/hoover-scully-communist-investigation-october-1950
+    type: mentions
+    confidence: medium
+    explanation: 'Shared entities: j. edgar hoover'
+  - target: FBI-62HQ-83894/merchant-wichita-falls-patriotic-civilian-august-1948
+    type: mentions
+    confidence: medium
+    explanation: 'Shared entities: federal bureau of investigation'
+  - target: FBI-62HQ-83894/stanfield-lapaz-holloman-february-1950
+    type: mentions
+    confidence: medium
+    explanation: 'Shared entities: federal bureau of investigation'
 ---
 ## [2026-05-09] ingest | 62-HQ-83894 case mining — pass 35 cases 13-14: FBI Institutional Memo and Gowen Field Aircraft Sighting (Section 2, August 1947)
 

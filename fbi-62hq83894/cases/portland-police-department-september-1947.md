@@ -79,6 +79,40 @@ witnesses:
   - J. R. Caldwell
   - Robert W. Shaylor
   - Donald W. Cowling
+relationships:
+  - target: FBI-62HQ-83894/fbi-investigative-follow-up-witness-1947
+    type: mentions
+    confidence: medium
+    explanation: 'Shared entities: federal bureau of investigation'
+  - target: FBI-62HQ-83894/parker-rix-ledges-lebanon-september-1947
+    type: mentions
+    confidence: medium
+    explanation: 'Shared entities: federal bureau of investigation'
+  - target: FBI-62HQ-83894/hackensack-new-jersey-august-1947
+    type: mentions
+    confidence: medium
+    explanation: 'Shared entities: federal bureau of investigation'
+  - target: FBI-62HQ-83894/wenyon-rehoboth-delaware-1946
+    type: mentions
+    confidence: medium
+    explanation: 'Shared entities: federal bureau of investigation'
+  - target: >-
+      FBI-62HQ-83894/air-defense-command-institutional-baseline-policy-february-1948
+    type: mentions
+    confidence: medium
+    explanation: 'Shared entities: federal bureau of investigation'
+  - target: FBI-62HQ-83894/jones-winchell-cuneo-1947-1949
+    type: mentions
+    confidence: medium
+    explanation: 'Shared entities: federal bureau of investigation'
+  - target: FBI-62HQ-83894/merchant-wichita-falls-patriotic-civilian-august-1948
+    type: mentions
+    confidence: medium
+    explanation: 'Shared entities: federal bureau of investigation'
+  - target: FBI-62HQ-83894/stanfield-lapaz-holloman-february-1950
+    type: mentions
+    confidence: medium
+    explanation: 'Shared entities: federal bureau of investigation'
 ---
 
 ## Summary
